@@ -1,22 +1,1202 @@
 [
-  {"id":"g1","category":"general","level":"normal","text":"Une apocalypse zombie commence. Tu prends qui dans ton équipe pour survivre ?"},
-  {"id":"g2","category":"general","level":"normal","text":"Tu montes une entreprise demain. Tu prends qui comme associé ?"},
-  {"id":"g3","category":"general","level":"normal","text":"Qui deviendrait célèbre pour une raison absolument ridicule ?"},
-  {"id":"g4","category":"general","level":"normal","text":"Tu dois cacher un lama dans ton appartement. Qui tu appelles ?"},
-  {"id":"g5","category":"general","level":"normal","text":"Qui pourrait rater son propre anniversaire parce qu’il était en ranked ?"},
-  {"id":"g6","category":"general","level":"normal","text":"Tu participes à un quiz de culture générale. Qui tu prends pour écraser la concurrence ?"},
-  {"id":"g7","category":"general","level":"normal","text":"Qui survivrait le plus longtemps sur une île déserte avec une cuillère et son ego ?"},
-  {"id":"g8","category":"general","level":"normal","text":"Qui réussirait à négocier un kebab gratuit à trois heures du matin ?"},
-  {"id":"g9","category":"general","level":"normal","text":"Qui transformerait une petite sortie tranquille en quête secondaire de huit heures ?"},
-  {"id":"g10","category":"general","level":"normal","text":"Qui tu prends pour préparer un repas pour vingt personnes sans brûler la maison ?"},
-  {"id":"g11","category":"general","level":"normal","text":"Qui pourrait devenir maire par accident ?"},
-  {"id":"g12","category":"general","level":"normal","text":"Tu dois improviser un concert. Qui tu prends sur scène ?"},
-  {"id":"g13","category":"general","level":"normal","text":"Qui lancerait un débat philosophique au milieu d’un fast-food ?"},
-  {"id":"g14","category":"general","level":"normal","text":"Qui se perdrait dans un couloir parfaitement droit ?"},
-  {"id":"g15","category":"general","level":"normal","text":"Qui tu prends pour faire croire à des extraterrestres que l’humanité est compétente ?"},
-  {"id":"g16","category":"general","level":"normal","text":"Qui ferait une présentation de trente slides pour choisir une pizza ?"},
-  {"id":"g17","category":"general","level":"normal","text":"Qui repartirait d’un mariage avec un nouveau groupe de potes et un grille-pain ?"},
-  {"id":"g18","category":"general","level":"normal","text":"Qui tu prends pour traverser le pays sans GPS ?"},
-  {"id":"g19","category":"general","level":"normal","text":"Qui aurait un plan de secours pour son plan de secours ?"},
-  {"id":"g20","category":"general","level":"normal","text":"Qui pourrait convaincre tout le groupe de porter le même déguisement ridicule ?"}
+  {
+    "id": "g1",
+    "category": "general",
+    "level": "normal",
+    "text": "Une apocalypse zombie commence. Tu prends qui dans ton équipe pour survivre ?"
+  },
+  {
+    "id": "g2",
+    "category": "general",
+    "level": "normal",
+    "text": "Tu montes une entreprise demain. Tu prends qui comme associé ?"
+  },
+  {
+    "id": "g3",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui deviendrait célèbre pour une raison absolument ridicule ?"
+  },
+  {
+    "id": "g4",
+    "category": "general",
+    "level": "normal",
+    "text": "Tu dois cacher un lama dans ton appartement. Qui tu appelles ?"
+  },
+  {
+    "id": "g5",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui pourrait rater son propre anniversaire parce qu’il était en ranked ?"
+  },
+  {
+    "id": "g6",
+    "category": "general",
+    "level": "normal",
+    "text": "Tu participes à un quiz de culture générale. Qui tu prends pour écraser la concurrence ?"
+  },
+  {
+    "id": "g7",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui survivrait le plus longtemps sur une île déserte avec une cuillère et son ego ?"
+  },
+  {
+    "id": "g8",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui réussirait à négocier un kebab gratuit à trois heures du matin ?"
+  },
+  {
+    "id": "g9",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui transformerait une petite sortie tranquille en quête secondaire de huit heures ?"
+  },
+  {
+    "id": "g10",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui tu prends pour préparer un repas pour vingt personnes sans brûler la maison ?"
+  },
+  {
+    "id": "g11",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui pourrait devenir maire par accident ?"
+  },
+  {
+    "id": "g12",
+    "category": "general",
+    "level": "normal",
+    "text": "Tu dois improviser un concert. Qui tu prends sur scène ?"
+  },
+  {
+    "id": "g13",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui lancerait un débat philosophique au milieu d’un fast-food ?"
+  },
+  {
+    "id": "g14",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui se perdrait dans un couloir parfaitement droit ?"
+  },
+  {
+    "id": "g15",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui tu prends pour faire croire à des extraterrestres que l’humanité est compétente ?"
+  },
+  {
+    "id": "g16",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui ferait une présentation de trente slides pour choisir une pizza ?"
+  },
+  {
+    "id": "g17",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui repartirait d’un mariage avec un nouveau groupe de potes et un grille-pain ?"
+  },
+  {
+    "id": "g18",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui tu prends pour traverser le pays sans GPS ?"
+  },
+  {
+    "id": "g19",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui aurait un plan de secours pour son plan de secours ?"
+  },
+  {
+    "id": "g20",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui pourrait convaincre tout le groupe de porter le même déguisement ridicule ?"
+  },
+  {
+    "id": "gaming-1",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui garde toutes ses potions pour un boss final qu’il ne rencontrera jamais ?"
+  },
+  {
+    "id": "gaming-2",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui passe trois heures à créer son personnage pour jouer vingt minutes ?"
+  },
+  {
+    "id": "gaming-3",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui tu prends pour un raid où personne n’a lu la stratégie ?"
+  },
+  {
+    "id": "gaming-4",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui active le mode difficile puis cherche immédiatement un tutoriel ?"
+  },
+  {
+    "id": "gaming-5",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui ouvrirait tous les coffres pendant que son équipe se fait attaquer ?"
+  },
+  {
+    "id": "gaming-6",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui te laisserait tomber pour terminer une quête de pêche ?"
+  },
+  {
+    "id": "gaming-7",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui annonce « dernière partie » alors que le soleil se lève ?"
+  },
+  {
+    "id": "gaming-8",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui joue le personnage le plus compliqué juste pour frimer au chargement ?"
+  },
+  {
+    "id": "gaming-9",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui tu prends pour survivre à une partie de jeu d’horreur en coopération ?"
+  },
+  {
+    "id": "gaming-10",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui achète un jeu pour jouer avec le groupe et ne le lance jamais ?"
+  },
+  {
+    "id": "gaming-11",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui explore toute la carte sauf l’endroit indiqué par l’objectif ?"
+  },
+  {
+    "id": "gaming-12",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui mettrait son PC à jour cinq minutes avant un tournoi ?"
+  },
+  {
+    "id": "gaming-13",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui tu prends pour résoudre une énigme pendant que le groupe panique ?"
+  },
+  {
+    "id": "gaming-14",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui recommence une sauvegarde après avoir vexé un PNJ ?"
+  },
+  {
+    "id": "gaming-15",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui pourrait perdre un duel contre le mannequin d’entraînement ?"
+  },
+  {
+    "id": "gaming-16",
+    "category": "gaming",
+    "level": "trash",
+    "text": "Qui insulte le jeu alors que son écran est éteint ?"
+  },
+  {
+    "id": "gaming-17",
+    "category": "gaming",
+    "level": "trash",
+    "text": "Qui dépense un salaire en skins pour rester nul avec élégance ?"
+  },
+  {
+    "id": "gaming-18",
+    "category": "gaming",
+    "level": "trash",
+    "text": "Qui ferait un discours de leader juste avant de détruire sa propre équipe ?"
+  },
+  {
+    "id": "gaming-19",
+    "category": "gaming",
+    "level": "trash",
+    "text": "Qui accuserait sa chaise d’être responsable de sa défaite ?"
+  },
+  {
+    "id": "gaming-20",
+    "category": "gaming",
+    "level": "trash",
+    "text": "Qui vendrait son inventaire, sa dignité et ses potes pour un objet légendaire ?"
+  },
+  {
+    "id": "lol-1",
+    "category": "lol",
+    "level": "normal",
+    "text": "Tu dois gagner ta dernière ranked de la soirée. Qui tu prends ?"
+  },
+  {
+    "id": "lol-2",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui pose une ward et attend des remerciements pendant dix minutes ?"
+  },
+  {
+    "id": "lol-3",
+    "category": "lol",
+    "level": "normal",
+    "text": "À qui tu confies le smite du Nashor décisif ?"
+  },
+  {
+    "id": "lol-4",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui part farmer pendant que son Nexus organise ses adieux ?"
+  },
+  {
+    "id": "lol-5",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui découvre les compétences de son champion pendant le chargement ?"
+  },
+  {
+    "id": "lol-6",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui tu prends comme support pour garder le groupe en vie ?"
+  },
+  {
+    "id": "lol-7",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui ping « j’arrive » depuis l’autre bout de la carte ?"
+  },
+  {
+    "id": "lol-8",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui achète six épées parce que ça a l’air agressif ?"
+  },
+  {
+    "id": "lol-9",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui oublie les objectifs dès qu’un ennemi est à portée ?"
+  },
+  {
+    "id": "lol-10",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui tu prends pour expliquer calmement une défaite au groupe ?"
+  },
+  {
+    "id": "lol-11",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui tente une invasion niveau 1 avec la confiance d’un champion du monde ?"
+  },
+  {
+    "id": "lol-12",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui veut absolument jouer son pick secret testé une seule fois en ARAM ?"
+  },
+  {
+    "id": "lol-13",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui arrive au dragon juste après le générique de fin ?"
+  },
+  {
+    "id": "lol-14",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui tu prends pour voler un objectif et partir comme si de rien n’était ?"
+  },
+  {
+    "id": "lol-15",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui prendrait Teemo uniquement pour le rire ?"
+  },
+  {
+    "id": "lol-16",
+    "category": "lol",
+    "level": "trash",
+    "text": "Qui finit 0/12 et écrit « team diff » avec un sérieux absolu ?"
+  },
+  {
+    "id": "lol-17",
+    "category": "lol",
+    "level": "trash",
+    "text": "Qui tilt avant même que les sbires aient signé leur contrat ?"
+  },
+  {
+    "id": "lol-18",
+    "category": "lol",
+    "level": "trash",
+    "text": "Qui ferait un procès à son jungler après avoir plongé seul sous une tour ?"
+  },
+  {
+    "id": "lol-19",
+    "category": "lol",
+    "level": "trash",
+    "text": "Qui a besoin d’un exorcisme après deux défaites en soloQ ?"
+  },
+  {
+    "id": "lol-20",
+    "category": "lol",
+    "level": "trash",
+    "text": "Qui transforme le chat d’équipe en cellule de crise diplomatique ?"
+  },
+  {
+    "id": "valorant-1",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Tu dois gagner un clutch décisif. À qui tu confies le clavier ?"
+  },
+  {
+    "id": "valorant-2",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui oublie la spike après avoir annoncé un plan parfait ?"
+  },
+  {
+    "id": "valorant-3",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui tu prends pour tenir un site avec presque aucun équipement ?"
+  },
+  {
+    "id": "valorant-4",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui met son équipe en pleine lumière avec une flash magistrale ?"
+  },
+  {
+    "id": "valorant-5",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui inspecte son couteau au pire moment possible ?"
+  },
+  {
+    "id": "valorant-6",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui dit « ils sont tous là » après avoir entendu un seul pas ?"
+  },
+  {
+    "id": "valorant-7",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui tu prends pour organiser une reprise de site sans hurler ?"
+  },
+  {
+    "id": "valorant-8",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui achète un Operator avec la précision d’une imprimante en panne ?"
+  },
+  {
+    "id": "valorant-9",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui pourrait faire une rotation complète sans croiser personne ?"
+  },
+  {
+    "id": "valorant-10",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui recharge après une seule balle, par principe ?"
+  },
+  {
+    "id": "valorant-11",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui négocie les économies de l’équipe puis achète quand même ?"
+  },
+  {
+    "id": "valorant-12",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui a une stratégie qui commence par « faites-moi confiance » ?"
+  },
+  {
+    "id": "valorant-13",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui tu prends pour défendre une spike avec trois secondes restantes ?"
+  },
+  {
+    "id": "valorant-14",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui confond une feinte avec une promenade touristique ?"
+  },
+  {
+    "id": "valorant-15",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui regarde le sol en espérant que les ennemis rampent ?"
+  },
+  {
+    "id": "valorant-16",
+    "category": "valorant",
+    "level": "trash",
+    "text": "Qui instalock Reyna pour visiter le bas du scoreboard ?"
+  },
+  {
+    "id": "valorant-17",
+    "category": "valorant",
+    "level": "trash",
+    "text": "Qui rate trente balles et accuse immédiatement le serveur ?"
+  },
+  {
+    "id": "valorant-18",
+    "category": "valorant",
+    "level": "trash",
+    "text": "Qui ferait le pire IGL depuis l’invention de la communication ?"
+  },
+  {
+    "id": "valorant-19",
+    "category": "valorant",
+    "level": "trash",
+    "text": "Qui réclame un drop comme si toute l’équipe lui devait un loyer ?"
+  },
+  {
+    "id": "valorant-20",
+    "category": "valorant",
+    "level": "trash",
+    "text": "Qui écrit « easy » après avoir été porté comme un sac de courses ?"
+  },
+  {
+    "id": "rocket-1",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Tu joues une finale. Qui tu prends comme coéquipier ?"
+  },
+  {
+    "id": "rocket-2",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui rate une cage vide et décrit ça comme une passe ?"
+  },
+  {
+    "id": "rocket-3",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui tu prends pour sauver une balle à zéro seconde ?"
+  },
+  {
+    "id": "rocket-4",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui part chercher du boost alors que la balle entre dans son but ?"
+  },
+  {
+    "id": "rocket-5",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui joue gardien au milieu du terrain, par conviction ?"
+  },
+  {
+    "id": "rocket-6",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui tente une aérienne avec la grâce d’un frigo lancé d’un balcon ?"
+  },
+  {
+    "id": "rocket-7",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui tu prends pour expliquer les rotations à trois voitures pressées ?"
+  },
+  {
+    "id": "rocket-8",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui customise sa voiture plus longtemps qu’il ne s’entraîne ?"
+  },
+  {
+    "id": "rocket-9",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui annonce « j’ai » juste avant de ne pas avoir ?"
+  },
+  {
+    "id": "rocket-10",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui se retrouve sur le plafond sans savoir comment redescendre ?"
+  },
+  {
+    "id": "rocket-11",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui pense que démolir l’adversaire compte comme une stratégie complète ?"
+  },
+  {
+    "id": "rocket-12",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui tu prends pour remonter trois buts en une minute ?"
+  },
+  {
+    "id": "rocket-13",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui freine devant la balle pour lui laisser la priorité ?"
+  },
+  {
+    "id": "rocket-14",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui passe tout le match à courir derrière le même ballon que son pote ?"
+  },
+  {
+    "id": "rocket-15",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui célèbre avant de vérifier que le ballon est entré ?"
+  },
+  {
+    "id": "rocket-16",
+    "category": "rocket",
+    "level": "trash",
+    "text": "Qui spamme « What a save! » après un but contre son camp ?"
+  },
+  {
+    "id": "rocket-17",
+    "category": "rocket",
+    "level": "trash",
+    "text": "Qui tente un flip reset alors qu’il rate encore le coup d’envoi ?"
+  },
+  {
+    "id": "rocket-18",
+    "category": "rocket",
+    "level": "trash",
+    "text": "Qui attribue son classement à un complot organisé par les cages ?"
+  },
+  {
+    "id": "rocket-19",
+    "category": "rocket",
+    "level": "trash",
+    "text": "Qui inventerait un nouveau rang inférieur au bronze ?"
+  },
+  {
+    "id": "rocket-20",
+    "category": "rocket",
+    "level": "trash",
+    "text": "Qui rage sur son coéquipier après lui avoir volé le boost et la dignité ?"
+  },
+  {
+    "id": "anime-1",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui rejoindrait l’Akatsuki juste pour avoir le manteau ?"
+  },
+  {
+    "id": "anime-2",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui tu prends pour former un équipage dans One Piece ?"
+  },
+  {
+    "id": "anime-3",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui passerait trois épisodes à annoncer son attaque ?"
+  },
+  {
+    "id": "anime-4",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui serait le pire Hokage pour gérer un budget communal ?"
+  },
+  {
+    "id": "anime-5",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui aurait un Stand qui retrouve seulement les chaussettes perdues ?"
+  },
+  {
+    "id": "anime-6",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui mangerait un fruit du démon sans demander les effets secondaires ?"
+  },
+  {
+    "id": "anime-7",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui tu prends pour gagner un tournoi avec un pouvoir apparemment inutile ?"
+  },
+  {
+    "id": "anime-8",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui confondrait un entraînement de Saiyan avec une séance de yoga ?"
+  },
+  {
+    "id": "anime-9",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui demanderait à Shenron de retrouver son chargeur ?"
+  },
+  {
+    "id": "anime-10",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui essaierait de convaincre un Titan de devenir végétarien ?"
+  },
+  {
+    "id": "anime-11",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui arriverait en retard à son propre arc narratif ?"
+  },
+  {
+    "id": "anime-12",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui utiliserait des clones pour faire la queue au kebab ?"
+  },
+  {
+    "id": "anime-13",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui tu prends pour négocier avec un personnage qui monologue depuis vingt minutes ?"
+  },
+  {
+    "id": "anime-14",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui aurait une transformation spectaculaire pour ouvrir un bocal ?"
+  },
+  {
+    "id": "anime-15",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui perdrait son Zanpakutō dans les transports en commun ?"
+  },
+  {
+    "id": "anime-16",
+    "category": "anime",
+    "level": "trash",
+    "text": "Qui deviendrait un dictateur dix minutes après avoir trouvé le Death Note ?"
+  },
+  {
+    "id": "anime-17",
+    "category": "anime",
+    "level": "trash",
+    "text": "Qui se ferait éliminer pendant le générique de l’Attaque des Titans ?"
+  },
+  {
+    "id": "anime-18",
+    "category": "anime",
+    "level": "trash",
+    "text": "Qui vendrait tout le groupe pour obtenir le Sharingan ?"
+  },
+  {
+    "id": "anime-19",
+    "category": "anime",
+    "level": "trash",
+    "text": "Qui se prendrait pour Sukuna après avoir gagné contre un enfant à Mario Kart ?"
+  },
+  {
+    "id": "anime-20",
+    "category": "anime",
+    "level": "trash",
+    "text": "Qui ferait un discours sur l’amitié juste avant de trahir son équipe ?"
+  },
+  {
+    "id": "comics-1",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui utiliserait l’anneau de Green Lantern pour fabriquer un canapé ?"
+  },
+  {
+    "id": "comics-2",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui tu prends pour monter une équipe de super-héros à petit budget ?"
+  },
+  {
+    "id": "comics-3",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui porterait une cape alors que son seul pouvoir est de retrouver les télécommandes ?"
+  },
+  {
+    "id": "comics-4",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui demanderait à Batman de réparer sa connexion Wi-Fi ?"
+  },
+  {
+    "id": "comics-5",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui lancerait son bouclier et passerait le reste du combat à le chercher ?"
+  },
+  {
+    "id": "comics-6",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui inventerait un nom de super-héros impossible à prononcer ?"
+  },
+  {
+    "id": "comics-7",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui tu prends pour garder une identité secrète pendant une soirée ?"
+  },
+  {
+    "id": "comics-8",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui utiliserait sa super-vitesse pour arriver quand même en retard ?"
+  },
+  {
+    "id": "comics-9",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui négocierait ses horaires avant de rejoindre les Avengers ?"
+  },
+  {
+    "id": "comics-10",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui se ferait coincer dans une porte avec son armure ?"
+  },
+  {
+    "id": "comics-11",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui tu prends pour gérer le service après-vente de la Batmobile ?"
+  },
+  {
+    "id": "comics-12",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui demanderait un autographe au méchant pendant la bataille ?"
+  },
+  {
+    "id": "comics-13",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui ferait des selfies en pleine invasion extraterrestre ?"
+  },
+  {
+    "id": "comics-14",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui oublierait de recharger son gadget avant sa première patrouille ?"
+  },
+  {
+    "id": "comics-15",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui voudrait être Spider-Man uniquement pour éviter les bouchons ?"
+  },
+  {
+    "id": "comics-16",
+    "category": "comics",
+    "level": "trash",
+    "text": "Qui aurait l’ego de Homelander et la puissance d’un ventilateur USB ?"
+  },
+  {
+    "id": "comics-17",
+    "category": "comics",
+    "level": "trash",
+    "text": "Qui deviendrait super-vilain à cause d’un message Discord laissé en vu ?"
+  },
+  {
+    "id": "comics-18",
+    "category": "comics",
+    "level": "trash",
+    "text": "Qui serait viré de la Justice League dès la réunion d’accueil ?"
+  },
+  {
+    "id": "comics-19",
+    "category": "comics",
+    "level": "trash",
+    "text": "Qui essaierait de trahir Batman avec un plan écrit sur son front ?"
+  },
+  {
+    "id": "comics-20",
+    "category": "comics",
+    "level": "trash",
+    "text": "Qui ferait passer la ville avant tout, sauf son abonnement premium ?"
+  },
+  {
+    "id": "multivers-1",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui tu prends pour arbitrer un débat entre Batman et Naruto ?"
+  },
+  {
+    "id": "multivers-2",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui inviterait Pikachu à recharger la manette de Thor ?"
+  },
+  {
+    "id": "multivers-3",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui ferait travailler Goku comme livreur de pizzas ?"
+  },
+  {
+    "id": "multivers-4",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui tu prends pour organiser une colocation entre un Saiyan et un Jedi ?"
+  },
+  {
+    "id": "multivers-5",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui demanderait à Doctor Strange un portail vers le frigo ?"
+  },
+  {
+    "id": "multivers-6",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui donnerait une quête secondaire à Superman ?"
+  },
+  {
+    "id": "multivers-7",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui essaierait d’apprendre les rotations de Rocket League à Luffy ?"
+  },
+  {
+    "id": "multivers-8",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui offrirait un abonnement de méditation à Hulk et Vegeta ?"
+  },
+  {
+    "id": "multivers-9",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui tu prends pour sauver une soirée karaoké avec Batman, Naruto et Jinx ?"
+  },
+  {
+    "id": "multivers-10",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui ferait jouer Mario comme jungler et demanderait des ganks par les tuyaux ?"
+  },
+  {
+    "id": "multivers-11",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui confierait la gestion du budget des Avengers à Nami ?"
+  },
+  {
+    "id": "multivers-12",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui demanderait à Sonic de ralentir pour respecter les rotations ?"
+  },
+  {
+    "id": "multivers-13",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui voudrait recruter un Titan comme gardien de Rocket League ?"
+  },
+  {
+    "id": "multivers-14",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui tu prends pour expliquer les règles du Uno à Thanos et Sukuna ?"
+  },
+  {
+    "id": "multivers-15",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui ferait échanger leurs costumes à Batman et All Might ?"
+  },
+  {
+    "id": "multivers-16",
+    "category": "multivers",
+    "level": "trash",
+    "text": "Qui serait capable de perdre une ranked avec Goku et Superman dans son équipe ?"
+  },
+  {
+    "id": "multivers-17",
+    "category": "multivers",
+    "level": "trash",
+    "text": "Qui confierait le Death Note à Teemo pour « voir ce que ça fait » ?"
+  },
+  {
+    "id": "multivers-18",
+    "category": "multivers",
+    "level": "trash",
+    "text": "Qui déclencherait une guerre entre les Avengers et l’Akatsuki pour une place de parking ?"
+  },
+  {
+    "id": "multivers-19",
+    "category": "multivers",
+    "level": "trash",
+    "text": "Qui se ferait mute à la fois par Deadpool, Vegeta et Jinx ?"
+  },
+  {
+    "id": "multivers-20",
+    "category": "multivers",
+    "level": "trash",
+    "text": "Qui essaierait de revendre les pierres d’Infinité pour acheter un skin ?"
+  },
+  {
+    "id": "noir-1",
+    "category": "noir",
+    "level": "normal",
+    "text": "Qui se plaindrait de la décoration de son château hanté ?"
+  },
+  {
+    "id": "noir-2",
+    "category": "noir",
+    "level": "normal",
+    "text": "Qui essaierait de négocier son heure de départ avec la Faucheuse ?"
+  },
+  {
+    "id": "noir-3",
+    "category": "noir",
+    "level": "normal",
+    "text": "Qui tu prends pour gérer une maison de retraite pour vampires ?"
+  },
+  {
+    "id": "noir-4",
+    "category": "noir",
+    "level": "normal",
+    "text": "Qui aurait peur du fantôme mais lui demanderait quand même de payer le loyer ?"
+  },
+  {
+    "id": "noir-5",
+    "category": "noir",
+    "level": "normal",
+    "text": "Qui ferait une visite guidée beaucoup trop enthousiaste d’un cimetière ?"
+  },
+  {
+    "id": "noir-6",
+    "category": "noir",
+    "level": "normal",
+    "text": "Qui se tromperait de costume à une soirée de zombies ?"
+  },
+  {
+    "id": "noir-7",
+    "category": "noir",
+    "level": "normal",
+    "text": "Qui inscrirait « retour dans cinq minutes » sur sa pierre tombale ?"
+  },
+  {
+    "id": "noir-8",
+    "category": "noir",
+    "level": "normal",
+    "text": "Qui transformerait une séance de spiritisme en réunion de copropriété ?"
+  },
+  {
+    "id": "noir-9",
+    "category": "noir",
+    "level": "normal",
+    "text": "Qui tu prends pour ouvrir un restaurant dans l’au-delà ?"
+  },
+  {
+    "id": "noir-10",
+    "category": "noir",
+    "level": "normal",
+    "text": "Qui chercherait les avis clients avant d’entrer dans une maison hantée ?"
+  },
+  {
+    "id": "noir-11",
+    "category": "noir",
+    "level": "normal",
+    "text": "Qui demanderait à son fantôme s’il peut surveiller les pâtes ?"
+  },
+  {
+    "id": "noir-12",
+    "category": "noir",
+    "level": "normal",
+    "text": "Qui ferait fuir les zombies avec ses histoires interminables ?"
+  },
+  {
+    "id": "noir-13",
+    "category": "noir",
+    "level": "normal",
+    "text": "Qui apporterait une enceinte à un duel de vampires ?"
+  },
+  {
+    "id": "noir-14",
+    "category": "noir",
+    "level": "normal",
+    "text": "Qui tu prends pour convaincre la Faucheuse de faire une pause café ?"
+  },
+  {
+    "id": "noir-15",
+    "category": "noir",
+    "level": "normal",
+    "text": "Qui hanterait ses potes uniquement pour changer le mot de passe du Wi-Fi ?"
+  },
+  {
+    "id": "noir-16",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui vendrait ses potes aux zombies pour un kebab avec supplément fromage ?"
+  },
+  {
+    "id": "noir-17",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui ferait une blague si sombre qu’on couperait l’électricité par respect ?"
+  },
+  {
+    "id": "noir-18",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui déclencherait le fou rire le plus mal placé à un enterrement fictif ?"
+  },
+  {
+    "id": "noir-19",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui serait immédiatement suspect dans un polar, même en jouant le cadavre ?"
+  },
+  {
+    "id": "noir-20",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui rédigerait son testament en oubliant ses proches mais pas son compte Steam ?"
+  },
+  {
+    "id": "roast-1",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui dit « j’arrive » alors qu’il est encore en pyjama ?"
+  },
+  {
+    "id": "roast-2",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui met le plus d’énergie à expliquer pourquoi ce n’est pas sa faute ?"
+  },
+  {
+    "id": "roast-3",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui tu prends pour parler dix minutes sans donner la moindre information ?"
+  },
+  {
+    "id": "roast-4",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui a un avis définitif sur un sujet découvert il y a trente secondes ?"
+  },
+  {
+    "id": "roast-5",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui pourrait se perdre en suivant quelqu’un ?"
+  },
+  {
+    "id": "roast-6",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui transforme chaque anecdote en édition longue avec commentaires du réalisateur ?"
+  },
+  {
+    "id": "roast-7",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui organise une soirée puis demande à tout le monde ce qu’on fait ?"
+  },
+  {
+    "id": "roast-8",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui a le plus de captures d’écran qu’il ne regardera jamais ?"
+  },
+  {
+    "id": "roast-9",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui envoie un vocal qui mériterait un sommaire ?"
+  },
+  {
+    "id": "roast-10",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui tu prends pour créer un problème là où tout allait bien ?"
+  },
+  {
+    "id": "roast-11",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui écrit « petit message rapide » avant un roman ?"
+  },
+  {
+    "id": "roast-12",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui pense qu’un nouvel équipement va régler un ancien manque de talent ?"
+  },
+  {
+    "id": "roast-13",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui annonce une grande décision puis demande quel est le plan ?"
+  },
+  {
+    "id": "roast-14",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui pourrait perdre à un jeu dont il a inventé les règles ?"
+  },
+  {
+    "id": "roast-15",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui tu prends pour convaincre tout le monde qu’une idée catastrophique est brillante ?"
+  },
+  {
+    "id": "roast-16",
+    "category": "roast",
+    "level": "trash",
+    "text": "Qui vendrait le groupe pour vingt euros et demanderait la monnaie ?"
+  },
+  {
+    "id": "roast-17",
+    "category": "roast",
+    "level": "trash",
+    "text": "Qui a un ego en fibre optique et un talent en connexion d’hôtel ?"
+  },
+  {
+    "id": "roast-18",
+    "category": "roast",
+    "level": "trash",
+    "text": "Qui pourrait ruiner un mariage en commençant par « sans vouloir être méchant » ?"
+  },
+  {
+    "id": "roast-19",
+    "category": "roast",
+    "level": "trash",
+    "text": "Qui devrait payer un abonnement pour avoir le droit de donner ses conseils ?"
+  },
+  {
+    "id": "roast-20",
+    "category": "roast",
+    "level": "trash",
+    "text": "Qui mentirait si mal devant un juge que son propre avocat changerait de camp ?"
+  }
 ]
