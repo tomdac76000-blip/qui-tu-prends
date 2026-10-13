@@ -1,0 +1,22 @@
+[
+  {"id":"g1","category":"general","level":"normal","text":"Une apocalypse zombie commence. Tu prends qui dans ton équipe pour survivre ?"},
+  {"id":"g2","category":"general","level":"normal","text":"Tu montes une entreprise demain. Tu prends qui comme associé ?"},
+  {"id":"g3","category":"general","level":"normal","text":"Qui deviendrait célèbre pour une raison absolument ridicule ?"},
+  {"id":"g4","category":"general","level":"normal","text":"Tu dois cacher un lama dans ton appartement. Qui tu appelles ?"},
+  {"id":"g5","category":"general","level":"normal","text":"Qui pourrait rater son propre anniversaire parce qu’il était en ranked ?"},
+  {"id":"g6","category":"general","level":"normal","text":"Tu participes à un quiz de culture générale. Qui tu prends pour écraser la concurrence ?"},
+  {"id":"g7","category":"general","level":"normal","text":"Qui survivrait le plus longtemps sur une île déserte avec une cuillère et son ego ?"},
+  {"id":"g8","category":"general","level":"normal","text":"Qui réussirait à négocier un kebab gratuit à trois heures du matin ?"},
+  {"id":"g9","category":"general","level":"normal","text":"Qui transformerait une petite sortie tranquille en quête secondaire de huit heures ?"},
+  {"id":"g10","category":"general","level":"normal","text":"Qui tu prends pour préparer un repas pour vingt personnes sans brûler la maison ?"},
+  {"id":"g11","category":"general","level":"normal","text":"Qui pourrait devenir maire par accident ?"},
+  {"id":"g12","category":"general","level":"normal","text":"Tu dois improviser un concert. Qui tu prends sur scène ?"},
+  {"id":"g13","category":"general","level":"normal","text":"Qui lancerait un débat philosophique au milieu d’un fast-food ?"},
+  {"id":"g14","category":"general","level":"normal","text":"Qui se perdrait dans un couloir parfaitement droit ?"},
+  {"id":"g15","category":"general","level":"normal","text":"Qui tu prends pour faire croire à des extraterrestres que l’humanité est compétente ?"},
+  {"id":"g16","category":"general","level":"normal","text":"Qui ferait une présentation de trente slides pour choisir une pizza ?"},
+  {"id":"g17","category":"general","level":"normal","text":"Qui repartirait d’un mariage avec un nouveau groupe de potes et un grille-pain ?"},
+  {"id":"g18","category":"general","level":"normal","text":"Qui tu prends pour traverser le pays sans GPS ?"},
+  {"id":"g19","category":"general","level":"normal","text":"Qui aurait un plan de secours pour son plan de secours ?"},
+  {"id":"g20","category":"general","level":"normal","text":"Qui pourrait convaincre tout le groupe de porter le même déguisement ridicule ?"}
+]
