@@ -1,0 +1,592 @@
+{
+  "duels": [
+    {
+      "id": "duel-0",
+      "text": "Qui serait le meilleur pour tenir un kebab un samedi soir ?",
+      "a": "Gandalf",
+      "b": "Mario"
+    },
+    {
+      "id": "duel-1",
+      "text": "Qui serait le meilleur pour être ton avocat au tribunal ?",
+      "a": "Pikachu",
+      "b": "SpongeBob"
+    },
+    {
+      "id": "duel-2",
+      "text": "Qui serait le meilleur pour garder ton chat pendant un mois ?",
+      "a": "Shrek",
+      "b": "Hermione"
+    },
+    {
+      "id": "duel-3",
+      "text": "Qui serait le meilleur pour survivre une semaine sans pouvoirs ?",
+      "a": "Batman",
+      "b": "Goku"
+    },
+    {
+      "id": "duel-4",
+      "text": "Qui serait le meilleur pour organiser le mariage du groupe ?",
+      "a": "Naruto",
+      "b": "Sonic"
+    },
+    {
+      "id": "duel-5",
+      "text": "Qui serait le meilleur pour diriger une équipe de débutants ?",
+      "a": "Luffy",
+      "b": "Darth Maul"
+    },
+    {
+      "id": "duel-6",
+      "text": "Qui serait le meilleur pour être ton colocataire ?",
+      "a": "Dark Vador",
+      "b": "Geralt"
+    },
+    {
+      "id": "duel-7",
+      "text": "Qui serait le meilleur pour cacher un cadeau surprise ?",
+      "a": "Mario",
+      "b": "Kirby"
+    },
+    {
+      "id": "duel-8",
+      "text": "Qui serait le meilleur pour gagner Koh-Lanta sans pouvoirs ?",
+      "a": "SpongeBob",
+      "b": "Lara Croft"
+    },
+    {
+      "id": "duel-9",
+      "text": "Qui serait le meilleur pour faire un oral sans préparation ?",
+      "a": "Hermione",
+      "b": "Yoda"
+    },
+    {
+      "id": "duel-10",
+      "text": "Qui serait le meilleur pour te sortir d’une discussion gênante ?",
+      "a": "Goku",
+      "b": "Vegeta"
+    },
+    {
+      "id": "duel-11",
+      "text": "Qui serait le meilleur pour gérer une classe de maternelle ?",
+      "a": "Sonic",
+      "b": "Zoro"
+    },
+    {
+      "id": "duel-12",
+      "text": "Qui serait le meilleur pour réparer ton ordinateur ?",
+      "a": "Darth Maul",
+      "b": "Jinx"
+    },
+    {
+      "id": "duel-13",
+      "text": "Qui serait le meilleur pour te défendre face à un propriétaire abusif ?",
+      "a": "Geralt",
+      "b": "Teemo"
+    },
+    {
+      "id": "duel-14",
+      "text": "Qui serait le meilleur pour organiser un voyage à petit budget ?",
+      "a": "Kirby",
+      "b": "Ahri"
+    },
+    {
+      "id": "duel-15",
+      "text": "Qui serait le meilleur pour raconter une histoire pour endormir un enfant ?",
+      "a": "Lara Croft",
+      "b": "Saitama"
+    },
+    {
+      "id": "duel-16",
+      "text": "Qui serait le meilleur pour faire le meilleur service après-vente ?",
+      "a": "Yoda",
+      "b": "Le Chat botté"
+    },
+    {
+      "id": "duel-17",
+      "text": "Qui serait le meilleur pour remporter un concours de cuisine ?",
+      "a": "Vegeta",
+      "b": "Gandalf"
+    },
+    {
+      "id": "duel-18",
+      "text": "Qui serait le meilleur pour régler un conflit entre voisins ?",
+      "a": "Zoro",
+      "b": "Pikachu"
+    },
+    {
+      "id": "duel-19",
+      "text": "Qui serait le meilleur pour créer une émission de télé-réalité ?",
+      "a": "Jinx",
+      "b": "Shrek"
+    },
+    {
+      "id": "duel-20",
+      "text": "Qui serait le meilleur pour faire rire un jury impassible ?",
+      "a": "Teemo",
+      "b": "Batman"
+    },
+    {
+      "id": "duel-21",
+      "text": "Qui serait le meilleur pour choisir un cadeau pour ta grand-mère ?",
+      "a": "Ahri",
+      "b": "Naruto"
+    },
+    {
+      "id": "duel-22",
+      "text": "Qui serait le meilleur pour diriger une guilde ?",
+      "a": "Saitama",
+      "b": "Luffy"
+    },
+    {
+      "id": "duel-23",
+      "text": "Qui serait le meilleur pour gérer les comptes de la coloc ?",
+      "a": "Le Chat botté",
+      "b": "Dark Vador"
+    }
+  ],
+  "axes": [
+    {
+      "id": "axis-0",
+      "left": "Personnage inutile",
+      "right": "Personnage surpuissant"
+    },
+    {
+      "id": "axis-1",
+      "left": "Jeu relaxant",
+      "right": "Jeu qui détruit une amitié"
+    },
+    {
+      "id": "axis-2",
+      "left": "Repas déprimant",
+      "right": "Festin royal"
+    },
+    {
+      "id": "axis-3",
+      "left": "Objet indispensable",
+      "right": "Objet complètement inutile"
+    },
+    {
+      "id": "axis-4",
+      "left": "Méchant excusable",
+      "right": "Méchant irrécupérable"
+    },
+    {
+      "id": "axis-5",
+      "left": "Pouvoir nul",
+      "right": "Pouvoir incroyable"
+    },
+    {
+      "id": "axis-6",
+      "left": "Très facile à apprendre",
+      "right": "Très difficile à maîtriser"
+    },
+    {
+      "id": "axis-7",
+      "left": "Film pour se détendre",
+      "right": "Film qui retourne le cerveau"
+    },
+    {
+      "id": "axis-8",
+      "left": "Destination reposante",
+      "right": "Destination épuisante"
+    },
+    {
+      "id": "axis-9",
+      "left": "Animal rassurant",
+      "right": "Animal terrifiant"
+    },
+    {
+      "id": "axis-10",
+      "left": "Métier tranquille",
+      "right": "Métier stressant"
+    },
+    {
+      "id": "axis-11",
+      "left": "Cadeau raté",
+      "right": "Cadeau parfait"
+    },
+    {
+      "id": "axis-12",
+      "left": "Héros discret",
+      "right": "Héros insupportablement bruyant"
+    },
+    {
+      "id": "axis-13",
+      "left": "Bon colocataire",
+      "right": "Colocataire catastrophique"
+    },
+    {
+      "id": "axis-14",
+      "left": "Superpouvoir pratique",
+      "right": "Superpouvoir encombrant"
+    },
+    {
+      "id": "axis-15",
+      "left": "Personnage gentil",
+      "right": "Personnage cruel"
+    },
+    {
+      "id": "axis-16",
+      "left": "Défaite acceptable",
+      "right": "Défaite humiliante"
+    },
+    {
+      "id": "axis-17",
+      "left": "Excuse crédible",
+      "right": "Excuse impossible à croire"
+    },
+    {
+      "id": "axis-18",
+      "left": "Petit plaisir",
+      "right": "Gros luxe"
+    },
+    {
+      "id": "axis-19",
+      "left": "Très sous-coté",
+      "right": "Très surcoté"
+    },
+    {
+      "id": "axis-20",
+      "left": "Facile à dessiner",
+      "right": "Impossible à dessiner"
+    },
+    {
+      "id": "axis-21",
+      "left": "Peur ridicule",
+      "right": "Peur compréhensible"
+    },
+    {
+      "id": "axis-22",
+      "left": "Décision raisonnable",
+      "right": "Décision catastrophique"
+    },
+    {
+      "id": "axis-23",
+      "left": "Souvenir agréable",
+      "right": "Souvenir embarrassant"
+    }
+  ],
+  "words": [
+    {
+      "id": "word-0",
+      "text": "Pikachu"
+    },
+    {
+      "id": "word-1",
+      "text": "Mario"
+    },
+    {
+      "id": "word-2",
+      "text": "Naruto"
+    },
+    {
+      "id": "word-3",
+      "text": "Luffy"
+    },
+    {
+      "id": "word-4",
+      "text": "Shrek"
+    },
+    {
+      "id": "word-5",
+      "text": "Batman"
+    },
+    {
+      "id": "word-6",
+      "text": "Gandalf"
+    },
+    {
+      "id": "word-7",
+      "text": "Sonic"
+    },
+    {
+      "id": "word-8",
+      "text": "Zelda"
+    },
+    {
+      "id": "word-9",
+      "text": "Kirby"
+    },
+    {
+      "id": "word-10",
+      "text": "Teemo"
+    },
+    {
+      "id": "word-11",
+      "text": "Jinx"
+    },
+    {
+      "id": "word-12",
+      "text": "Spider-Man"
+    },
+    {
+      "id": "word-13",
+      "text": "Yoda"
+    },
+    {
+      "id": "word-14",
+      "text": "Goku"
+    },
+    {
+      "id": "word-15",
+      "text": "Bowser"
+    },
+    {
+      "id": "word-16",
+      "text": "Minecraft"
+    },
+    {
+      "id": "word-17",
+      "text": "Tetris"
+    },
+    {
+      "id": "word-18",
+      "text": "Pokémon"
+    },
+    {
+      "id": "word-19",
+      "text": "Titanic"
+    },
+    {
+      "id": "word-20",
+      "text": "Avatar"
+    },
+    {
+      "id": "word-21",
+      "text": "Matrix"
+    },
+    {
+      "id": "word-22",
+      "text": "Dragon"
+    },
+    {
+      "id": "word-23",
+      "text": "Pirate"
+    },
+    {
+      "id": "word-24",
+      "text": "Ninja"
+    },
+    {
+      "id": "word-25",
+      "text": "Zombie"
+    },
+    {
+      "id": "word-26",
+      "text": "Vampire"
+    },
+    {
+      "id": "word-27",
+      "text": "Robot"
+    },
+    {
+      "id": "word-28",
+      "text": "Fantôme"
+    },
+    {
+      "id": "word-29",
+      "text": "Licorne"
+    },
+    {
+      "id": "word-30",
+      "text": "Kebab"
+    },
+    {
+      "id": "word-31",
+      "text": "Pizza"
+    },
+    {
+      "id": "word-32",
+      "text": "Sushi"
+    },
+    {
+      "id": "word-33",
+      "text": "Chocolat"
+    },
+    {
+      "id": "word-34",
+      "text": "Raclette"
+    },
+    {
+      "id": "word-35",
+      "text": "Croissant"
+    },
+    {
+      "id": "word-36",
+      "text": "Fromage"
+    },
+    {
+      "id": "word-37",
+      "text": "Banane"
+    },
+    {
+      "id": "word-38",
+      "text": "Popcorn"
+    },
+    {
+      "id": "word-39",
+      "text": "Pancake"
+    },
+    {
+      "id": "word-40",
+      "text": "Clavier"
+    },
+    {
+      "id": "word-41",
+      "text": "Casque"
+    },
+    {
+      "id": "word-42",
+      "text": "Manette"
+    },
+    {
+      "id": "word-43",
+      "text": "Télécommande"
+    },
+    {
+      "id": "word-44",
+      "text": "Ascenseur"
+    },
+    {
+      "id": "word-45",
+      "text": "Parapluie"
+    },
+    {
+      "id": "word-46",
+      "text": "Valise"
+    },
+    {
+      "id": "word-47",
+      "text": "Horloge"
+    },
+    {
+      "id": "word-48",
+      "text": "Miroir"
+    },
+    {
+      "id": "word-49",
+      "text": "Bougie"
+    },
+    {
+      "id": "word-50",
+      "text": "Volcan"
+    },
+    {
+      "id": "word-51",
+      "text": "Banquise"
+    },
+    {
+      "id": "word-52",
+      "text": "Désert"
+    },
+    {
+      "id": "word-53",
+      "text": "Cascade"
+    },
+    {
+      "id": "word-54",
+      "text": "Planète"
+    },
+    {
+      "id": "word-55",
+      "text": "Comète"
+    },
+    {
+      "id": "word-56",
+      "text": "Orage"
+    },
+    {
+      "id": "word-57",
+      "text": "Éclipse"
+    },
+    {
+      "id": "word-58",
+      "text": "Océan"
+    },
+    {
+      "id": "word-59",
+      "text": "Forêt"
+    },
+    {
+      "id": "word-60",
+      "text": "Bibliothèque"
+    },
+    {
+      "id": "word-61",
+      "text": "Cinéma"
+    },
+    {
+      "id": "word-62",
+      "text": "Musée"
+    },
+    {
+      "id": "word-63",
+      "text": "Piscine"
+    },
+    {
+      "id": "word-64",
+      "text": "Stade"
+    },
+    {
+      "id": "word-65",
+      "text": "Hôpital"
+    },
+    {
+      "id": "word-66",
+      "text": "Château"
+    },
+    {
+      "id": "word-67",
+      "text": "Phare"
+    },
+    {
+      "id": "word-68",
+      "text": "Métro"
+    },
+    {
+      "id": "word-69",
+      "text": "Cirque"
+    },
+    {
+      "id": "word-70",
+      "text": "Magicien"
+    },
+    {
+      "id": "word-71",
+      "text": "Astronaute"
+    },
+    {
+      "id": "word-72",
+      "text": "Détective"
+    },
+    {
+      "id": "word-73",
+      "text": "Pompier"
+    },
+    {
+      "id": "word-74",
+      "text": "Boulanger"
+    },
+    {
+      "id": "word-75",
+      "text": "Dentiste"
+    },
+    {
+      "id": "word-76",
+      "text": "Cowboy"
+    },
+    {
+      "id": "word-77",
+      "text": "Professeur"
+    },
+    {
+      "id": "word-78",
+      "text": "Chevalier"
+    },
+    {
+      "id": "word-79",
+      "text": "Samouraï"
+    }
+  ]
+}

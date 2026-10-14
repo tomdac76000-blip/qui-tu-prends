@@ -4,12 +4,17 @@ import { Server } from 'socket.io';
 import { randomBytes, randomInt } from 'node:crypto';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { installArcade } from './arcade-server.js';
 
 const questions = JSON.parse(readFileSync(new URL('./questions.json', import.meta.url)));
 const categories = [{id:'general',name:'Général',emoji:'🌍'},{id:'noir',name:'Humour noir',emoji:'💀'},{id:'gaming',name:'Gaming',emoji:'🎮'},{id:'lol',name:'League of Legends',emoji:'⚔️'},{id:'valorant',name:'VALORANT',emoji:'🔫'},{id:'rocket',name:'Rocket League',emoji:'🚗'},{id:'anime',name:'Manga / Anime',emoji:'🍥'},{id:'comics',name:'Comics / Super-héros',emoji:'🦸'},{id:'multivers',name:'Multivers',emoji:'🌌'},{id:'roast',name:'Roast entre potes',emoji:'🔥'}];
 export function createGameServer({roundMs = 30000, tierMs = 60000} = {}) {
   const app = express(), http = createServer(app), io = new Server(http, {maxHttpBufferSize: 64000});
   const rooms = new Map();
+  const arcade=installArcade(io);
+  app.get('/arcade-meta',(_,res)=>res.json(arcade.meta));
+  for(const page of ['trivial','duel','piege','curseur']) app.get('/'+page,(_,res)=>res.sendFile(fileURLToPath(new URL('./arcade.html',import.meta.url))));
+  for(const file of ['arcade.js','arcade.css','nav.js'])app.get('/'+file,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+file,import.meta.url))));
   app.disable('x-powered-by');
   app.get('/health', (_, res) => res.json({ok:true}));
   app.get('/meta',(_,res)=>res.json({categories,total:questions.length}));
@@ -122,7 +127,7 @@ export function createGameServer({roundMs = 30000, tierMs = 60000} = {}) {
     socket.on('disconnect',()=>{clearInterval(rate);detach(socket);});
   });
   const cleanup=setInterval(()=>{for(const [code,r] of rooms)if(!connected(r).length&&Date.now()-r.touched>3600000){clearTimeout(r.timer);rooms.delete(code);}},60000);cleanup.unref();
-  return {app,http,io,rooms,close:()=>{clearInterval(cleanup);for(const r of rooms.values())clearTimeout(r.timer);io.close();http.close();}};
+  return {app,http,io,rooms,arcade,close:()=>{arcade.close();clearInterval(cleanup);for(const r of rooms.values())clearTimeout(r.timer);io.close();http.close();}};
 }
 if(process.argv[1]===fileURLToPath(import.meta.url)) {const {http}=createGameServer();http.listen(Number(process.env.PORT)||3000,'0.0.0.0',()=>console.log('Qui tu prends ? prêt sur le port '+(process.env.PORT||3000)));}
 

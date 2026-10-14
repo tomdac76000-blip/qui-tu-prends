@@ -33,3 +33,26 @@ Les salons sont en mémoire : un redémarrage ou déploiement peut interrompre l
 Les pourcentages des votes entre potes représentent la part des choix exprimés, pas la part des joueurs. Pour le Oui/Non, ils portent sur les réponses exprimées. Les scores entre potes sont le nombre de fois où chaque personne a été sélectionnée. Les modes Perso et Tier list ont leur propre bilan et n’ajoutent pas de points à ce classement. Passer une question ne distribue pas de points. Les dossiers privés peuvent utiliser chacun des trois formats.
 
 Interface édition arcade : cadres pixel, sprites CSS, titres rétro et prise en charge des préférences de mouvement réduit.
+
+## Salle d’arcade
+
+Menu commun : `/` (Qui tu prends ?), `/trivial`, `/duel`, `/piege`, `/curseur`.
+Les nouveaux jeux utilisent le canal Socket.IO `/arcade`, des salons et des jetons distincts. Chaque page crée son propre salon ; partager son lien invite au bon jeu. Une partie ne migre pas automatiquement vers une autre borne.
+
+### Trivial des potes
+
+2 à 6 joueurs. Plateau original de 73 cases, six branches, douze cases relance, six cases camembert. Dé serveur de 1 à 6 ; déplacement exact sans repasser sur une case. Premier joueur déterminé par un lancer initial automatique, égalités départagées. Bonne réponse : rejouer ; mauvaise réponse : joueur suivant connecté. Six camemberts puis arrivée exacte au centre, catégorie choisie par le joueur suivant, question finale. En cas d’échec il faut quitter le centre avant de revenir.
+
+Six thèmes distincts à choisir parmi quinze. Cinq difficultés éditoriales par thème (non calibrées statistiquement). Catalogue initial de 150 questions : deux par thème et niveau. Un paquet épuisé recommence avec un message explicite. Les résultats esport sont datés ; aucune question ne dépend du classement actuel. Les séries et mangas peuvent contenir des spoilers.
+
+Réponse libre par défaut : la solution est envoyée uniquement au lecteur (adversaire suivant) après la proposition. Il valide les synonymes ou fautes de frappe. QCM optionnel à quatre choix, ordre mélangé et correction serveur. Pas de minuterie. L’hôte peut passer un tour bloqué ; les joueurs absents sont conservés pour la reconnexion. Reprise du rôle d’hôte disponible si l’hôte se déconnecte.
+
+### Autres jeux
+
+- Duel des arguments : 24 duels, débat oral puis votes secrets. Révélation automatique lorsque tous les joueurs connectés ont voté, ou à la demande de l’hôte. Pas de score individuel puisque les choix sont subjectifs.
+- Piège des potes : 80 mots, indices en un mot. Les doublons exacts après normalisation des accents/casse sont retirés ; les synonymes ne sont pas détectés automatiquement. Le devineur ne reçoit jamais le mot avant le résultat. Réponse comparée sans accents/casse/ponctuation ; un point collectif par mot trouvé.
+- Curseur : 24 axes, cible secrète de 0 à 100 pour le donneur, estimation individuelle. Barème d’écart : ≤5 = 4 points ; ≤10 = 3 ; ≤20 = 2 ; ≤30 = 1. Donneur : moyenne arrondie des points gagnés. Estimations cachées avant révélation.
+
+Les parties se jouent en discutant en personne ou sur un appel existant ; aucun audio intégré. 5, 10 ou 15 manches pour ces trois jeux. L’hôte peut révéler les réponses déjà reçues ou passer une manche. Fin de partie puis retour au salon avec remise à zéro.
+
+Validation : `npm test` couvre règles de plateau, catalogue, confidentialité, droits, camemberts/finale, correction QCM/libre, reconnexion, doublons d’indices, scores et rotation, ainsi que le jeu d’origine.
