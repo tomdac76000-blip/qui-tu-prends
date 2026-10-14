@@ -1198,5 +1198,495 @@
     "category": "roast",
     "level": "trash",
     "text": "Qui mentirait si mal devant un juge que son propre avocat changerait de camp ?"
+  },
+  {
+    "id": "perso-1",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà dit « j’arrive » alors que tu n’étais même pas habillé ?"
+  },
+  {
+    "id": "perso-2",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà fait semblant de comprendre une blague devant tout le monde ?"
+  },
+  {
+    "id": "perso-3",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà annulé une sortie pour rester jouer tranquillement ?"
+  },
+  {
+    "id": "perso-4",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà cherché ton téléphone alors que tu l’avais dans la main ?"
+  },
+  {
+    "id": "perso-5",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà regardé la fin d’une série sans la personne avec qui tu la suivais ?"
+  },
+  {
+    "id": "perso-6",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà envoyé une capture d’écran à la personne qui était dessus, par erreur ?"
+  },
+  {
+    "id": "perso-7",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà fait semblant de dormir pour éviter une conversation ?"
+  },
+  {
+    "id": "perso-8",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà acheté un jeu auquel tu n’as jamais joué ?"
+  },
+  {
+    "id": "perso-9",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà accusé ta connexion après avoir raté une action toute simple ?"
+  },
+  {
+    "id": "perso-10",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà fait semblant de connaître un anime pour suivre une conversation ?"
+  },
+  {
+    "id": "perso-11",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà répété une conversation imaginaire sous la douche ?"
+  },
+  {
+    "id": "perso-12",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà relu tes propres messages pour vérifier à quel point tu étais drôle ?"
+  },
+  {
+    "id": "perso-13",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà cherché la solution d’un jeu avant de dire « j’ai trouvé » ?"
+  },
+  {
+    "id": "perso-14",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà envoyé « mdr » avec un visage parfaitement immobile ?"
+  },
+  {
+    "id": "perso-15",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà dit « dernière partie » plus de cinq fois dans la même soirée ?"
+  },
+  {
+    "id": "perso-16",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà prétendu ne pas avoir vu un message auquel tu ne voulais pas répondre ?"
+  },
+  {
+    "id": "perso-17",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà oublié le prénom de quelqu’un pendant toute une conversation ?"
+  },
+  {
+    "id": "perso-18",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà parlé à ton animal comme à un colocataire qui ne fait aucun effort ?"
+  },
+  {
+    "id": "perso-19",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà regardé un tuto pour une tâche censée prendre trente secondes ?"
+  },
+  {
+    "id": "perso-20",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà fait un achat à cause d’un skin ou d’un objet virtuel particulièrement joli ?"
+  },
+  {
+    "id": "perso-21",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà baissé le son pour mieux lire une adresse ?"
+  },
+  {
+    "id": "perso-22",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà changé de tenue après avoir imaginé une remarque que personne n’avait faite ?"
+  },
+  {
+    "id": "perso-23",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà passé plus de temps à choisir un film qu’à le regarder ?"
+  },
+  {
+    "id": "perso-24",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà feint une coupure de micro pour rire tranquillement ?"
+  },
+  {
+    "id": "perso-25",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà vérifié trois fois que ta porte était fermée ?"
+  },
+  {
+    "id": "perso-26",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà inventé une excuse pour quitter un appel de groupe ?"
+  },
+  {
+    "id": "perso-27",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà mangé quelque chose qui était censé être réservé pour plus tard ?"
+  },
+  {
+    "id": "perso-28",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà fait semblant d’être occupé pour éviter d’aider à déménager ?"
+  },
+  {
+    "id": "perso-29",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà dit « je connais un raccourci » avant de rallonger le trajet ?"
+  },
+  {
+    "id": "perso-30",
+    "category": "perso",
+    "type": "yesno",
+    "level": "normal",
+    "text": "As-tu déjà été plus investi dans un personnage fictif que dans une réunion réelle ?"
+  },
+  {
+    "id": "perso-31",
+    "category": "perso",
+    "type": "yesno",
+    "level": "trash",
+    "text": "As-tu déjà « oublié » de scanner un article à une caisse automatique ?"
+  },
+  {
+    "id": "perso-32",
+    "category": "perso",
+    "type": "yesno",
+    "level": "trash",
+    "text": "As-tu déjà ri à un moment où il ne fallait vraiment pas rire ?"
+  },
+  {
+    "id": "perso-33",
+    "category": "perso",
+    "type": "yesno",
+    "level": "trash",
+    "text": "As-tu déjà menti sur ton niveau en jeu avant de te faire exposer en direct ?"
+  },
+  {
+    "id": "perso-34",
+    "category": "perso",
+    "type": "yesno",
+    "level": "trash",
+    "text": "As-tu déjà triché à un jeu de société et nié avec beaucoup trop d’assurance ?"
+  },
+  {
+    "id": "perso-35",
+    "category": "perso",
+    "type": "yesno",
+    "level": "trash",
+    "text": "As-tu déjà fait semblant d’aimer un cadeau franchement catastrophique ?"
+  },
+  {
+    "id": "perso-36",
+    "category": "perso",
+    "type": "yesno",
+    "level": "trash",
+    "text": "As-tu déjà laissé un pote prendre la responsabilité d’une bêtise que tu avais faite ?"
+  },
+  {
+    "id": "perso-37",
+    "category": "perso",
+    "type": "yesno",
+    "level": "trash",
+    "text": "As-tu déjà préparé une réponse assassine, puis simplement envoyé « ok » ?"
+  },
+  {
+    "id": "perso-38",
+    "category": "perso",
+    "type": "yesno",
+    "level": "trash",
+    "text": "As-tu déjà supprimé un message en priant pour que personne ne l’ait lu ?"
+  },
+  {
+    "id": "perso-39",
+    "category": "perso",
+    "type": "yesno",
+    "level": "trash",
+    "text": "As-tu déjà raconté la même histoire à deux personnes avec des versions très différentes ?"
+  },
+  {
+    "id": "perso-40",
+    "category": "perso",
+    "type": "yesno",
+    "level": "trash",
+    "text": "As-tu déjà complimenté le repas de quelqu’un avant de commander à manger en rentrant ?"
+  },
+  {
+    "id": "tier-1",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui ferait le meilleur parent ? Classe le groupe de S à D."
+  },
+  {
+    "id": "tier-2",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui survivrait le mieux à une apocalypse zombie ?"
+  },
+  {
+    "id": "tier-3",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui serait le meilleur colocataire ?"
+  },
+  {
+    "id": "tier-4",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui ferait le meilleur capitaine d’une équipe de gaming ?"
+  },
+  {
+    "id": "tier-5",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui serait le plus fiable pour garder un énorme secret ?"
+  },
+  {
+    "id": "tier-6",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui cuisinerait le meilleur repas avec trois ingrédients au hasard ?"
+  },
+  {
+    "id": "tier-7",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui ferait le meilleur chef d’entreprise ?"
+  },
+  {
+    "id": "tier-8",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui serait le plus utile sur une île déserte ?"
+  },
+  {
+    "id": "tier-9",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui pourrait le mieux improviser un discours devant mille personnes ?"
+  },
+  {
+    "id": "tier-10",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui ferait le meilleur détective dans une enquête complètement absurde ?"
+  },
+  {
+    "id": "tier-11",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui aurait le plus de chances de gagner un jeu de survie télévisé ?"
+  },
+  {
+    "id": "tier-12",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui serait le meilleur guide pour un voyage sans aucun programme ?"
+  },
+  {
+    "id": "tier-13",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui ferait le meilleur négociateur pour obtenir un kebab gratuit ?"
+  },
+  {
+    "id": "tier-14",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui serait le plus convaincant en super-héros ?"
+  },
+  {
+    "id": "tier-15",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui serait le plus à l’aise pour devenir Hokage ?"
+  },
+  {
+    "id": "tier-16",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui garderait le mieux son calme pendant une finale classée ?"
+  },
+  {
+    "id": "tier-17",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui organiserait la meilleure soirée surprise ?"
+  },
+  {
+    "id": "tier-18",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui serait le plus drôle dans un stand-up improvisé ?"
+  },
+  {
+    "id": "tier-19",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui pourrait le mieux convaincre des extraterrestres de nous laisser tranquilles ?"
+  },
+  {
+    "id": "tier-20",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui serait le plus fiable pour arroser tes plantes pendant un mois ?"
+  },
+  {
+    "id": "tier-21",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui serait le meilleur avocat pour défendre une affaire perdue d’avance ?"
+  },
+  {
+    "id": "tier-22",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui aurait le plus de chances de devenir une légende d’Internet ?"
+  },
+  {
+    "id": "tier-23",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui serait le meilleur chef d’un équipage de pirates ?"
+  },
+  {
+    "id": "tier-24",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui improviserait le mieux un plan après avoir tout fait foirer ?"
+  },
+  {
+    "id": "tier-25",
+    "category": "tier",
+    "type": "tier",
+    "level": "normal",
+    "text": "Qui aurait le plus de talent pour se faire passer pour un expert ?"
+  },
+  {
+    "id": "tier-26",
+    "category": "tier",
+    "type": "tier",
+    "level": "trash",
+    "text": "Qui aurait le plus de chances de ruiner un mariage avec une seule phrase ?"
+  },
+  {
+    "id": "tier-27",
+    "category": "tier",
+    "type": "tier",
+    "level": "trash",
+    "text": "Qui serait le plus capable de trahir le groupe pour un avantage ridicule ?"
+  },
+  {
+    "id": "tier-28",
+    "category": "tier",
+    "type": "tier",
+    "level": "trash",
+    "text": "Qui aurait l’ego le plus surdimensionné s’il obtenait un super-pouvoir ?"
+  },
+  {
+    "id": "tier-29",
+    "category": "tier",
+    "type": "tier",
+    "level": "trash",
+    "text": "Qui serait le plus insupportable s’il devenait célèbre demain ?"
+  },
+  {
+    "id": "tier-30",
+    "category": "tier",
+    "type": "tier",
+    "level": "trash",
+    "text": "Qui serait le meilleur pour faire croire que sa défaite est la faute de tous les autres ?"
   }
 ]
