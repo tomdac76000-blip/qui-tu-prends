@@ -8,7 +8,7 @@ Crée un salon, partage son lien, choisis 1 ou 2 amis par vote et lance la parti
 
 ## Fonctionnalités
 
-- 270 questions locales : 200 votes entre potes dans 10 catégories, 40 Oui/Non personnels et 30 tier lists ; modes Normal et Trash.
+- 600 questions locales : 400 votes entre potes dans 10 catégories, 110 Oui/Non personnels et 90 tier lists ; modes Normal et Trash.
 - Choix du format dans le salon : Potes, Perso, Tier list, ou Mélange des trois.
 - Oui/Non : chacun répond pour soi, puis les totaux et les réponses nominatives sont révélés. Les absences restent distinctes des réponses Non.
 - Tier list : classe tous les participants, toi compris, de S à D ; plusieurs personnes peuvent partager un rang. Touche un joueur puis un rang, et valide lorsque tout le monde est placé. 60 secondes par manche.
@@ -31,3 +31,5 @@ Render : service web Node, branche `main`, build `npm ci`, démarrage `npm start
 Les salons sont en mémoire : un redémarrage ou déploiement peut interrompre les parties. L’hôte peut recréer un salon. L’offre gratuite peut s’endormir ; son premier réveil peut prendre environ une minute. Les questions personnalisées restent dans le stockage local du navigateur de l’hôte, et dans la mémoire du salon pendant son existence.
 
 Les pourcentages des votes entre potes représentent la part des choix exprimés, pas la part des joueurs. Pour le Oui/Non, ils portent sur les réponses exprimées. Les scores entre potes sont le nombre de fois où chaque personne a été sélectionnée. Les modes Perso et Tier list ont leur propre bilan et n’ajoutent pas de points à ce classement. Passer une question ne distribue pas de points. Les dossiers privés peuvent utiliser chacun des trois formats.
+
+Interface édition arcade : cadres pixel, sprites CSS, titres rétro et prise en charge des préférences de mouvement réduit.

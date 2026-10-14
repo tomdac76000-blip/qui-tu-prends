@@ -1688,5 +1688,2115 @@
     "type": "tier",
     "level": "trash",
     "text": "Qui serait le meilleur pour faire croire que sa défaite est la faute de tous les autres ?"
+  },
+  {
+    "id": "bulk-general-1",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui pourrait négocier une réduction sur un objet gratuit ?"
+  },
+  {
+    "id": "bulk-general-2",
+    "category": "general",
+    "level": "normal",
+    "text": "Tu dois traverser la ville avec un gâteau à cinq étages. À qui tu le confies ?"
+  },
+  {
+    "id": "bulk-general-3",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui lancerait une pétition contre le réveil du lundi ?"
+  },
+  {
+    "id": "bulk-general-4",
+    "category": "general",
+    "level": "normal",
+    "text": "Tu échanges ton appartement pendant un mois. À qui tu laisses les clés ?"
+  },
+  {
+    "id": "bulk-general-5",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui se ferait adopter par une famille pendant des vacances ?"
+  },
+  {
+    "id": "bulk-general-6",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui arriverait avec une valise pour une soirée pyjama ?"
+  },
+  {
+    "id": "bulk-general-7",
+    "category": "general",
+    "level": "normal",
+    "text": "Tu participes à un concours de cuisine sans recette. Qui devient ton commis ?"
+  },
+  {
+    "id": "bulk-general-8",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui transformerait une panne d'ascenseur en réunion de copropriété ?"
+  },
+  {
+    "id": "bulk-general-9",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui pourrait vendre un parapluie en plein désert ?"
+  },
+  {
+    "id": "bulk-general-10",
+    "category": "general",
+    "level": "normal",
+    "text": "Tu dois choisir un cadeau pour quelqu'un que personne ne connaît. Qui t'aide ?"
+  },
+  {
+    "id": "bulk-general-11",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui se retrouverait sur une photo de mariage sans connaître les mariés ?"
+  },
+  {
+    "id": "bulk-general-12",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui apprendrait la langue locale juste pour commander un dessert ?"
+  },
+  {
+    "id": "bulk-general-13",
+    "category": "general",
+    "level": "normal",
+    "text": "Tu dois meubler un studio avec cinquante euros. Qui gère le budget ?"
+  },
+  {
+    "id": "bulk-general-14",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui inventerait un sport dont il est le seul à comprendre les règles ?"
+  },
+  {
+    "id": "bulk-general-15",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui serait capable de sympathiser avec le contrôleur après avoir raté son train ?"
+  },
+  {
+    "id": "bulk-general-16",
+    "category": "general",
+    "level": "normal",
+    "text": "Tu dois improviser un discours de témoin. Qui écrit les trois premières phrases ?"
+  },
+  {
+    "id": "bulk-general-17",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui partirait acheter du pain et reviendrait avec un projet de reconversion ?"
+  },
+  {
+    "id": "bulk-general-18",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui réussirait à garder une plante carnivore végétarienne ?"
+  },
+  {
+    "id": "bulk-general-19",
+    "category": "general",
+    "level": "normal",
+    "text": "Qui organiserait un planning pour des vacances censées être spontanées ?"
+  },
+  {
+    "id": "bulk-general-20",
+    "category": "general",
+    "level": "normal",
+    "text": "Tu dois faire rire un jury totalement impassible. Qui envoies-tu ?"
+  },
+  {
+    "id": "bulk-noir-1",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui réclamerait le remboursement de son abonnement après l'apocalypse ?"
+  },
+  {
+    "id": "bulk-noir-2",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui noterait la qualité du buffet à son propre procès ?"
+  },
+  {
+    "id": "bulk-noir-3",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui demanderait un arrêt maladie à la Grande Faucheuse ?"
+  },
+  {
+    "id": "bulk-noir-4",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui vendrait des billets coupe-file pour le purgatoire ?"
+  },
+  {
+    "id": "bulk-noir-5",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui ferait un placement de produit pendant une invasion de zombies ?"
+  },
+  {
+    "id": "bulk-noir-6",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui rédigerait un avis négatif sur la maison hantée où il est coincé ?"
+  },
+  {
+    "id": "bulk-noir-7",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui ouvrirait une boutique de souvenirs au bord du gouffre ?"
+  },
+  {
+    "id": "bulk-noir-8",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui se disputerait avec son clone pour savoir lequel mérite l'héritage ?"
+  },
+  {
+    "id": "bulk-noir-9",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui ferait signer une décharge avant de sauver quelqu'un dans un film catastrophe ?"
+  },
+  {
+    "id": "bulk-noir-10",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui demanderait si la malédiction est couverte par la garantie ?"
+  },
+  {
+    "id": "bulk-noir-11",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui pourrait se faire licencier de son poste de fantôme ?"
+  },
+  {
+    "id": "bulk-noir-12",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui chercherait le code promo d'un exorcisme ?"
+  },
+  {
+    "id": "bulk-noir-13",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui porterait plainte contre un vampire pour nuisances nocturnes ?"
+  },
+  {
+    "id": "bulk-noir-14",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui réserverait déjà ses vacances après avoir vendu son âme ?"
+  },
+  {
+    "id": "bulk-noir-15",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui demanderait un reçu au passeur des Enfers ?"
+  },
+  {
+    "id": "bulk-noir-16",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui négocierait sa résurrection contre des points fidélité ?"
+  },
+  {
+    "id": "bulk-noir-17",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui transformerait le bunker du groupe en location saisonnière ?"
+  },
+  {
+    "id": "bulk-noir-18",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui inviterait la Mort à patienter parce que son colis arrive aujourd'hui ?"
+  },
+  {
+    "id": "bulk-noir-19",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui lancerait une collecte pour réparer l'astéroïde qui a raté la Terre ?"
+  },
+  {
+    "id": "bulk-noir-20",
+    "category": "noir",
+    "level": "trash",
+    "text": "Qui perdrait le testament mais garderait la facture du cercueil ?"
+  },
+  {
+    "id": "bulk-gaming-1",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui passerait plus de temps dans l'éditeur de personnage que dans l'aventure ?"
+  },
+  {
+    "id": "bulk-gaming-2",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui économiserait ses potions jusqu'au générique de fin ?"
+  },
+  {
+    "id": "bulk-gaming-3",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui lirait tous les livres d'un RPG pendant que le groupe attend ?"
+  },
+  {
+    "id": "bulk-gaming-4",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui chercherait à caresser un boss clairement hostile ?"
+  },
+  {
+    "id": "bulk-gaming-5",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui transformerait une ferme paisible en usine d'optimisation ?"
+  },
+  {
+    "id": "bulk-gaming-6",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui refuserait une meilleure armure parce qu'elle gâche sa tenue ?"
+  },
+  {
+    "id": "bulk-gaming-7",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui se perdrait même avec une mini-carte et une flèche géante ?"
+  },
+  {
+    "id": "bulk-gaming-8",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui construirait un palace avant d'avoir fabriqué un lit ?"
+  },
+  {
+    "id": "bulk-gaming-9",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui achèterait un jeu en promo alors qu'il le possède déjà ?"
+  },
+  {
+    "id": "bulk-gaming-10",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui lancerait un tutoriel vidéo pour comprendre le tutoriel du jeu ?"
+  },
+  {
+    "id": "bulk-gaming-11",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui déciderait de faire un speedrun sans avoir fini le jeu une fois ?"
+  },
+  {
+    "id": "bulk-gaming-12",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui organiserait une réunion pour choisir le nom de la guilde ?"
+  },
+  {
+    "id": "bulk-gaming-13",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui garderait un objet inutile parce qu'il pourrait servir un jour ?"
+  },
+  {
+    "id": "bulk-gaming-14",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui trahirait sa faction pour un chapeau exclusif ?"
+  },
+  {
+    "id": "bulk-gaming-15",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui oublierait la mission principale pour livrer des légumes à un PNJ ?"
+  },
+  {
+    "id": "bulk-gaming-16",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui ferait une capture d'écran au lieu d'esquiver l'attaque ?"
+  },
+  {
+    "id": "bulk-gaming-17",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui changerait toutes ses touches puis oublierait comment sauter ?"
+  },
+  {
+    "id": "bulk-gaming-18",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui lancerait une dernière partie avec un départ prévu dans trois minutes ?"
+  },
+  {
+    "id": "bulk-gaming-19",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui paierait un DLC uniquement pour une nouvelle coiffure ?"
+  },
+  {
+    "id": "bulk-gaming-20",
+    "category": "gaming",
+    "level": "normal",
+    "text": "Qui expliquerait que sa défaite était un test scientifique ?"
+  },
+  {
+    "id": "bulk-lol-1",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui utiliserait son flash pour récupérer un sbire ?"
+  },
+  {
+    "id": "bulk-lol-2",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui choisirait son champion selon la beauté du skin ?"
+  },
+  {
+    "id": "bulk-lol-3",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui ferait un exposé sur la draft avant une partie entre débutants ?"
+  },
+  {
+    "id": "bulk-lol-4",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui partirait poser une ward et reviendrait avec trois ennemis derrière lui ?"
+  },
+  {
+    "id": "bulk-lol-5",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui garderait son ultime pour une occasion qui n'arrive jamais ?"
+  },
+  {
+    "id": "bulk-lol-6",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui demanderait un gank alors que son jungler est encore au chargement ?"
+  },
+  {
+    "id": "bulk-lol-7",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui commencerait Baron pour voir si quelqu'un le suit ?"
+  },
+  {
+    "id": "bulk-lol-8",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui écrirait son plan de jeu pendant que sa tour tombe ?"
+  },
+  {
+    "id": "bulk-lol-9",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui essaierait un champion pour la première fois en finale du tournoi des potes ?"
+  },
+  {
+    "id": "bulk-lol-10",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui oublierait d'acheter des objets en quittant la base ?"
+  },
+  {
+    "id": "bulk-lol-11",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui ferait confiance à un ping sans regarder la carte ?"
+  },
+  {
+    "id": "bulk-lol-12",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui défendrait un build absurde avec un tableur ?"
+  },
+  {
+    "id": "bulk-lol-13",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui poursuivrait un ennemi jusque dans une autre partie ?"
+  },
+  {
+    "id": "bulk-lol-14",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui négocierait diplomatiquement avec le dragon ?"
+  },
+  {
+    "id": "bulk-lol-15",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui sacrifierait la victoire pour réussir un combo spectaculaire ?"
+  },
+  {
+    "id": "bulk-lol-16",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui annoncerait un retour légendaire avec zéro tour restante ?"
+  },
+  {
+    "id": "bulk-lol-17",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui créerait un fan-club pour le marchand de la Faille ?"
+  },
+  {
+    "id": "bulk-lol-18",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui demanderait une pause repas pendant un teamfight ?"
+  },
+  {
+    "id": "bulk-lol-19",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui se réjouirait de son score en oubliant le Nexus ?"
+  },
+  {
+    "id": "bulk-lol-20",
+    "category": "lol",
+    "level": "normal",
+    "text": "Qui choisirait support pour diriger tout le monde sans être nommé capitaine ?"
+  },
+  {
+    "id": "bulk-valorant-1",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui utiliserait toute sa fumée pour cacher sa propre panique ?"
+  },
+  {
+    "id": "bulk-valorant-2",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui changerait de viseur après chaque balle ratée ?"
+  },
+  {
+    "id": "bulk-valorant-3",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui aurait une stratégie parfaite mais oublierait le spike au spawn ?"
+  },
+  {
+    "id": "bulk-valorant-4",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui chuchoterait dans son micro pour ne pas être entendu par les ennemis ?"
+  },
+  {
+    "id": "bulk-valorant-5",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui achèterait un skin pour améliorer sa confiance plutôt que sa précision ?"
+  },
+  {
+    "id": "bulk-valorant-6",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui lancerait une flash au pire moment pour ses alliés ?"
+  },
+  {
+    "id": "bulk-valorant-7",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui inspecterait son arme pendant qu'on désamorce ?"
+  },
+  {
+    "id": "bulk-valorant-8",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui annoncerait un adversaire à un endroit où il l'a vu trois manches avant ?"
+  },
+  {
+    "id": "bulk-valorant-9",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui demanderait le silence puis ferait tomber son verre ?"
+  },
+  {
+    "id": "bulk-valorant-10",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui économiserait tellement qu'il finirait la partie avec une fortune ?"
+  },
+  {
+    "id": "bulk-valorant-11",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui essaierait de parlementer avec le dernier ennemi ?"
+  },
+  {
+    "id": "bulk-valorant-12",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui connaîtrait toutes les lineups mais oublierait le nom de la map ?"
+  },
+  {
+    "id": "bulk-valorant-13",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui traverserait une fumée uniquement parce qu'il est curieux ?"
+  },
+  {
+    "id": "bulk-valorant-14",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui ferait un discours de motivation pendant la phase d'achat ?"
+  },
+  {
+    "id": "bulk-valorant-15",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui chercherait son arme préférée par terre au lieu de couvrir le site ?"
+  },
+  {
+    "id": "bulk-valorant-16",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui déclarerait une zone sécurisée juste avant de se faire surprendre ?"
+  },
+  {
+    "id": "bulk-valorant-17",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui défendrait son spray raté comme une technique de diversion ?"
+  },
+  {
+    "id": "bulk-valorant-18",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui choisirait son agent pour sa réplique de victoire ?"
+  },
+  {
+    "id": "bulk-valorant-19",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui utiliserait son ultime pour impressionner un spectateur ?"
+  },
+  {
+    "id": "bulk-valorant-20",
+    "category": "valorant",
+    "level": "normal",
+    "text": "Qui célébrerait son clutch avant de vérifier le temps restant ?"
+  },
+  {
+    "id": "bulk-rocket-1",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui dépenserait tout son boost pour rentrer dans un pote ?"
+  },
+  {
+    "id": "bulk-rocket-2",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui passerait une heure à assortir ses roues à son antenne ?"
+  },
+  {
+    "id": "bulk-rocket-3",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui traiterait le ballon comme un collègue peu coopératif ?"
+  },
+  {
+    "id": "bulk-rocket-4",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui annoncerait un aerial avant de décoller de dix centimètres ?"
+  },
+  {
+    "id": "bulk-rocket-5",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui préférerait une belle passe ratée à un but facile ?"
+  },
+  {
+    "id": "bulk-rocket-6",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui réclamerait un GPS pour retrouver son propre but ?"
+  },
+  {
+    "id": "bulk-rocket-7",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui volerait le boost du gardien puis demanderait pourquoi il n'a pas arrêté le tir ?"
+  },
+  {
+    "id": "bulk-rocket-8",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui ferait un tour complet du terrain pour récupérer le gros boost ?"
+  },
+  {
+    "id": "bulk-rocket-9",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui s'excuserait avant même de tenter son dégagement ?"
+  },
+  {
+    "id": "bulk-rocket-10",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui regarderait le replay de son but contre son camp avec fierté ?"
+  },
+  {
+    "id": "bulk-rocket-11",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui confondrait rotation d'équipe et tonneau artistique ?"
+  },
+  {
+    "id": "bulk-rocket-12",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui choisirait sa voiture selon son potentiel de klaxon imaginaire ?"
+  },
+  {
+    "id": "bulk-rocket-13",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui serait meilleur à démolir les adversaires qu'à toucher le ballon ?"
+  },
+  {
+    "id": "bulk-rocket-14",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui préparerait un entraînement de kickoff pour une soirée détente ?"
+  },
+  {
+    "id": "bulk-rocket-15",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui ferait une célébration alors que le ballon rebondit encore sur la ligne ?"
+  },
+  {
+    "id": "bulk-rocket-16",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui chercherait un raccourci dans une arène fermée ?"
+  },
+  {
+    "id": "bulk-rocket-17",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui passerait gardien pour pouvoir manger entre deux tirs ?"
+  },
+  {
+    "id": "bulk-rocket-18",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui inventerait une excuse météorologique pour une défaite en salle ?"
+  },
+  {
+    "id": "bulk-rocket-19",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui raterait le ballon immobile mais réussirait le tir impossible ?"
+  },
+  {
+    "id": "bulk-rocket-20",
+    "category": "rocket",
+    "level": "normal",
+    "text": "Qui transformerait les prolongations en test de résistance du canapé ?"
+  },
+  {
+    "id": "bulk-anime-1",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui expliquerait sa technique secrète si longtemps que le combat serait terminé ?"
+  },
+  {
+    "id": "bulk-anime-2",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui deviendrait rival du héros juste pour avoir une meilleure veste ?"
+  },
+  {
+    "id": "bulk-anime-3",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui suivrait un personnage louche parce que son thème musical est incroyable ?"
+  },
+  {
+    "id": "bulk-anime-4",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui ouvrirait un restaurant au lieu de chercher les artefacts légendaires ?"
+  },
+  {
+    "id": "bulk-anime-5",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui demanderait un congé pendant l'arc d'entraînement ?"
+  },
+  {
+    "id": "bulk-anime-6",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui dépenserait sa prime de pirate en figurines de lui-même ?"
+  },
+  {
+    "id": "bulk-anime-7",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui confondrait un examen de ninja avec une course d'orientation ?"
+  },
+  {
+    "id": "bulk-anime-8",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui ferait un discours sur l'amitié à un distributeur en panne ?"
+  },
+  {
+    "id": "bulk-anime-9",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui rejoindrait l'équipe adverse pour profiter de leur cantine ?"
+  },
+  {
+    "id": "bulk-anime-10",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui aurait une transformation spectaculaire pour simplement ouvrir un bocal ?"
+  },
+  {
+    "id": "bulk-anime-11",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui adopterait la créature que tout le village redoute ?"
+  },
+  {
+    "id": "bulk-anime-12",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui s'endormirait pendant le flashback qui explique tout ?"
+  },
+  {
+    "id": "bulk-anime-13",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui révélerait son identité secrète dans son pseudo en ligne ?"
+  },
+  {
+    "id": "bulk-anime-14",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui mettrait cinq épisodes à reconnaître quelqu'un avec des lunettes ?"
+  },
+  {
+    "id": "bulk-anime-15",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui ferait un budget prévisionnel avant de partir à l'aventure ?"
+  },
+  {
+    "id": "bulk-anime-16",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui réclamerait une version abrégée de la prophétie ?"
+  },
+  {
+    "id": "bulk-anime-17",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui serait le personnage secondaire dont tout le monde veut un spin-off ?"
+  },
+  {
+    "id": "bulk-anime-18",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui tenterait de résoudre le tournoi par un concours de cuisine ?"
+  },
+  {
+    "id": "bulk-anime-19",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui ferait une tier list des méchants selon leur politesse ?"
+  },
+  {
+    "id": "bulk-anime-20",
+    "category": "anime",
+    "level": "normal",
+    "text": "Qui finirait un épisode à deux heures du matin et lancerait toute une saison ?"
+  },
+  {
+    "id": "bulk-comics-1",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui utiliserait la téléportation uniquement pour éviter les escaliers ?"
+  },
+  {
+    "id": "bulk-comics-2",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui demanderait un remboursement après une morsure d'araignée sans pouvoirs ?"
+  },
+  {
+    "id": "bulk-comics-3",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui ferait payer le stationnement de la Batmobile ?"
+  },
+  {
+    "id": "bulk-comics-4",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui ferait un sondage pour choisir son nom de super-héros ?"
+  },
+  {
+    "id": "bulk-comics-5",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui perdrait sa cape dans les portes du métro ?"
+  },
+  {
+    "id": "bulk-comics-6",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui cacherait son identité avec un accessoire que tout le monde reconnaît ?"
+  },
+  {
+    "id": "bulk-comics-7",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui deviendrait méchant parce qu'on lui a volé sa place de parking ?"
+  },
+  {
+    "id": "bulk-comics-8",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui demanderait aux Avengers de ranger après la bataille ?"
+  },
+  {
+    "id": "bulk-comics-9",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui utiliserait son super-souffle pour refroidir son café ?"
+  },
+  {
+    "id": "bulk-comics-10",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui oublierait de recharger son armure avant la mission ?"
+  },
+  {
+    "id": "bulk-comics-11",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui créerait un groupe de discussion avec tous ses ennemis ?"
+  },
+  {
+    "id": "bulk-comics-12",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui refuserait de sauver le monde avant son petit-déjeuner ?"
+  },
+  {
+    "id": "bulk-comics-13",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui réclamerait une assurance habitation spéciale combats de titans ?"
+  },
+  {
+    "id": "bulk-comics-14",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui vendrait les objets trouvés dans le repaire du méchant ?"
+  },
+  {
+    "id": "bulk-comics-15",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui présenterait son costume secret à un concours de cosplay ?"
+  },
+  {
+    "id": "bulk-comics-16",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui engagerait un assistant pour écrire ses répliques héroïques ?"
+  },
+  {
+    "id": "bulk-comics-17",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui aurait une faiblesse secrète aussi banale que les réunions du lundi ?"
+  },
+  {
+    "id": "bulk-comics-18",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui tenterait de rendre le marteau de Thor au bureau des objets trouvés ?"
+  },
+  {
+    "id": "bulk-comics-19",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui demanderait à son double maléfique de finir ses corvées ?"
+  },
+  {
+    "id": "bulk-comics-20",
+    "category": "comics",
+    "level": "normal",
+    "text": "Qui ferait passer un entretien d'embauche à son futur acolyte ?"
+  },
+  {
+    "id": "bulk-multivers-1",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui ouvrirait un portail vers une autre dimension pour comparer le prix des courses ?"
+  },
+  {
+    "id": "bulk-multivers-2",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui choisirait une réalité parallèle uniquement pour sa meilleure connexion Internet ?"
+  },
+  {
+    "id": "bulk-multivers-3",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui inviterait tous ses doubles à son anniversaire puis regretterait ?"
+  },
+  {
+    "id": "bulk-multivers-4",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui vendrait un guide touristique d'un univers qu'il n'a jamais visité ?"
+  },
+  {
+    "id": "bulk-multivers-5",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui utiliserait une machine à voyager dans le temps pour retrouver un mot de passe ?"
+  },
+  {
+    "id": "bulk-multivers-6",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui ferait un concours de mauvaise foi contre sa version du futur ?"
+  },
+  {
+    "id": "bulk-multivers-7",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui se tromperait de dimension en rentrant de soirée ?"
+  },
+  {
+    "id": "bulk-multivers-8",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui demanderait à un oracle le menu de demain ?"
+  },
+  {
+    "id": "bulk-multivers-9",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui organiserait une colocation entre un sorcier, un robot et un vampire ?"
+  },
+  {
+    "id": "bulk-multivers-10",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui ferait un stage d'observation dans l'empire du grand méchant ?"
+  },
+  {
+    "id": "bulk-multivers-11",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui échangerait une épée légendaire contre une batterie externe ?"
+  },
+  {
+    "id": "bulk-multivers-12",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui se ferait bannir d'un royaume pour avoir critiqué le Wi-Fi ?"
+  },
+  {
+    "id": "bulk-multivers-13",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui construirait un portail sans prévoir comment revenir ?"
+  },
+  {
+    "id": "bulk-multivers-14",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui utiliserait un vœu magique pour récupérer son chargeur ?"
+  },
+  {
+    "id": "bulk-multivers-15",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui convaincrait un dragon de devenir livreur de pizzas ?"
+  },
+  {
+    "id": "bulk-multivers-16",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui ferait découvrir les jeux de société à une civilisation extraterrestre ?"
+  },
+  {
+    "id": "bulk-multivers-17",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui transformerait un combat entre univers en débat sur les règles ?"
+  },
+  {
+    "id": "bulk-multivers-18",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui emmènerait un robot dans un escape game pour qu'il lise les conditions générales ?"
+  },
+  {
+    "id": "bulk-multivers-19",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui demanderait à un voyageur temporel de lui éviter un rendez-vous gênant ?"
+  },
+  {
+    "id": "bulk-multivers-20",
+    "category": "multivers",
+    "level": "normal",
+    "text": "Qui garderait un souvenir interdit et provoquerait un paradoxe par nostalgie ?"
+  },
+  {
+    "id": "bulk-roast-1",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui pourrait perdre un débat contre la notice d'un grille-pain ?"
+  },
+  {
+    "id": "bulk-roast-2",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui a une confiance de champion et une préparation de stagiaire ?"
+  },
+  {
+    "id": "bulk-roast-3",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui mettrait son réveil en silencieux pour mieux dormir ?"
+  },
+  {
+    "id": "bulk-roast-4",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui demanderait un tutoriel pour utiliser un marque-page ?"
+  },
+  {
+    "id": "bulk-roast-5",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui arriverait en retard à une réunion qu'il a lui-même annulée ?"
+  },
+  {
+    "id": "bulk-roast-6",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui écrirait « urgent » puis ne répondrait plus pendant trois jours ?"
+  },
+  {
+    "id": "bulk-roast-7",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui ferait un podcast de deux heures pour raconter un trajet de cinq minutes ?"
+  },
+  {
+    "id": "bulk-roast-8",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui transforme chaque choix de restaurant en crise diplomatique ?"
+  },
+  {
+    "id": "bulk-roast-9",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui pourrait rater un selfie avec un miroir ?"
+  },
+  {
+    "id": "bulk-roast-10",
+    "category": "roast",
+    "level": "normal",
+    "text": "Qui demanderait où est son téléphone en téléphonant ?"
+  },
+  {
+    "id": "bulk-roast-11",
+    "category": "roast",
+    "level": "trash",
+    "text": "Qui facturerait ses conseils alors que personne ne les suit gratuitement ?"
+  },
+  {
+    "id": "bulk-roast-12",
+    "category": "roast",
+    "level": "trash",
+    "text": "Qui mérite un trophée pour ses projets jamais commencés ?"
+  },
+  {
+    "id": "bulk-roast-13",
+    "category": "roast",
+    "level": "trash",
+    "text": "Qui a toujours une solution qui nécessite le travail de quelqu'un d'autre ?"
+  },
+  {
+    "id": "bulk-roast-14",
+    "category": "roast",
+    "level": "trash",
+    "text": "Qui appellerait son désordre un système de classement intuitif ?"
+  },
+  {
+    "id": "bulk-roast-15",
+    "category": "roast",
+    "level": "trash",
+    "text": "Qui inventerait une nouvelle excuse après avoir oublié l'ancienne ?"
+  },
+  {
+    "id": "bulk-roast-16",
+    "category": "roast",
+    "level": "trash",
+    "text": "Qui ferait semblant de comprendre une blague puis demanderait discrètement ?"
+  },
+  {
+    "id": "bulk-roast-17",
+    "category": "roast",
+    "level": "trash",
+    "text": "Qui enverrait un vocal plus long que le film qu'il résume ?"
+  },
+  {
+    "id": "bulk-roast-18",
+    "category": "roast",
+    "level": "trash",
+    "text": "Qui expliquerait comment gagner juste après avoir fait perdre tout le monde ?"
+  },
+  {
+    "id": "bulk-roast-19",
+    "category": "roast",
+    "level": "trash",
+    "text": "Qui aurait besoin d'un assistant pour gérer ses assistants ?"
+  },
+  {
+    "id": "bulk-roast-20",
+    "category": "roast",
+    "level": "trash",
+    "text": "Qui pourrait faire un détour en suivant une ligne droite ?"
+  },
+  {
+    "id": "bulk-perso-1",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà fait semblant de connaître un groupe de musique ?"
+  },
+  {
+    "id": "bulk-perso-2",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà répété une commande dans ta tête avant d'appeler un restaurant ?"
+  },
+  {
+    "id": "bulk-perso-3",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà gardé un carton parce qu'il était vraiment beau ?"
+  },
+  {
+    "id": "bulk-perso-4",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà salué quelqu'un qui faisait signe à la personne derrière toi ?"
+  },
+  {
+    "id": "bulk-perso-5",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà regardé la fin d'une série sans la personne avec qui tu l'avais commencée ?"
+  },
+  {
+    "id": "bulk-perso-6",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà dit « j'arrive » sans avoir choisi tes vêtements ?"
+  },
+  {
+    "id": "bulk-perso-7",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà relu un message dix fois avant de l'envoyer ?"
+  },
+  {
+    "id": "bulk-perso-8",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà simulé un problème de connexion pour quitter un appel ?"
+  },
+  {
+    "id": "bulk-perso-9",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà acheté un livre surtout pour sa couverture ?"
+  },
+  {
+    "id": "bulk-perso-10",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà gardé un vêtement uniquement parce qu'il avait de grandes poches ?"
+  },
+  {
+    "id": "bulk-perso-11",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà inventé un avis sur un film que tu n'avais pas vu ?"
+  },
+  {
+    "id": "bulk-perso-12",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà parlé à un animal avec une voix complètement différente ?"
+  },
+  {
+    "id": "bulk-perso-13",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà répété une dispute imaginaire sous la douche ?"
+  },
+  {
+    "id": "bulk-perso-14",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà laissé un colis fermé plusieurs jours après l'avoir attendu avec impatience ?"
+  },
+  {
+    "id": "bulk-perso-15",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà pris une photo de ton repas puis oublié de la regarder ?"
+  },
+  {
+    "id": "bulk-perso-16",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà évité un rayon pour ne pas croiser une connaissance ?"
+  },
+  {
+    "id": "bulk-perso-17",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà prétendu dormir pour ne pas discuter ?"
+  },
+  {
+    "id": "bulk-perso-18",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà commandé toujours le même plat par peur d'être déçu ?"
+  },
+  {
+    "id": "bulk-perso-19",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà conservé un ticket sans savoir à quoi il correspondait ?"
+  },
+  {
+    "id": "bulk-perso-20",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà acheté un cadeau que tu avais envie de garder ?"
+  },
+  {
+    "id": "bulk-perso-21",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà mis une chanson en boucle jusqu'à ne plus la supporter ?"
+  },
+  {
+    "id": "bulk-perso-22",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà perdu une heure à choisir quoi regarder puis abandonné ?"
+  },
+  {
+    "id": "bulk-perso-23",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà ri avant la fin d'une blague pour faire plaisir ?"
+  },
+  {
+    "id": "bulk-perso-24",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà dit « on se fait ça bientôt » sans aucune intention de fixer une date ?"
+  },
+  {
+    "id": "bulk-perso-25",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà choisi une place pour être près d'une prise ?"
+  },
+  {
+    "id": "bulk-perso-26",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà répondu à une notification dans ta tête sans envoyer le message ?"
+  },
+  {
+    "id": "bulk-perso-27",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà inventé une excuse pour ne pas prêter un objet ?"
+  },
+  {
+    "id": "bulk-perso-28",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà fait semblant de ne pas voir un appel ?"
+  },
+  {
+    "id": "bulk-perso-29",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà demandé un conseil alors que ta décision était déjà prise ?"
+  },
+  {
+    "id": "bulk-perso-30",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà regardé des avis après avoir acheté pour te rassurer ?"
+  },
+  {
+    "id": "bulk-perso-31",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà changé de pseudo parce que tu avais honte de l'ancien ?"
+  },
+  {
+    "id": "bulk-perso-32",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà recommencé un jeu pour faire un autre choix de dialogue ?"
+  },
+  {
+    "id": "bulk-perso-33",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà passé une soirée à installer un jeu sans y jouer ?"
+  },
+  {
+    "id": "bulk-perso-34",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà baissé la difficulté en gardant ça pour toi ?"
+  },
+  {
+    "id": "bulk-perso-35",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà nommé un personnage d'après quelqu'un de ce groupe ?"
+  },
+  {
+    "id": "bulk-perso-36",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà triché à un jeu de société et laissé passer la victoire ?"
+  },
+  {
+    "id": "bulk-perso-37",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà acheté un accessoire gaming dont tu ne te sers presque jamais ?"
+  },
+  {
+    "id": "bulk-perso-38",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà regardé un résumé pour rejoindre une discussion sur un anime ?"
+  },
+  {
+    "id": "bulk-perso-39",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà pleuré devant une scène de jeu vidéo ?"
+  },
+  {
+    "id": "bulk-perso-40",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà appris une réplique de personnage par cœur ?"
+  },
+  {
+    "id": "bulk-perso-41",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà attendu après le générique d'un film qui n'avait aucune scène bonus ?"
+  },
+  {
+    "id": "bulk-perso-42",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà écrit une longue réponse puis envoyé seulement un emoji ?"
+  },
+  {
+    "id": "bulk-perso-43",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà préparé une valise au dernier moment malgré une liste prête depuis une semaine ?"
+  },
+  {
+    "id": "bulk-perso-44",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà apporté un jeu à une soirée sans réussir à convaincre quelqu'un d'y jouer ?"
+  },
+  {
+    "id": "bulk-perso-45",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà ouvert le frigo une deuxième fois en espérant un nouveau contenu ?"
+  },
+  {
+    "id": "bulk-perso-46",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà oublié le prénom de quelqu'un juste après les présentations ?"
+  },
+  {
+    "id": "bulk-perso-47",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà fait un détour pour écouter la fin d'une chanson ?"
+  },
+  {
+    "id": "bulk-perso-48",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà prétendu avoir compris un itinéraire ?"
+  },
+  {
+    "id": "bulk-perso-49",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà organisé tes applis au lieu de faire ce que tu devais faire ?"
+  },
+  {
+    "id": "bulk-perso-50",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà gardé une capture d'écran censée te rappeler quelque chose puis oublié quoi ?"
+  },
+  {
+    "id": "bulk-perso-51",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà testé une recette en remplaçant presque tous les ingrédients ?"
+  },
+  {
+    "id": "bulk-perso-52",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà dit bonjour deux fois à la même personne en quelques minutes ?"
+  },
+  {
+    "id": "bulk-perso-53",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà inventé un prénom pour une réservation sans raison particulière ?"
+  },
+  {
+    "id": "bulk-perso-54",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà utilisé la calculatrice pour une opération très simple par sécurité ?"
+  },
+  {
+    "id": "bulk-perso-55",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà refusé une sortie puis regretté en voyant les photos ?"
+  },
+  {
+    "id": "bulk-perso-56",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà passé plus de temps à préparer une playlist que la durée du trajet ?"
+  },
+  {
+    "id": "bulk-perso-57",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà écrit une liste de tâches avec une tâche déjà terminée pour la cocher ?"
+  },
+  {
+    "id": "bulk-perso-58",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà envoyé une capture de conversation à la personne concernée par erreur ?"
+  },
+  {
+    "id": "bulk-perso-59",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà fait semblant de découvrir une surprise que tu connaissais ?"
+  },
+  {
+    "id": "bulk-perso-60",
+    "category": "perso",
+    "level": "normal",
+    "type": "yesno",
+    "text": "As-tu déjà gardé un secret uniquement parce que tu l'avais oublié ?"
+  },
+  {
+    "id": "bulk-perso-61",
+    "category": "perso",
+    "level": "trash",
+    "type": "yesno",
+    "text": "As-tu déjà raconté une anecdote en améliorant discrètement ton rôle ?"
+  },
+  {
+    "id": "bulk-perso-62",
+    "category": "perso",
+    "level": "trash",
+    "type": "yesno",
+    "text": "As-tu déjà fait porter à la technologie la responsabilité de ta flemme ?"
+  },
+  {
+    "id": "bulk-perso-63",
+    "category": "perso",
+    "level": "trash",
+    "type": "yesno",
+    "text": "As-tu déjà quitté une soirée sans dire au revoir à personne ?"
+  },
+  {
+    "id": "bulk-perso-64",
+    "category": "perso",
+    "level": "trash",
+    "type": "yesno",
+    "text": "As-tu déjà caché un aliment pour ne pas avoir à le partager ?"
+  },
+  {
+    "id": "bulk-perso-65",
+    "category": "perso",
+    "level": "trash",
+    "type": "yesno",
+    "text": "As-tu déjà eu honte d'un message envoyé la veille ?"
+  },
+  {
+    "id": "bulk-perso-66",
+    "category": "perso",
+    "level": "trash",
+    "type": "yesno",
+    "text": "As-tu déjà prétendu ne pas avoir faim puis mangé dans l'assiette d'un pote ?"
+  },
+  {
+    "id": "bulk-perso-67",
+    "category": "perso",
+    "level": "trash",
+    "type": "yesno",
+    "text": "As-tu déjà donné un cadeau reçu à quelqu'un d'autre ?"
+  },
+  {
+    "id": "bulk-perso-68",
+    "category": "perso",
+    "level": "trash",
+    "type": "yesno",
+    "text": "As-tu déjà laissé un pote raconter une version fausse parce qu'elle était plus drôle ?"
+  },
+  {
+    "id": "bulk-perso-69",
+    "category": "perso",
+    "level": "trash",
+    "type": "yesno",
+    "text": "As-tu déjà secrètement espéré qu'un plan soit annulé ?"
+  },
+  {
+    "id": "bulk-perso-70",
+    "category": "perso",
+    "level": "trash",
+    "type": "yesno",
+    "text": "As-tu déjà lancé une vanne que personne n'a entendue puis renoncé à la répéter ?"
+  },
+  {
+    "id": "bulk-tier-1",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon sa capacité à négocier avec un vendeur très têtu."
+  },
+  {
+    "id": "bulk-tier-2",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui serait le meilleur compagnon pour un trajet de douze heures ?"
+  },
+  {
+    "id": "bulk-tier-3",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon sa capacité à monter un meuble sans notice."
+  },
+  {
+    "id": "bulk-tier-4",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui garderait le mieux son calme face à un ordinateur bloqué ?"
+  },
+  {
+    "id": "bulk-tier-5",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon son talent pour choisir un cadeau qui touche juste."
+  },
+  {
+    "id": "bulk-tier-6",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui serait le meilleur guide dans une ville inconnue ?"
+  },
+  {
+    "id": "bulk-tier-7",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon sa capacité à improviser un repas avec trois ingrédients."
+  },
+  {
+    "id": "bulk-tier-8",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui serait le meilleur arbitre d'une dispute sur les règles d'un jeu ?"
+  },
+  {
+    "id": "bulk-tier-9",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon son talent pour raconter une histoire captivante."
+  },
+  {
+    "id": "bulk-tier-10",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui gérerait le mieux un camping sous la pluie ?"
+  },
+  {
+    "id": "bulk-tier-11",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon ses chances de réussir une audition totalement improvisée."
+  },
+  {
+    "id": "bulk-tier-12",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui serait le meilleur partenaire pour apprendre une nouvelle langue ?"
+  },
+  {
+    "id": "bulk-tier-13",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon sa capacité à reconnaître une arnaque ridicule."
+  },
+  {
+    "id": "bulk-tier-14",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui organiserait le meilleur anniversaire surprise ?"
+  },
+  {
+    "id": "bulk-tier-15",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon son talent pour trouver des objets perdus."
+  },
+  {
+    "id": "bulk-tier-16",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui serait le meilleur colocataire pendant une panne d'Internet ?"
+  },
+  {
+    "id": "bulk-tier-17",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon sa capacité à choisir un film qui plaît à tout le monde."
+  },
+  {
+    "id": "bulk-tier-18",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui serait le meilleur porte-parole face à des extraterrestres ?"
+  },
+  {
+    "id": "bulk-tier-19",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon son talent pour rassurer quelqu'un avant un examen."
+  },
+  {
+    "id": "bulk-tier-20",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui serait le meilleur capitaine d'un bateau de pirates désorganisés ?"
+  },
+  {
+    "id": "bulk-tier-21",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon sa capacité à apprendre les règles d'un jeu compliqué."
+  },
+  {
+    "id": "bulk-tier-22",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui ferait le meilleur marchand dans un RPG ?"
+  },
+  {
+    "id": "bulk-tier-23",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon son talent pour inventer un pseudo mémorable."
+  },
+  {
+    "id": "bulk-tier-24",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui serait le meilleur partenaire dans un jeu de coopération sans communication ?"
+  },
+  {
+    "id": "bulk-tier-25",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon sa capacité à gérer l'inventaire d'une équipe d'aventuriers."
+  },
+  {
+    "id": "bulk-tier-26",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui ferait le meilleur présentateur d'un tournoi entre potes ?"
+  },
+  {
+    "id": "bulk-tier-27",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon sa patience pour expliquer un jeu à un débutant."
+  },
+  {
+    "id": "bulk-tier-28",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui serait le meilleur détective dans une enquête grandeur nature ?"
+  },
+  {
+    "id": "bulk-tier-29",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon sa capacité à improviser une excuse crédible pour un personnage."
+  },
+  {
+    "id": "bulk-tier-30",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui ferait le meilleur méchant de dessin animé ?"
+  },
+  {
+    "id": "bulk-tier-31",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon son talent pour reconnaître une musique de jeu."
+  },
+  {
+    "id": "bulk-tier-32",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui serait le meilleur gardien d'un secret de super-héros ?"
+  },
+  {
+    "id": "bulk-tier-33",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon sa capacité à gérer une guilde de cinquante personnes."
+  },
+  {
+    "id": "bulk-tier-34",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui ferait le meilleur conseiller d'un roi complètement à côté de la plaque ?"
+  },
+  {
+    "id": "bulk-tier-35",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon son talent pour doubler un personnage dramatique."
+  },
+  {
+    "id": "bulk-tier-36",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui serait le meilleur entraîneur d'une équipe de monstres adorables ?"
+  },
+  {
+    "id": "bulk-tier-37",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon sa capacité à survivre avec un équipement choisi au hasard."
+  },
+  {
+    "id": "bulk-tier-38",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui ferait le meilleur diplomate entre deux factions ennemies ?"
+  },
+  {
+    "id": "bulk-tier-39",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon son talent pour trouver la faille dans une énigme."
+  },
+  {
+    "id": "bulk-tier-40",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui serait le meilleur acolyte d'un héros qui improvise tout ?"
+  },
+  {
+    "id": "bulk-tier-41",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon sa capacité à garder un fou rire sous contrôle."
+  },
+  {
+    "id": "bulk-tier-42",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui serait le meilleur partenaire de karaoké ?"
+  },
+  {
+    "id": "bulk-tier-43",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon son talent pour faire croire qu'un plan était prévu."
+  },
+  {
+    "id": "bulk-tier-44",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui ferait le meilleur vendeur d'un produit complètement inutile ?"
+  },
+  {
+    "id": "bulk-tier-45",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon sa capacité à détourner une conversation embarrassante."
+  },
+  {
+    "id": "bulk-tier-46",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui serait le meilleur candidat à une émission de survie sans confort ?"
+  },
+  {
+    "id": "bulk-tier-47",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon son talent pour repérer un bluff autour d'une table."
+  },
+  {
+    "id": "bulk-tier-48",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui ferait le meilleur discours de remise de prix absurde ?"
+  },
+  {
+    "id": "bulk-tier-49",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Classe le groupe selon sa capacité à transformer un échec en anecdote drôle."
+  },
+  {
+    "id": "bulk-tier-50",
+    "category": "tier",
+    "level": "normal",
+    "type": "tier",
+    "text": "Qui serait le meilleur organisateur d'un voyage avec un budget minuscule ?"
+  },
+  {
+    "id": "bulk-tier-51",
+    "category": "tier",
+    "level": "trash",
+    "type": "tier",
+    "text": "Classe le groupe selon son talent pour garder une poker face face à une vanne."
+  },
+  {
+    "id": "bulk-tier-52",
+    "category": "tier",
+    "level": "trash",
+    "type": "tier",
+    "text": "Qui ferait le meilleur fantôme dans une maison hantée peu rentable ?"
+  },
+  {
+    "id": "bulk-tier-53",
+    "category": "tier",
+    "level": "trash",
+    "type": "tier",
+    "text": "Classe le groupe selon sa capacité à inventer une théorie avec zéro preuve."
+  },
+  {
+    "id": "bulk-tier-54",
+    "category": "tier",
+    "level": "trash",
+    "type": "tier",
+    "text": "Qui serait le meilleur avocat pour défendre une décision du groupe indéfendable ?"
+  },
+  {
+    "id": "bulk-tier-55",
+    "category": "tier",
+    "level": "trash",
+    "type": "tier",
+    "text": "Classe le groupe selon son talent pour donner des conseils qu'il ne suit jamais."
+  },
+  {
+    "id": "bulk-tier-56",
+    "category": "tier",
+    "level": "trash",
+    "type": "tier",
+    "text": "Qui ferait le meilleur responsable des excuses après une catastrophe en cuisine ?"
+  },
+  {
+    "id": "bulk-tier-57",
+    "category": "tier",
+    "level": "trash",
+    "type": "tier",
+    "text": "Classe le groupe selon sa capacité à vendre une mauvaise idée avec assurance."
+  },
+  {
+    "id": "bulk-tier-58",
+    "category": "tier",
+    "level": "trash",
+    "type": "tier",
+    "text": "Qui serait le meilleur candidat pour diriger une réunion qui ne sert à rien ?"
+  },
+  {
+    "id": "bulk-tier-59",
+    "category": "tier",
+    "level": "trash",
+    "type": "tier",
+    "text": "Classe le groupe selon son talent pour dramatiser un petit problème du quotidien."
+  },
+  {
+    "id": "bulk-tier-60",
+    "category": "tier",
+    "level": "trash",
+    "type": "tier",
+    "text": "Qui ferait le meilleur critique gastronomique d'un kebab à trois heures du matin ?"
   }
 ]
