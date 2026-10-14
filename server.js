@@ -14,7 +14,7 @@ export function createGameServer({roundMs = 30000, tierMs = 60000} = {}) {
   const arcade=installArcade(io);
   app.get('/arcade-meta',(_,res)=>res.json(arcade.meta));
   for(const page of ['trivial','duel','piege','curseur']) app.get('/'+page,(_,res)=>res.sendFile(fileURLToPath(new URL('./arcade.html',import.meta.url))));
-  for(const file of ['arcade.js','arcade.css','nav.js'])app.get('/'+file,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+file,import.meta.url))));
+  for(const file of ['arcade.js','arcade.css','nav.js','effects.js'])app.get('/'+file,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+file,import.meta.url))));
   app.disable('x-powered-by');
   app.get('/health', (_, res) => res.json({ok:true}));
   app.get('/meta',(_,res)=>res.json({categories,total:questions.length}));

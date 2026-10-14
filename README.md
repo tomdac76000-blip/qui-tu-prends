@@ -43,7 +43,7 @@ Les nouveaux jeux utilisent le canal Socket.IO `/arcade`, des salons et des jeto
 
 2 à 6 joueurs. Plateau original de 73 cases, six branches, douze cases relance, six cases camembert. Dé serveur de 1 à 6 ; déplacement exact sans repasser sur une case. Premier joueur déterminé par un lancer initial automatique, égalités départagées. Bonne réponse : rejouer ; mauvaise réponse : joueur suivant connecté. Six camemberts puis arrivée exacte au centre, catégorie choisie par le joueur suivant, question finale. En cas d’échec il faut quitter le centre avant de revenir.
 
-Six thèmes distincts à choisir parmi quinze. Cinq difficultés éditoriales par thème (non calibrées statistiquement). Catalogue initial de 150 questions : deux par thème et niveau. Un paquet épuisé recommence avec un message explicite. Les résultats esport sont datés ; aucune question ne dépend du classement actuel. Les séries et mangas peuvent contenir des spoilers.
+Six thèmes distincts à choisir parmi quinze. Difficulté déterminée par la question tirée, sans réglage dans le salon. Les cinq repères éditoriaux (Découverte à Expert, non calibrés statistiquement) sont mélangés dans chaque catégorie. Catalogue initial de 150 questions : dix par thème. Une catégorie épuisée recommence avec un message explicite, après ses dix questions sans répétition. Les résultats esport sont datés ; aucune question ne dépend du classement actuel. Les séries et mangas peuvent contenir des spoilers.
 
 Réponse libre par défaut : la solution est envoyée uniquement au lecteur (adversaire suivant) après la proposition. Il valide les synonymes ou fautes de frappe. QCM optionnel à quatre choix, ordre mélangé et correction serveur. Pas de minuterie. L’hôte peut passer un tour bloqué ; les joueurs absents sont conservés pour la reconnexion. Reprise du rôle d’hôte disponible si l’hôte se déconnecte.
 
@@ -56,3 +56,5 @@ Réponse libre par défaut : la solution est envoyée uniquement au lecteur (adv
 Les parties se jouent en discutant en personne ou sur un appel existant ; aucun audio intégré. 5, 10 ou 15 manches pour ces trois jeux. L’hôte peut révéler les réponses déjà reçues ou passer une manche. Fin de partie puis retour au salon avec remise à zéro.
 
 Validation : `npm test` couvre règles de plateau, catalogue, confidentialité, droits, camemberts/finale, correction QCM/libre, reconnexion, doublons d’indices, scores et rotation, ainsi que le jeu d’origine.
+
+Pions circulaires avec six logements de camemberts, déplacement animé sur le trajet serveur, dé à points animé. Animations de cartes, résultats et fin de partie sur tous les jeux ; respect de prefers-reduced-motion.
