@@ -58,3 +58,6 @@ Les parties se jouent en discutant en personne ou sur un appel existant ; aucun 
 Validation : `npm test` couvre règles de plateau, catalogue, confidentialité, droits, camemberts/finale, correction QCM/libre, reconnexion, doublons d’indices, scores et rotation, ainsi que le jeu d’origine.
 
 Pions circulaires avec six logements de camemberts, déplacement animé sur le trajet serveur, dé à points animé. Animations de cartes, résultats et fin de partie sur tous les jeux ; respect de prefers-reduced-motion.
+
+### Table en relief (17 octobre)
+Plateau dessiné en perspective avec bord épais, cases extrudées et pions debout ombrés (rendu SVG 2,5D, sans moteur WebGL). Dé animé, sauts case par case et entrée de la carte question. Historique conservé lors du redémarrage du salon et sur le navigateur : les nouveaux salons Trivial reprennent les questions vues par leur créateur. Après épuisement des dix cartes d'un thème, le paquet repart sans répéter sa dernière carte. L'historique local est limité à cet appareil et n'est pas un compte synchronisé. 17 tests couvrent notamment les transitions de paquet et le redémarrage.
