@@ -1,2 +1,2 @@
-const games=[['/','Qui tu prends ?'],['/trivial','Trivial des potes'],['/duel','Duel des arguments'],['/piege','Piège des potes'],['/curseur','Le Curseur']];
+const games=[['/','Qui tu prends ?'],['/trivial','Trivial des potes'],['/note','La Note secrète'],['/piege','Piège des potes'],['/curseur','Le Curseur']];
 const nav=document.createElement('nav');nav.className='game-nav';nav.setAttribute('aria-label','Les jeux');nav.innerHTML=games.map(([url,label])=>`<a href="${url}" ${location.pathname===url?'aria-current="page"':''}>${label}</a>`).join('');document.querySelector('header').after(nav);

@@ -7,13 +7,13 @@ import { fileURLToPath } from 'node:url';
 import { installArcade } from './arcade-server.js';
 
 const questions = JSON.parse(readFileSync(new URL('./questions.json', import.meta.url)));
-const categories = [{id:'general',name:'Général',emoji:'🌍'},{id:'noir',name:'Humour noir',emoji:'💀'},{id:'gaming',name:'Gaming',emoji:'🎮'},{id:'lol',name:'League of Legends',emoji:'⚔️'},{id:'valorant',name:'VALORANT',emoji:'🔫'},{id:'rocket',name:'Rocket League',emoji:'🚗'},{id:'anime',name:'Manga / Anime',emoji:'🍥'},{id:'comics',name:'Comics / Super-héros',emoji:'🦸'},{id:'multivers',name:'Multivers',emoji:'🌌'},{id:'roast',name:'Roast entre potes',emoji:'🔥'}];
+const categories = [];
 export function createGameServer({roundMs = 30000, tierMs = 60000} = {}) {
   const app = express(), http = createServer(app), io = new Server(http, {maxHttpBufferSize: 64000});
   const rooms = new Map();
   const arcade=installArcade(io);
   app.get('/arcade-meta',(_,res)=>res.json(arcade.meta));
-  for(const page of ['trivial','duel','piege','curseur']) app.get('/'+page,(_,res)=>res.sendFile(fileURLToPath(new URL('./arcade.html',import.meta.url))));
+  for(const page of ['trivial','note','piege','curseur']) app.get('/'+page,(_,res)=>res.sendFile(fileURLToPath(new URL('./arcade.html',import.meta.url))));
   for(const file of ['arcade.js','arcade.css','nav.js','effects.js'])app.get('/'+file,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+file,import.meta.url))));
   app.disable('x-powered-by');
   app.get('/health', (_, res) => res.json({ok:true}));
@@ -28,7 +28,7 @@ export function createGameServer({roundMs = 30000, tierMs = 60000} = {}) {
   const kind = question => personal(question)?'personal':tier(question)?'tier':'friends';
   const ranks=['D','C','B','A','S'];
   function pool(room) {
-    const official=questions.filter(q=>(personal(q)||tier(q)||room.settings.categories.includes(q.category))&&(room.settings.humor==='trash'||q.level==='normal'));
+    const official=questions.filter(q=>q.level===room.settings.humor);
     const custom=room.custom.map((q,i)=>({id:'custom-'+i,...q,category:'custom',level:room.settings.humor}));
     const all=room.settings.source==='custom'?custom:room.settings.source==='mixed'?[...official,...custom]:official;
     const seen=new Set();return all.filter(q=>{if(room.settings.format!=='mixed'&&kind(q)!==room.settings.format)return false;const key=q.text.toLocaleLowerCase('fr').replace(/\s+/g,' ').trim();if(seen.has(key))return false;seen.add(key);return true;});
@@ -83,7 +83,7 @@ export function createGameServer({roundMs = 30000, tierMs = 60000} = {}) {
     on('create',data=>{
       if(rooms.size>=500) fail('Serveur complet, réessaie plus tard.');
       const p=player(data);let code;do {code=Array.from({length:5},()=> 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789'[randomInt(32)]).join('');}while(rooms.has(code));
-      const r={code,players:new Map([[p.id,p]]),hostId:p.id,phase:'lobby',settings:{picks:2,rounds:15,categories:categories.map(c=>c.id),humor:'normal',source:'official',format:'mixed'},played:{friends:0,personal:0,tier:0},custom:[],deck:[],index:-1,votes:new Map(),eligible:[],deadline:null,touched:Date.now()};
+      const r={code,players:new Map([[p.id,p]]),hostId:p.id,phase:'lobby',settings:{picks:2,rounds:15,humor:'normal',source:'official',format:'mixed'},played:{friends:0,personal:0,tier:0},custom:[],deck:[],index:-1,votes:new Map(),eligible:[],deadline:null,touched:Date.now()};
       rooms.set(code,r);return attach(r,p);
     });
     on('join',data=>{
@@ -100,7 +100,6 @@ export function createGameServer({roundMs = 30000, tierMs = 60000} = {}) {
       if(['normal','trash'].includes(data.humor))r.settings.humor=data.humor;
       if(['official','custom','mixed'].includes(data.source))r.settings.source=data.source;
       if(['friends','personal','tier','mixed'].includes(data.format))r.settings.format=data.format;
-      if(Array.isArray(data.categories))r.settings.categories=[...new Set(data.categories.filter(id=>categories.some(c=>c.id===id)))];
       broadcast(r);
     });
     on('start',()=>{const [r,p]=member();host(r,p);if(r.phase!=='lobby') fail('Partie déjà lancée.');if(connected(r).length<3) fail('Il faut au moins 3 joueurs connectés.');

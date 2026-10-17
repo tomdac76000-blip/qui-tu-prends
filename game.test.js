@@ -38,17 +38,17 @@ test('la minuterie révèle même sans votes',async()=>{
  const [a,b,c]=sockets;const {code}=await send(a,'create',{name:'A'});await send(b,'join',{code,name:'B'});await send(c,'join',{code,name:'C'});await send(a,'start');await new Promise(r=>setTimeout(r,220));assert.equal(a.state.phase,'results');
  }finally{sockets.forEach(s=>s.disconnect());game.close();}
 });
-test('catégories, Trash et questions privées ne sortent pas de leur salon',async()=>{
+test('questions sans thèmes, Trash et questions privées ne sortent pas de leur salon',async()=>{
  const game=createGameServer();await new Promise(r=>game.http.listen(0,'127.0.0.1',r));const sockets=[];
  const send=(s,e,d={})=>new Promise(r=>s.emit(e,d,r));
  async function connect(){const s=client('http://127.0.0.1:'+game.http.address().port,{forceNew:true});sockets.push(s);s.on('state',v=>s.state=v);await new Promise(r=>s.on('connect',r));return s;}
  try{const a=await connect(),b=await connect(),c=await connect(),other=await connect();const {code}=await send(a,'create',{name:'A'});await send(b,'join',{code,name:'B'});await send(c,'join',{code,name:'C'});await send(other,'create',{name:'Autre salon'});
- await send(a,'settings',{categories:[],humor:'normal',rounds:20,format:'friends'});assert.equal((await send(a,'start')).ok,false);
- await send(a,'settings',{categories:['anime'],humor:'trash'});assert.equal((await send(a,'start')).ok,true);assert.equal(a.state.question.category,'anime');
+ await send(a,'settings',{categories:[],humor:'trash',rounds:20,format:'friends'});
+ await send(a,'settings',{categories:['anime'],humor:'trash'});assert.equal((await send(a,'start')).ok,true);assert.equal(a.state.question.category,'general');
  const custom=Array.from({length:10},(_,i)=>'Dossier confidentiel '+i+' ?');assert.equal((await send(other,'settings',{custom,source:'custom',rounds:10})).ok,true);
  assert.equal(JSON.stringify(a.state).includes('Dossier confidentiel'),false);
  assert.equal((await send(b,'settings',{custom})).ok,false);
- const room=game.rooms.get(code);assert.equal(room.deck.length,20);assert.equal(new Set(room.deck.map(q=>q.text)).size,20);assert.ok(room.deck.every(q=>q.category==='anime'&&['normal','trash'].includes(q.level)));
+ const room=game.rooms.get(code);assert.equal(room.deck.length,20);assert.equal(new Set(room.deck.map(q=>q.text)).size,20);assert.ok(room.deck.every(q=>q.category==='general'&&q.level==='trash'));
  }finally{sockets.forEach(s=>s.disconnect());game.close();}
 });
 
