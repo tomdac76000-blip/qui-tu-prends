@@ -5,13 +5,16 @@ import { randomBytes, randomInt } from 'node:crypto';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { installArcade } from './arcade-server.js';
+import { installSkyjo } from './skyjo-server.js';
 
 const questions = JSON.parse(readFileSync(new URL('./questions.json', import.meta.url)));
 const categories = [];
 export function createGameServer({roundMs = 30000, tierMs = 60000} = {}) {
   const app = express(), http = createServer(app), io = new Server(http, {maxHttpBufferSize: 64000});
   const rooms = new Map();
-  const arcade=installArcade(io);
+  const arcade=installArcade(io), skyjo=installSkyjo(io);
+  app.get('/skyjo',(_,res)=>res.sendFile(fileURLToPath(new URL('./skyjo.html',import.meta.url))));
+  for(const file of ['skyjo.js','skyjo.css'])app.get('/'+file,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+file,import.meta.url))));
   app.get('/arcade-meta',(_,res)=>res.json(arcade.meta));
   for(const page of ['trivial','note','piege','curseur']) app.get('/'+page,(_,res)=>res.sendFile(fileURLToPath(new URL('./arcade.html',import.meta.url))));
   for(const file of ['arcade.js','arcade.css','nav.js','effects.js','demo-mode.js'])app.get('/'+file,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+file,import.meta.url))));
@@ -127,7 +130,8 @@ export function createGameServer({roundMs = 30000, tierMs = 60000} = {}) {
     socket.on('disconnect',()=>{clearInterval(rate);detach(socket);});
   });
   const cleanup=setInterval(()=>{for(const [code,r] of rooms)if(!connected(r).length&&Date.now()-r.touched>3600000){clearTimeout(r.timer);rooms.delete(code);}},60000);cleanup.unref();
-  return {app,http,io,rooms,arcade,close:()=>{arcade.close();clearInterval(cleanup);for(const r of rooms.values())clearTimeout(r.timer);io.close();http.close();}};
+  return {app,http,io,rooms,arcade,skyjo,close:()=>{skyjo.close();arcade.close();clearInterval(cleanup);for(const r of rooms.values())clearTimeout(r.timer);io.close();http.close();}};
 }
 if(process.argv[1]===fileURLToPath(import.meta.url)) {const {http}=createGameServer();http.listen(Number(process.env.PORT)||3000,'0.0.0.0',()=>console.log('Qui tu prends ? prêt sur le port '+(process.env.PORT||3000)));}
+
 

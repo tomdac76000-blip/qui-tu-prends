@@ -68,3 +68,27 @@ Sur chacune des cinq pages, « Tester seul avec 2 bots » crée un salon isolé 
 Au Trivial, le joueur humain commence en QCM par défaut et dispose des raccourcis « Tester une case ★ » et « Tester la finale ». Ces raccourcis sont refusés par le serveur dans une partie normale. En réponse libre, un bot lecteur accepte uniquement la correspondance normalisée avec la solution. Dans La Note secrète, les réponses préécrites couvrent films, plats et jeux vidéo ; les autres questions reçoivent une appréciation générique signalée comme simulée. La reconnexion réutilise les deux mêmes bots et les quitter ferme leurs connexions.
 
 24 tests couvrent désormais aussi le mode solo des cinq jeux, l'isolation de ses salons, la reconnexion et les raccourcis.
+
+## Skyjo Action — adaptation maison
+
+Page `/skyjo`, entrée dans le menu commun, namespace Socket.IO `/skyjo` séparé.
+2 à 8 joueurs, salons privés, reconnexion par jeton et mode solo avec deux bots.
+12 cartes par joueur, 120 cartes de jeu (dont 15 étoiles), 27 cartes Action / 9 effets.
+Limite de partie 50, 100 (par défaut) ou 150 points. Derniers tours, malus du
+finisseur, bonus étoiles et historique des manches calculés côté serveur.
+
+Les cartes cachées, pioches et observations privées sont filtrées avant envoi.
+Chaque commande inclut une version et est appliquée sur une copie : une action
+invalide ne modifie pas la partie. Les bots utilisent exclusivement les vues
+filtrées, jamais les cartes secrètes. Les joueurs absents peuvent se reconnecter ;
+une partie attend le joueur dont c'est le tour. L'hôte absent peut être remplacé.
+
+Automatisations indiquées dans l'aide : colonnes avant lignes, étoiles utilisées
+automatiquement pour les lignes chiffrées, lignes d'étoiles conservées et bonus
+optimal sans double comptage. Défausse des lignes dans l'ordre des cases.
+Météorites cible uniquement les grilles. Seconde chance ne reprend pas une autre
+Seconde chance. Graphismes et explications originaux, adaptation non officielle.
+Référence : https://cdn.shopify.com/s/files/1/0019/1696/0881/files/SKYJO_ACTION.pdf?v=1739260284
+
+Validation : 34 tests, dont règles Skyjo, secrets, attaques/défense, scores,
+15 parties autonomes complètes et connexion/reconnexion réelle à trois joueurs.
