@@ -92,3 +92,11 @@ Référence : https://cdn.shopify.com/s/files/1/0019/1696/0881/files/SKYJO_ACTIO
 
 Validation : 34 tests, dont règles Skyjo, secrets, attaques/défense, scores,
 15 parties autonomes complètes et connexion/reconnexion réelle à trois joueurs.
+
+## Quiz Mix — /quiz
+
+Quiz simultané de 2 à 12 joueurs, avec test solo et deux participants simulés. 525 questions réparties entre cinq univers, dont 392 issues du catalogue Trivial et 133 entrées propres au quiz. Huit formats : classique, indices progressifs, lien commun, ordre, liste, estimation, double réponse et réponse rare. Choix de 10, 20 ou 30 questions, correction commune toutes les cinq questions, rectification des scores par l’hôte.
+
+Aucun bonus de rapidité ni départage au temps. Les bonnes réponses aux indices progressifs valent toujours deux points, quel que soit le nombre d’indices affichés. Le chrono limite uniquement la durée de la manche. Les ex aequo partagent la victoire. Les réponses et solutions restent côté serveur jusqu’à la correction. Aucun doublon dans une partie ; priorité aux questions absentes de l’historique local de l’hôte.
+
+Les épreuves de reconnaissance de lieux sur images ne sont pas incluses dans cette version. Les réponses textuelles utilisent une normalisation et des alias prévus, avec correction manuelle possible. Les salons restent en mémoire et disparaissent au redémarrage du serveur.
