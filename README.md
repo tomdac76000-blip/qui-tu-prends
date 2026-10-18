@@ -61,3 +61,10 @@ Pions circulaires avec six logements de camemberts, déplacement animé sur le t
 
 ### Table en relief (17 octobre)
 Plateau dessiné en perspective avec bord épais, cases extrudées et pions debout ombrés (rendu SVG 2,5D). Cases espacées. Dé animé, sauts case par case et entrée de la carte question. 18 tests couvrent les règles, la confidentialité, la rotation, les paquets épuisés et la suppression du Duel.
+
+## Mode test solo
+Sur chacune des cinq pages, « Tester seul avec 2 bots » crée un salon isolé avec Pixel et Nova. Pas de pseudo obligatoire. Les deux joueurs simulés votent, donnent des exemples préécrits et jouent leur tour automatiquement via les mêmes règles serveur. Le test reste distinct des salons entre amis ; aucune IA ne produit les réponses. Le créateur garde le contrôle du lancement et des manches suivantes.
+
+Au Trivial, le joueur humain commence en QCM par défaut et dispose des raccourcis « Tester une case ★ » et « Tester la finale ». Ces raccourcis sont refusés par le serveur dans une partie normale. En réponse libre, un bot lecteur accepte uniquement la correspondance normalisée avec la solution. Dans La Note secrète, les réponses préécrites couvrent films, plats et jeux vidéo ; les autres questions reçoivent une appréciation générique signalée comme simulée. La reconnexion réutilise les deux mêmes bots et les quitter ferme leurs connexions.
+
+24 tests couvrent désormais aussi le mode solo des cinq jeux, l'isolation de ses salons, la reconnexion et les raccourcis.

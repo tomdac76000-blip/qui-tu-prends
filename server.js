@@ -14,7 +14,7 @@ export function createGameServer({roundMs = 30000, tierMs = 60000} = {}) {
   const arcade=installArcade(io);
   app.get('/arcade-meta',(_,res)=>res.json(arcade.meta));
   for(const page of ['trivial','note','piege','curseur']) app.get('/'+page,(_,res)=>res.sendFile(fileURLToPath(new URL('./arcade.html',import.meta.url))));
-  for(const file of ['arcade.js','arcade.css','nav.js','effects.js'])app.get('/'+file,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+file,import.meta.url))));
+  for(const file of ['arcade.js','arcade.css','nav.js','effects.js','demo-mode.js'])app.get('/'+file,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+file,import.meta.url))));
   app.disable('x-powered-by');
   app.get('/health', (_, res) => res.json({ok:true}));
   app.get('/meta',(_,res)=>res.json({categories,total:questions.length}));
@@ -40,8 +40,8 @@ export function createGameServer({roundMs = 30000, tierMs = 60000} = {}) {
     let tierResults=null;
     if(revealed&&isTier){tierResults={};for(const id of room.eligible){const values=[...room.votes.values()].map(v=>ranks.indexOf(v[id]));const average=values.length?values.reduce((a,b)=>a+b,0)/values.length:null;tierResults[id]={average,rank:average===null?null:ranks[Math.round(average)],ratings:values.length};}}
     if(revealed) for(const vote of room.votes.values()) {if(isPersonal)counts[vote]++;else if(Array.isArray(vote))for(const id of vote)counts[id]++;}
-    return {code:room.code, me:p.id, hostId:room.hostId, phase:room.phase, settings:room.settings, serverNow:Date.now(), available:pool(room).length, customCount:room.custom.length, played:room.played,
-      players:[...room.players.values()].map(x=>({id:x.id,name:x.name,emoji:x.emoji,online:!!x.sockets.size,score:x.score,yesCount:x.yesCount,noCount:x.noCount,tierSum:x.tierSum,tierRatings:x.tierRatings})),
+    return {demo:!!room.demo,code:room.code, me:p.id, hostId:room.hostId, phase:room.phase, settings:room.settings, serverNow:Date.now(), available:pool(room).length, customCount:room.custom.length, played:room.played,
+      players:[...room.players.values()].map(x=>({id:x.id,name:x.name,bot:!!x.bot,emoji:x.emoji,online:!!x.sockets.size,score:x.score,yesCount:x.yesCount,noCount:x.noCount,tierSum:x.tierSum,tierRatings:x.tierRatings})),
       round:room.index+1, total:room.deck.length, question:room.deck[room.index] || null,
       deadline:room.deadline, durationMs:room.durationMs, voted:room.votes.size, voters:room.eligible.length,tierResults,tierLists:revealed&&isTier?Object.fromEntries(room.votes):null,
       myVote:room.votes.get(p.id)||null, eligible:room.eligible, counts:revealed?counts:null, answers:revealed&&isPersonal?Object.fromEntries(room.votes):null};
@@ -78,18 +78,19 @@ export function createGameServer({roundMs = 30000, tierMs = 60000} = {}) {
       const result=fn(data);if(typeof ack==='function') ack({ok:true,...result});
     }catch(e){if(typeof ack==='function') ack({ok:false,error:e.message});}}); }
     function member() {const r=rooms.get(socket.data.code),p=r?.players.get(socket.data.playerId);if(!r||!p) fail('Rejoins d’abord un salon.');return [r,p];}
-    function attach(room,p) {detach(socket);socket.data={code:room.code,playerId:p.id};socket.join(room.code);p.sockets.add(socket.id);room.touched=Date.now();broadcast(room);return {token:p.token,code:room.code};}
+    function attach(room,p) {detach(socket);socket.data={code:room.code,playerId:p.id};socket.join(room.code);p.sockets.add(socket.id);room.touched=Date.now();broadcast(room);return {token:p.token,code:room.code,...(room.demo&&p.id===room.hostId?{testKey:room.testKey}:{})};}
     function player(data) {const name=clean(data.name,20);if(!name) fail('Choisis un pseudo.');return {id:randomBytes(8).toString('hex'),token:randomBytes(24).toString('hex'),name,emoji:['😎','👾','🐸','💀','🔥','🦊','🐼','🦄','🤖','👑','🍕','🦖'].includes(data.emoji)?data.emoji:'😎',sockets:new Set(),score:0,yesCount:0,noCount:0,tierSum:0,tierRatings:0};}
     on('create',data=>{
       if(rooms.size>=500) fail('Serveur complet, réessaie plus tard.');
       const p=player(data);let code;do {code=Array.from({length:5},()=> 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789'[randomInt(32)]).join('');}while(rooms.has(code));
-      const r={code,players:new Map([[p.id,p]]),hostId:p.id,phase:'lobby',settings:{picks:2,rounds:15,humor:'normal',source:'official',format:'mixed'},played:{friends:0,personal:0,tier:0},custom:[],deck:[],index:-1,votes:new Map(),eligible:[],deadline:null,touched:Date.now()};
+      const r={demo:data.demo===true,testKey:data.demo===true?randomBytes(24).toString('hex'):null,code,players:new Map([[p.id,p]]),hostId:p.id,phase:'lobby',settings:{picks:2,rounds:15,humor:'normal',source:'official',format:'mixed'},played:{friends:0,personal:0,tier:0},custom:[],deck:[],index:-1,votes:new Map(),eligible:[],deadline:null,touched:Date.now()};
       rooms.set(code,r);return attach(r,p);
     });
     on('join',data=>{
       const r=rooms.get(clean(data.code,5).toUpperCase());if(!r) fail('Salon introuvable. Vérifie le code.');
       const known=[...r.players.values()].find(p=>p.token===data.token);
       if(known) return attach(r,known);
+      if(r.demo){if(data.testKey!==r.testKey||![0,1].includes(data.botIndex))fail('Ce salon est réservé au test solo. Crée un salon normal pour jouer entre amis.');let bot=[...r.players.values()].find(x=>x.botIndex===data.botIndex);if(!bot){bot={...player({name:['Pixel · bot','Nova · bot'][data.botIndex],emoji:'🤖'}),bot:true,botIndex:data.botIndex};r.players.set(bot.id,bot);}return attach(r,bot);}
       if(r.phase!=='lobby') fail('La partie a déjà commencé. Attends la prochaine.');
       if(r.players.size>=12) fail('Ce salon est complet (12 joueurs).');
       const p=player(data);r.players.set(p.id,p);if(!r.hostId)r.hostId=p.id;return attach(r,p);
@@ -103,7 +104,7 @@ export function createGameServer({roundMs = 30000, tierMs = 60000} = {}) {
       broadcast(r);
     });
     on('start',()=>{const [r,p]=member();host(r,p);if(r.phase!=='lobby') fail('Partie déjà lancée.');if(connected(r).length<3) fail('Il faut au moins 3 joueurs connectés.');
-      r.deck=pool(r);if(r.deck.length<r.settings.rounds)fail(`Il y a ${r.deck.length} questions disponibles pour ${r.settings.rounds} manches. Ajoute des catégories ou des questions.`);
+      r.deck=pool(r);if(r.deck.length<r.settings.rounds)fail(`Il y a ${r.deck.length} questions disponibles pour ${r.settings.rounds} manches. Ajoute des questions ou réduis les manches.`);
       for(let i=r.deck.length-1;i>0;i--){const j=randomInt(i+1);[r.deck[i],r.deck[j]]=[r.deck[j],r.deck[i]];}const reserve=[...r.deck];r.deck=r.deck.slice(0,r.settings.rounds);
       if(r.settings.format==='mixed')for(const type of ['friends','personal','tier'])if(!r.deck.some(q=>kind(q)===type)){const q=reserve.find(q=>kind(q)===type);if(q){const index=r.deck.findIndex(x=>r.deck.filter(y=>kind(y)===kind(x)).length>1);r.deck[index]=q;}}
       r.index=-1;next(r);
