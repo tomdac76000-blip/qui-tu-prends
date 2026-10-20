@@ -18,7 +18,8 @@ export function createGameServer({roundMs = 30000, tierMs = 60000, quizOptions =
   installQuizMedia(app);
   app.get('/tier',(_,res)=>res.sendFile(fileURLToPath(new URL('./tier.html',import.meta.url))));
   app.get('/tier-catalog',(_,res)=>res.sendFile(fileURLToPath(new URL('./tier-catalog.json',import.meta.url))));
-  for(const file of ['tier.js','tier.css','tier-engine.js'])app.get('/'+file,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+file,import.meta.url))));
+  app.get('/tier-endings',(_,res)=>res.sendFile(fileURLToPath(new URL('./tier-endings.json',import.meta.url))));
+  for(const file of ['tier.js','tier.css','tier-engine.js','tier-library.js'])app.get('/'+file,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+file,import.meta.url))));
   app.get('/quiz',(_,res)=>res.sendFile(fileURLToPath(new URL('./quiz.html',import.meta.url))));
   for(const file of ['quiz.js','quiz.css'])app.get('/'+file,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+file,import.meta.url))));
   app.get('/skyjo',(_,res)=>res.sendFile(fileURLToPath(new URL('./skyjo.html',import.meta.url))));

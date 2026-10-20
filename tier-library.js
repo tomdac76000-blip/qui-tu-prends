@@ -1,0 +1,6 @@
+export const listInfo={
+ arcs:{title:'Les meilleurs premiers arcs',mode:'tier',description:'Premiers arcs dans l’ordre de publication. Exceptions demandées : East Blue, Zabuza et Soul Society. Les ouvertures sans arc clairement nommé sont identifiées comme telles.'},
+ endings:{title:'Les pires fins de manga / anime',mode:'duel',description:'À chaque duel, garde la pire fin selon toi. 32 fins à départager : leur présence ici ne veut pas dire qu’elles sont mauvaises. La version est indiquée sur chaque carte, sans résumé de la fin.'}
+};
+export const storageFor=list=>'arcade-tier-duel-v2-'+list;
+export function buildLibraries(arcs,endings){const byId=new Map(arcs.map(x=>[x.id,x]));return {arcs,endings:endings.map(x=>{const cover=byId.get(x.coverId);if(!cover)throw Error('Couverture manquante');return {...x,image:x.image||cover.image};})};}

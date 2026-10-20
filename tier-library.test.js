@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {buildLibraries,storageFor,listInfo} from './tier-library.js';
+import {newDuel,choose} from './tier-engine.js';
+const read=f=>JSON.parse(readFileSync(new URL(f,import.meta.url)));
+const libs=buildLibraries(read('./tier-catalog.json'),read('./tier-endings.json'));
+test('correction des arcs tardifs et ouvertures explicitement signalées',()=>{const arc=n=>libs.arcs.find(x=>x.name===n).arc;assert.match(arc('Berserk'),/Guerrier noir/);assert.equal(arc('One-Punch Man'),'Introduction de Saitama');assert.equal(arc('My Hero Academia'),'Examen d’entrée à Yuei');assert.match(arc('Jujutsu Kaisen'),/matrice|détention/);assert.equal(arc('Fairy Tail'),'Macao');assert.equal(arc('Vagabond'),'Takezō');for(const c of libs.arcs.filter(x=>x.scopeType==='opening'))assert.match(c.arc,/tome 1/);assert.equal(libs.arcs.filter(x=>x.scopeType==='exception').length,3);});
+test('deux bibliothèques et sauvegardes indépendantes, couverture correcte de :re',()=>{assert.equal(libs.arcs.length,64);assert.equal(libs.endings.length,32);assert.notEqual(storageFor('arcs'),storageFor('endings'));assert.notEqual(storageFor('arcs'),'arcade-tier-duel-v1');assert.equal(listInfo.endings.mode,'duel');assert.equal(new Set(libs.endings.map(x=>x.id)).size,32);for(const x of libs.endings){assert.ok(x.image.startsWith('data:image/'));assert.ok(['anime','manga'].includes(x.medium));assert.ok(x.arc.length);assert.ok(!libs.arcs.some(a=>a.id===x.id));}assert.ok(libs.endings.filter(x=>x.name==='Tokyo Ghoul:re').every(x=>x.source.endsWith('/85611')));assert.equal(libs.endings.filter(x=>x.name==='The Promised Neverland').length,2);});
+test('tournoi de 32 fins : 31 choix et la fin choisie progresse',()=>{let d=newDuel(libs.endings.map(x=>x.id),32);const favorite=d.round[0];while(!d.winner){const pair=d.round.slice(d.index,d.index+2);d=choose(d,pair.includes(favorite)?favorite:pair[1]);}assert.equal(d.winner,favorite);assert.equal(d.history.length,31);});

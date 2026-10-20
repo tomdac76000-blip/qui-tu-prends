@@ -114,3 +114,12 @@ Classement personnel sur un écran commun (pas de salon réseau) : 64 mangas ave
 Tier list S/A/B/C/D/Pas lu, déplacement et réordonnancement, alternative clic puis rang, noms des rangs modifiables. Tournois à élimination directe 16/32/64, sélection des participants et exclusion des non-lus, historique, annulation et aucun chrono. Sauvegarde locale, import/export JSON et export PNG. Création de listes texte ou images locales (2–128 cartes). Images intégrées et références AniList dans le catalogue ; pas de dépendance aux serveurs d'images pendant la partie.
 
 Validation : `node --test --test-concurrency=1` (48 tests), puis navigateur : glisser-déposer, reprise après rechargement, tournoi complet à 64, export PNG, liste texte et restauration JSON. Pour publier : tier.html, tier.css, tier.js, tier-engine.js, tier-catalog.json, tier.test.js, server.js, nav.js et README.md. Ne pas publier les scripts de collecte ni les caches.
+
+
+## Tier & Duel : premiers arcs corrigés et pires fins
+
+Le sélecteur distingue deux bibliothèques, chacune avec sa propre sauvegarde et un lien direct : `/tier?liste=arcs` et `/tier?liste=endings`. La banque des débuts est corrigée pour les premiers arcs dans l’ordre de publication (Guerrier noir, introduction de Saitama, examen de Yuei, centre de détention de JJK, etc.). Les trois exceptions demandées restent East Blue, Zabuza/Pays des Vagues et Soul Society. Quatorze œuvres sans découpage suffisamment établi dans les références consultées sont explicitement proposées comme ouvertures du tome 1, et non comme arcs officiels. Les références retrouvées sont conservées dans arcSource.
+
+Le tournoi Pires fins comporte 32 entrées, avec version manga/anime et limites explicites (série originale, fin TV, épilogue). La sélection ne prétend pas que toutes ces fins sont mauvaises : les joueurs les départagent. La pire fin choisie avance, le résultat et l’export utilisent ce sens. Aucun résumé de fin ne dévoile l’intrigue. Les versions distinctes figurent aussi dans la sélection et l’historique. Les couvertures servent à identifier l’œuvre, pas à illustrer sa fin.
+
+Les sauvegardes v2 sont indépendantes pour les deux listes ; la sauvegarde v1 reste intacte, mais la banque corrigée démarre vierge pour éviter de réutiliser des choix portant sur d’autres arcs.
