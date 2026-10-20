@@ -123,3 +123,8 @@ Le sélecteur distingue deux bibliothèques, chacune avec sa propre sauvegarde e
 Le tournoi Pires fins comporte 32 entrées, avec version manga/anime et limites explicites (série originale, fin TV, épilogue). La sélection ne prétend pas que toutes ces fins sont mauvaises : les joueurs les départagent. La pire fin choisie avance, le résultat et l’export utilisent ce sens. Aucun résumé de fin ne dévoile l’intrigue. Les versions distinctes figurent aussi dans la sélection et l’historique. Les couvertures servent à identifier l’œuvre, pas à illustrer sa fin.
 
 Les sauvegardes v2 sont indépendantes pour les deux listes ; la sauvegarde v1 reste intacte, mais la banque corrigée démarre vierge pour éviter de réutiliser des choix portant sur d’autres arcs.
+
+
+### Pires fins : sélection unifiée
+
+48 œuvres distinctes (24 de plus que les 24 œuvres des anciennes 32 cartes), sans variantes manga/anime. JJK, MHA et Fire Force sont mis en tête, suivis de Oshi no Ko, Mashle, Undead Unluck, Hell’s Paradise, Summer Time Rendering, Takopi et Kaguya-sama. Tournois de 16 ou 32 tirés parmi les œuvres cochées ; tier list possible avec les 48. La sauvegarde des fins utilise v3 pour ne pas reprendre les anciens doublons ; celle des premiers arcs reste en v2. Les anciennes sauvegardes restent dans le navigateur.
