@@ -1,0 +1,1410 @@
+[
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Yann; edited by Jim Carter · CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_%28Edited%29.jpeg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Taj_Mahal",
+    "display": "landscape",
+    "explanation": "Taj Mahal · Inde",
+    "group": "wiki",
+    "id": "quiz-visual-5c648f417f661f6ef85d2000",
+    "media": "5c648f417f661f6ef85d2000",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Taj Mahal"
+      ],
+      [
+        "Inde",
+        "India"
+      ]
+    ]
+  },
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:3840px-Al_Deir_Petra.JPG",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Deir_Petra.JPG/330px-Al_Deir_Petra.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Petra",
+    "display": "landscape",
+    "explanation": "Petra · Jordanie",
+    "group": "wiki",
+    "id": "quiz-visual-f0091cab0db5752ce93a2ee7",
+    "media": "f0091cab0db5752ce93a2ee7",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Petra",
+        "Pétra",
+        "Ad Deir",
+        "Al Deir",
+        "Monastère de Pétra"
+      ],
+      [
+        "Jordanie",
+        "Jordan"
+      ]
+    ]
+  },
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:3840px-Machu_Picchu%2C_2023_%28012%29.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/330px-Machu_Picchu%2C_2023_%28012%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Machu_Picchu",
+    "display": "landscape",
+    "explanation": "Machu Picchu · Pérou",
+    "group": "wiki",
+    "id": "quiz-visual-614e58cf65a7291bb014f435",
+    "media": "614e58cf65a7291bb014f435",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Machu Picchu"
+      ],
+      [
+        "Pérou",
+        "Peru"
+      ]
+    ]
+  },
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Canaan · CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SF_maig_2_cropped.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/SF_maig_2_cropped.jpg/330px-SF_maig_2_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+    "display": "landscape",
+    "explanation": "Sagrada Familia · Espagne",
+    "group": "wiki",
+    "id": "quiz-visual-47c9a8d3c4f0297fb3fc53d9",
+    "media": "47c9a8d3c4f0297fb3fc53d9",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Sagrada Familia",
+        "Basilique de la Sagrada Familia"
+      ],
+      [
+        "Espagne",
+        "Spain"
+      ]
+    ]
+  },
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Bjørn Christian Tørrissen · CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/330px-Angkor_Wat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Angkor_Wat",
+    "display": "landscape",
+    "explanation": "Angkor Vat · Cambodge",
+    "group": "wiki",
+    "id": "quiz-visual-38aadea00bf6d3a8c676fcd6",
+    "media": "38aadea00bf6d3a8c676fcd6",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Angkor Vat",
+        "Angkor Wat"
+      ],
+      [
+        "Cambodge",
+        "Cambodia"
+      ]
+    ]
+  },
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:AhuTongariki.JPG",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/AhuTongariki.JPG/330px-AhuTongariki.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Moai",
+    "display": "landscape",
+    "explanation": "Moai · Chili",
+    "group": "wiki",
+    "id": "quiz-visual-a8ca9fb79801ab71622b3607",
+    "media": "a8ca9fb79801ab71622b3607",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Moai",
+        "Moai de l ile de Paques",
+        "Île de Pâques",
+        "Ile de Paques",
+        "Rapa Nui",
+        "Ahu Tongariki"
+      ],
+      [
+        "Chili",
+        "Chile"
+      ]
+    ]
+  },
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:3840px-Colosseo_2020.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/330px-Colosseo_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Colosseum",
+    "display": "landscape",
+    "explanation": "Colisée · Italie",
+    "group": "wiki",
+    "id": "quiz-visual-dca1c6edc9309e42ca650f61",
+    "media": "dca1c6edc9309e42ca650f61",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Colisée",
+        "Colosseum"
+      ],
+      [
+        "Italie",
+        "Italy"
+      ]
+    ]
+  },
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:3840px-Chichen_Itza_3.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/330px-Chichen_Itza_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "display": "landscape",
+    "explanation": "Chichen Itza · Mexique",
+    "group": "wiki",
+    "id": "quiz-visual-d7b9c55ced5e4f8eedfb1437",
+    "media": "d7b9c55ced5e4f8eedfb1437",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Chichen Itza"
+      ],
+      [
+        "Mexique",
+        "Mexico"
+      ]
+    ]
+  },
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:3840px-Mont-Saint-Michel_vu_du_ciel.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Mont-Saint-Michel_vu_du_ciel.jpg/330px-Mont-Saint-Michel_vu_du_ciel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Mont-Saint-Michel",
+    "display": "landscape",
+    "explanation": "Mont Saint Michel · France",
+    "group": "wiki",
+    "id": "quiz-visual-c68251dc4952a18280f39dec",
+    "media": "c68251dc4952a18280f39dec",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Mont Saint Michel"
+      ],
+      [
+        "France"
+      ]
+    ]
+  },
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/330px-Stonehenge2007_07_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Stonehenge",
+    "display": "landscape",
+    "explanation": "Stonehenge · Royaume Uni",
+    "group": "wiki",
+    "id": "quiz-visual-6b3e723265fd2da5c92b9bcf",
+    "media": "6b3e723265fd2da5c92b9bcf",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Stonehenge"
+      ],
+      [
+        "Royaume Uni",
+        "Angleterre",
+        "United Kingdom",
+        "England"
+      ]
+    ]
+  },
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:Sydney_Australia._%2821339175489%29.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Sydney_Australia._%2821339175489%29.jpg/330px-Sydney_Australia._%2821339175489%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+    "display": "landscape",
+    "explanation": "Opéra de Sydney · Australie",
+    "group": "wiki",
+    "id": "quiz-visual-1b2896c59d0a11d6aadd3ee9",
+    "media": "1b2896c59d0a11d6aadd3ee9",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Opéra de Sydney",
+        "Sydney Opera House"
+      ],
+      [
+        "Australie",
+        "Australia"
+      ]
+    ]
+  },
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Adli Wahid · CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_%28228968325%29.jpeg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/330px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+    "display": "landscape",
+    "explanation": "Sainte Sophie · Turquie",
+    "group": "wiki",
+    "id": "quiz-visual-cbf9b47db1b7ad08f30b901f",
+    "media": "cbf9b47db1b7ad08f30b901f",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Sainte Sophie",
+        "Hagia Sophia"
+      ],
+      [
+        "Turquie",
+        "Turkey",
+        "Türkiye"
+      ]
+    ]
+  },
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:3840px-Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg/330px-Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Alhambra",
+    "display": "landscape",
+    "explanation": "Alhambra · Espagne",
+    "group": "wiki",
+    "id": "quiz-visual-157b832dc078ebea131896fc",
+    "media": "157b832dc078ebea131896fc",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Alhambra"
+      ],
+      [
+        "Espagne",
+        "Spain"
+      ]
+    ]
+  },
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:3840px-Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg/330px-Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+    "display": "landscape",
+    "explanation": "Burj Khalifa · Émirats arabes unis",
+    "group": "wiki",
+    "id": "quiz-visual-56d255b40384449c8c2891df",
+    "media": "56d255b40384449c8c2891df",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Burj Khalifa"
+      ],
+      [
+        "Émirats arabes unis",
+        "Emirats",
+        "EAU",
+        "United Arab Emirates",
+        "UAE"
+      ]
+    ]
+  },
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Steve Swayne · CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/330px-The_Parthenon_in_Athens.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Parthenon",
+    "display": "landscape",
+    "explanation": "Parthénon · Grèce",
+    "group": "wiki",
+    "id": "quiz-visual-a5b06ba2136540b3010a8372",
+    "media": "a5b06ba2136540b3010a8372",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Parthénon",
+        "Parthenon"
+      ],
+      [
+        "Grèce",
+        "Greece"
+      ]
+    ]
+  },
+  {
+    "format": "location",
+    "theme": "general",
+    "text": "Quel site vois-tu et dans quel pays se trouve-t-il ?",
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:3840px-Schloss_Neuschwanstein_2013.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/330px-Schloss_Neuschwanstein_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle",
+    "display": "landscape",
+    "explanation": "Château de Neuschwanstein · Allemagne",
+    "group": "wiki",
+    "id": "quiz-visual-9c3aefb68de15a0006987edf",
+    "media": "9c3aefb68de15a0006987edf",
+    "labels": [
+      "Quel monument ou site ?",
+      "Quel pays ?"
+    ],
+    "solutions": [
+      [
+        "Château de Neuschwanstein",
+        "Neuschwanstein"
+      ],
+      [
+        "Allemagne",
+        "Germany"
+      ]
+    ]
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel est le titre de cette œuvre ?",
+    "answer": [
+      "La Nuit étoilée",
+      "Nuit étoilée",
+      "Starry Night"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:3840px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/330px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/The_Starry_Night",
+    "display": "landscape",
+    "explanation": "La Nuit étoilée",
+    "group": "wiki",
+    "id": "quiz-visual-1e60de284158428bf6ebd348",
+    "media": "1e60de284158428bf6ebd348"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel est le titre de cette œuvre ?",
+    "answer": [
+      "La Grande Vague de Kanagawa",
+      "La Grande Vague",
+      "The Great Wave"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:3840px-Tsunami_by_hokusai_19th_century.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/330px-Tsunami_by_hokusai_19th_century.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa",
+    "display": "landscape",
+    "explanation": "La Grande Vague de Kanagawa",
+    "group": "wiki",
+    "id": "quiz-visual-efd1c4c780a51abcdf544fbe",
+    "media": "efd1c4c780a51abcdf544fbe"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel est le titre de cette œuvre ?",
+    "answer": [
+      "La Naissance de Vénus",
+      "Naissance de Vénus"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:3840px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/330px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/The_Birth_of_Venus",
+    "display": "landscape",
+    "explanation": "La Naissance de Vénus",
+    "group": "wiki",
+    "id": "quiz-visual-b248ae2cf0e72f2a99ddd67d",
+    "media": "b248ae2cf0e72f2a99ddd67d"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel est le titre de cette œuvre ?",
+    "answer": [
+      "La Jeune Fille à la perle",
+      "Jeune Fille à la perle"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:3840px-1665_Girl_with_a_Pearl_Earring.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/330px-1665_Girl_with_a_Pearl_Earring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+    "display": "landscape",
+    "explanation": "La Jeune Fille à la perle",
+    "group": "wiki",
+    "id": "quiz-visual-c3dd393b2ff8282b44e8efa9",
+    "media": "c3dd393b2ff8282b44e8efa9"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel est le titre de cette œuvre ?",
+    "answer": [
+      "American Gothic"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:3840px-Grant_Wood_-_American_Gothic_%281930%29.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Grant_Wood_-_American_Gothic_%281930%29.jpg/330px-Grant_Wood_-_American_Gothic_%281930%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/American_Gothic",
+    "display": "landscape",
+    "explanation": "American Gothic",
+    "group": "wiki",
+    "id": "quiz-visual-f509658a5bec289543f11abb",
+    "media": "f509658a5bec289543f11abb"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel animal est représenté ?",
+    "answer": [
+      "Okapi"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg/330px-Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Okapi",
+    "display": "landscape",
+    "explanation": "Okapi",
+    "group": "wiki",
+    "id": "quiz-visual-08c062e69a34d1684d502c1b",
+    "media": "08c062e69a34d1684d502c1b"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel animal est représenté ?",
+    "answer": [
+      "Pangolin"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:Eupholidota.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Eupholidota.jpg/330px-Eupholidota.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Pangolin",
+    "display": "landscape",
+    "explanation": "Pangolin",
+    "group": "wiki",
+    "id": "quiz-visual-0c0ea2b863dc816785d106ed",
+    "media": "0c0ea2b863dc816785d106ed"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel animal est représenté ?",
+    "answer": [
+      "Fennec",
+      "Renard des sables"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:Fennec_Fox_Vulpes_zerda.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Fennec_Fox_Vulpes_zerda.jpg/330px-Fennec_Fox_Vulpes_zerda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Fennec_fox",
+    "display": "landscape",
+    "explanation": "Fennec",
+    "group": "wiki",
+    "id": "quiz-visual-9b27feb0ddbd6252eb8d83b5",
+    "media": "9b27feb0ddbd6252eb8d83b5"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel animal est représenté ?",
+    "answer": [
+      "Panda roux",
+      "Petit panda"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:3840px-Red_Panda%2C_Gentle_Tree-Dweller_of_the_Himalayas.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Red_Panda%2C_Gentle_Tree-Dweller_of_the_Himalayas.jpg/330px-Red_Panda%2C_Gentle_Tree-Dweller_of_the_Himalayas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Red_panda",
+    "display": "landscape",
+    "explanation": "Panda roux",
+    "group": "wiki",
+    "id": "quiz-visual-a6528a478990ff695998f4fe",
+    "media": "a6528a478990ff695998f4fe"
+  },
+  {
+    "format": "image",
+    "theme": "screen",
+    "text": "Quel acteur ou quelle actrice reconnais-tu ?",
+    "answer": [
+      "Tilda Swinton",
+      "Swinton"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:Tilda_Swinton_at_Cannes_Film_Festival_02_%28cropped%29.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Tilda_Swinton_at_Cannes_Film_Festival_02_%28cropped%29.jpg/330px-Tilda_Swinton_at_Cannes_Film_Festival_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Tilda_Swinton",
+    "display": "character",
+    "explanation": "Tilda Swinton",
+    "group": "wiki",
+    "id": "quiz-visual-1a4ffb7a8d776af1c93571f3",
+    "media": "1a4ffb7a8d776af1c93571f3"
+  },
+  {
+    "format": "image",
+    "theme": "screen",
+    "text": "Quel acteur ou quelle actrice reconnais-tu ?",
+    "answer": [
+      "Cillian Murphy",
+      "Murphy"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:Cillian_Murphy_at_the_London_premier_of_Steve_in_September_2025_%28cropped%29.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Cillian_Murphy_at_the_London_premier_of_Steve_in_September_2025_%28cropped%29.jpg/330px-Cillian_Murphy_at_the_London_premier_of_Steve_in_September_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Cillian_Murphy",
+    "display": "character",
+    "explanation": "Cillian Murphy",
+    "group": "wiki",
+    "id": "quiz-visual-4f57d3d2ccb4478d317cf593",
+    "media": "4f57d3d2ccb4478d317cf593"
+  },
+  {
+    "format": "image",
+    "theme": "screen",
+    "text": "Quel acteur ou quelle actrice reconnais-tu ?",
+    "answer": [
+      "Viola Davis"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:Viola_Davis_2026_%28cropped%29.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Viola_Davis_2026_%28cropped%29.jpg/330px-Viola_Davis_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Viola_Davis",
+    "display": "character",
+    "explanation": "Viola Davis",
+    "group": "wiki",
+    "id": "quiz-visual-62f0ff931e542978ef9cadf8",
+    "media": "62f0ff931e542978ef9cadf8"
+  },
+  {
+    "format": "image",
+    "theme": "screen",
+    "text": "Quel acteur ou quelle actrice reconnais-tu ?",
+    "answer": [
+      "Willem Dafoe",
+      "Dafoe"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:Willem_Dafoe_at_78th_Locarno_Film_Festival_%28cropped%29.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Willem_Dafoe_at_78th_Locarno_Film_Festival_%28cropped%29.jpg/330px-Willem_Dafoe_at_78th_Locarno_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Willem_Dafoe",
+    "display": "character",
+    "explanation": "Willem Dafoe",
+    "group": "wiki",
+    "id": "quiz-visual-877f5cf088665414fa7ea94e",
+    "media": "877f5cf088665414fa7ea94e"
+  },
+  {
+    "format": "image",
+    "theme": "screen",
+    "text": "Quel acteur ou quelle actrice reconnais-tu ?",
+    "answer": [
+      "Gary Oldman",
+      "Oldman"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:Gary_Oldman_%2813925515511%29_%28cropped%29.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Gary_Oldman_%2813925515511%29_%28cropped%29.jpg/330px-Gary_Oldman_%2813925515511%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Gary_Oldman",
+    "display": "character",
+    "explanation": "Gary Oldman",
+    "group": "wiki",
+    "id": "quiz-visual-4cb1692d43e306b5cace445a",
+    "media": "4cb1692d43e306b5cace445a"
+  },
+  {
+    "format": "image",
+    "theme": "screen",
+    "text": "Quel acteur ou quelle actrice reconnais-tu ?",
+    "answer": [
+      "Jodie Foster",
+      "Foster"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:Jodie_Foster_Taxi_Driver_Tribeca_Festival_2026-20_%28cropped%29.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jodie_Foster_Taxi_Driver_Tribeca_Festival_2026-20_%28cropped%29.jpg/330px-Jodie_Foster_Taxi_Driver_Tribeca_Festival_2026-20_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Jodie_Foster",
+    "display": "character",
+    "explanation": "Jodie Foster",
+    "group": "wiki",
+    "id": "quiz-visual-820c58fefe753b3f984f42e1",
+    "media": "820c58fefe753b3f984f42e1"
+  },
+  {
+    "format": "image",
+    "theme": "screen",
+    "text": "Quel acteur ou quelle actrice reconnais-tu ?",
+    "answer": [
+      "Benedict Cumberbatch",
+      "Cumberbatch"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:Benedict_Cumberbatch-67555.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Benedict_Cumberbatch-67555.jpg/330px-Benedict_Cumberbatch-67555.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Benedict_Cumberbatch",
+    "display": "character",
+    "explanation": "Benedict Cumberbatch",
+    "group": "wiki",
+    "id": "quiz-visual-101b6f1a626baeedaa6e8589",
+    "media": "101b6f1a626baeedaa6e8589"
+  },
+  {
+    "format": "image",
+    "theme": "screen",
+    "text": "Quel acteur ou quelle actrice reconnais-tu ?",
+    "answer": [
+      "Pedro Pascal"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:Pedro_Pascal_at_the_2026_New_York_Film_Festival-042.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Pedro_Pascal_at_the_2026_New_York_Film_Festival-042.jpg/330px-Pedro_Pascal_at_the_2026_New_York_Film_Festival-042.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Pedro_Pascal",
+    "display": "character",
+    "explanation": "Pedro Pascal",
+    "group": "wiki",
+    "id": "quiz-visual-2f95353bf78787f39185cd09",
+    "media": "2f95353bf78787f39185cd09"
+  },
+  {
+    "format": "image",
+    "theme": "screen",
+    "text": "Quel acteur ou quelle actrice reconnais-tu ?",
+    "answer": [
+      "Bryan Cranston",
+      "Cranston"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:BryanCranston-byPhilipRomano_%28cropped%29.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/BryanCranston-byPhilipRomano_%28cropped%29.jpg/330px-BryanCranston-byPhilipRomano_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Bryan_Cranston",
+    "display": "character",
+    "explanation": "Bryan Cranston",
+    "group": "wiki",
+    "id": "quiz-visual-e1cec00e00472d2fd74e200b",
+    "media": "e1cec00e00472d2fd74e200b"
+  },
+  {
+    "format": "image",
+    "theme": "screen",
+    "text": "Quel acteur ou quelle actrice reconnais-tu ?",
+    "answer": [
+      "Gillian Anderson"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:Gillian_Anderson_at_Fan_Expo_Denver_2026_02.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Gillian_Anderson_at_Fan_Expo_Denver_2026_02.jpg/330px-Gillian_Anderson_at_Fan_Expo_Denver_2026_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Gillian_Anderson",
+    "display": "character",
+    "explanation": "Gillian Anderson",
+    "group": "wiki",
+    "id": "quiz-visual-54726494f585fcf4838f08f9",
+    "media": "54726494f585fcf4838f08f9"
+  },
+  {
+    "format": "image",
+    "theme": "screen",
+    "text": "Quel acteur ou quelle actrice reconnais-tu ?",
+    "answer": [
+      "Eva Green"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:EVA_GREEN_CESAR_2020.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/EVA_GREEN_CESAR_2020.jpg/330px-EVA_GREEN_CESAR_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Eva_Green",
+    "display": "character",
+    "explanation": "Eva Green",
+    "group": "wiki",
+    "id": "quiz-visual-928c50e1457a8d9cbfa0796c",
+    "media": "928c50e1457a8d9cbfa0796c"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel artiste musical reconnais-tu ?",
+    "answer": [
+      "David Bowie",
+      "Bowie"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://commons.wikimedia.org/wiki/File:David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg/330px-David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/David_Bowie",
+    "display": "landscape",
+    "explanation": "David Bowie",
+    "group": "wiki",
+    "id": "quiz-visual-6eb8ea27cfb4b5bd67693df4",
+    "media": "6eb8ea27cfb4b5bd67693df4"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel artiste musical reconnais-tu ?",
+    "answer": [
+      "Freddie Mercury",
+      "Mercury"
+    ],
+    "credit": "Carl Lender · CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg/330px-Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Freddie_Mercury",
+    "display": "landscape",
+    "explanation": "Freddie Mercury",
+    "group": "wiki",
+    "id": "quiz-visual-5c64a0950139b57beb6eb94d",
+    "media": "5c64a0950139b57beb6eb94d"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel artiste musical reconnais-tu ?",
+    "answer": [
+      "Amy Winehouse",
+      "Winehouse"
+    ],
+    "credit": "Rama · CC BY-SA 2.0 fr",
+    "source": "https://commons.wikimedia.org/wiki/File:Amy_Winehouse_f4962007_crop.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Amy_Winehouse_f4962007_crop.jpg/330px-Amy_Winehouse_f4962007_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Amy_Winehouse",
+    "display": "landscape",
+    "explanation": "Amy Winehouse",
+    "group": "wiki",
+    "id": "quiz-visual-e367e2c9d3a00091cdddee49",
+    "media": "e367e2c9d3a00091cdddee49"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel artiste musical reconnais-tu ?",
+    "answer": [
+      "Björk",
+      "Bjork"
+    ],
+    "credit": "Frédéric Vicomte · CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bjork_Orkestral_Paris_%28cropped%29.png",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Bjork_Orkestral_Paris_%28cropped%29.png/330px-Bjork_Orkestral_Paris_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Bj%C3%B6rk",
+    "display": "landscape",
+    "explanation": "Björk",
+    "group": "wiki",
+    "id": "quiz-visual-355e1ceafd09c14011617fe3",
+    "media": "355e1ceafd09c14011617fe3"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel artiste musical reconnais-tu ?",
+    "answer": [
+      "Stromae",
+      "Paul Van Haver"
+    ],
+    "credit": "Georges Biard\n\n → Derivative work: Steffen Schmitz (Carschten) · CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stromae_2011_cropped.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Stromae_2011_cropped.jpg/330px-Stromae_2011_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Stromae",
+    "display": "landscape",
+    "explanation": "Stromae",
+    "group": "wiki",
+    "id": "quiz-visual-5a7591ec08d720ea81b84017",
+    "media": "5a7591ec08d720ea81b84017"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel artiste musical reconnais-tu ?",
+    "answer": [
+      "Daft Punk"
+    ],
+    "credit": "Sony Music Entertainment, additional editing by W.carter · CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Daft_Punk_in_2013_2-_centered.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Daft_Punk_in_2013_2-_centered.jpg/330px-Daft_Punk_in_2013_2-_centered.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Daft_Punk",
+    "display": "landscape",
+    "explanation": "Daft Punk",
+    "group": "wiki",
+    "id": "quiz-visual-6f7c221e54856e84cea1eb22",
+    "media": "6f7c221e54856e84cea1eb22"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel artiste musical reconnais-tu ?",
+    "answer": [
+      "Gorillaz"
+    ],
+    "credit": "Gorillaz/Jamie Hewlett · Fair use",
+    "source": "https://en.wikipedia.org/wiki/File:Gorillaz_family.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c6/Gorillaz_family.jpg/330px-Gorillaz_family.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Gorillaz",
+    "display": "landscape",
+    "explanation": "Gorillaz",
+    "group": "wiki",
+    "id": "quiz-visual-a6a5c6a2228a666e1d364002",
+    "media": "a6a5c6a2228a666e1d364002"
+  },
+  {
+    "format": "image",
+    "theme": "general",
+    "text": "Quel artiste musical reconnais-tu ?",
+    "answer": [
+      "Kendrick Lamar",
+      "Kendrick"
+    ],
+    "credit": "Raph_PH · CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:KendrickSZASPurs230725-144_%28cropped%29_desaturated.jpg",
+    "assetSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/KendrickSZASPurs230725-144_%28cropped%29_desaturated.jpg/330px-KendrickSZASPurs230725-144_%28cropped%29_desaturated.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "reference": "https://en.wikipedia.org/wiki/Kendrick_Lamar",
+    "display": "landscape",
+    "explanation": "Kendrick Lamar",
+    "group": "wiki",
+    "id": "quiz-visual-327235bbf8b0186bdfab6af3",
+    "media": "327235bbf8b0186bdfab6af3"
+  },
+  {
+    "format": "image",
+    "theme": "anime",
+    "text": "Quel personnage d’anime ou de manga est représenté ?",
+    "answer": [
+      "Luffy",
+      "Monkey D Luffy"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://en.wikipedia.org/wiki/File:Monkey_D_Luffy.png",
+    "assetSource": "https://upload.wikimedia.org/wikipedia/en/c/cb/Monkey_D_Luffy.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "reference": "https://en.wikipedia.org/wiki/Monkey_D._Luffy",
+    "display": "character",
+    "explanation": "Luffy",
+    "group": "wiki",
+    "id": "quiz-visual-bc438514d3b09ece56dbfd2d",
+    "media": "bc438514d3b09ece56dbfd2d"
+  },
+  {
+    "format": "image",
+    "theme": "anime",
+    "text": "Quel personnage d’anime ou de manga est représenté ?",
+    "answer": [
+      "Goku",
+      "Son Goku",
+      "Sangoku"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://en.wikipedia.org/wiki/File:GokumangaToriyama.png",
+    "assetSource": "https://upload.wikimedia.org/wikipedia/en/4/4c/GokumangaToriyama.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "reference": "https://en.wikipedia.org/wiki/Goku",
+    "display": "character",
+    "explanation": "Goku",
+    "group": "wiki",
+    "id": "quiz-visual-c477641a7e5897ca98db1dc6",
+    "media": "c477641a7e5897ca98db1dc6"
+  },
+  {
+    "format": "image",
+    "theme": "anime",
+    "text": "Quel personnage d’anime ou de manga est représenté ?",
+    "answer": [
+      "Spike Spiegel",
+      "Spike"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://en.wikipedia.org/wiki/File:Spike_Spiegel_as_drawn_by_the_creators.jpg",
+    "assetSource": "https://upload.wikimedia.org/wikipedia/en/f/f6/Spike_Spiegel_as_drawn_by_the_creators.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "reference": "https://en.wikipedia.org/wiki/Spike_Spiegel",
+    "display": "character",
+    "explanation": "Spike Spiegel",
+    "group": "wiki",
+    "id": "quiz-visual-0a72dff1d4ba59eb8d86cfa5",
+    "media": "0a72dff1d4ba59eb8d86cfa5"
+  },
+  {
+    "format": "image",
+    "theme": "anime",
+    "text": "Quel personnage d’anime ou de manga est représenté ?",
+    "answer": [
+      "Sailor Moon",
+      "Usagi Tsukino",
+      "Usagi",
+      "Bunny"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://en.wikipedia.org/wiki/File:Sailor_Moon_01.jpg",
+    "assetSource": "https://upload.wikimedia.org/wikipedia/en/2/2b/Sailor_Moon_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "reference": "https://en.wikipedia.org/wiki/Sailor_Moon_(character)",
+    "display": "character",
+    "explanation": "Sailor Moon",
+    "group": "wiki",
+    "id": "quiz-visual-8a9c23c88537edb253d2e1ee",
+    "media": "8a9c23c88537edb253d2e1ee"
+  },
+  {
+    "format": "image",
+    "theme": "anime",
+    "text": "Quel personnage d’anime ou de manga est représenté ?",
+    "answer": [
+      "Lelouch Lamperouge",
+      "Lelouch",
+      "Zero"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://en.wikipedia.org/wiki/File:Lelouchvibritanniazero.png",
+    "assetSource": "https://upload.wikimedia.org/wikipedia/en/9/96/Lelouchvibritanniazero.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "reference": "https://en.wikipedia.org/wiki/Lelouch_Lamperouge",
+    "display": "character",
+    "explanation": "Lelouch Lamperouge",
+    "group": "wiki",
+    "id": "quiz-visual-6c193b7ab018a77372b06cfe",
+    "media": "6c193b7ab018a77372b06cfe"
+  },
+  {
+    "format": "image",
+    "theme": "anime",
+    "text": "Quel personnage d’anime ou de manga est représenté ?",
+    "answer": [
+      "Saitama"
+    ],
+    "credit": "Image : Wikimedia · crédits et licence sur la fiche source",
+    "source": "https://en.wikipedia.org/wiki/File:SaitamaWikipediapage.png",
+    "assetSource": "https://upload.wikimedia.org/wikipedia/en/9/98/SaitamaWikipediapage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "reference": "https://en.wikipedia.org/wiki/Saitama_(One-Punch_Man)",
+    "display": "character",
+    "explanation": "Saitama",
+    "group": "wiki",
+    "id": "quiz-visual-dd496ef35beab17972fd1eba",
+    "media": "dd496ef35beab17972fd1eba"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "De quel jeu provient cette capture ?",
+    "answer": [
+      "Portal 2"
+    ],
+    "credit": "Capture officielle publiée par Valve · Steam",
+    "source": "https://store.steampowered.com/app/620/",
+    "assetSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_f3f6787d74739d3b2ec8a484b5c994b3d31ef325.600x338.jpg?t=1790187113",
+    "display": "landscape",
+    "explanation": "Portal 2",
+    "group": "steam",
+    "id": "quiz-visual-0b6f8762ecd815e965ff49c3",
+    "media": "0b6f8762ecd815e965ff49c3"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "De quel jeu provient cette capture ?",
+    "answer": [
+      "Hollow Knight"
+    ],
+    "credit": "Capture officielle publiée par Team Cherry · Steam",
+    "source": "https://store.steampowered.com/app/367520/",
+    "assetSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_5384f9f8b96a0b9934b2bc35a4058376211636d2.600x338.jpg?t=1776125684",
+    "display": "landscape",
+    "explanation": "Hollow Knight",
+    "group": "steam",
+    "id": "quiz-visual-c4ca5f2ba311db21d74d207f",
+    "media": "c4ca5f2ba311db21d74d207f"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "De quel jeu provient cette capture ?",
+    "answer": [
+      "Stardew Valley"
+    ],
+    "credit": "Capture officielle publiée par ConcernedApe · Steam",
+    "source": "https://store.steampowered.com/app/413150/",
+    "assetSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_b887651a93b0525739049eb4194f633de2df75be.600x338.jpg?t=1786554168",
+    "display": "landscape",
+    "explanation": "Stardew Valley",
+    "group": "steam",
+    "id": "quiz-visual-6cbbe40a476bce9130aeb666",
+    "media": "6cbbe40a476bce9130aeb666"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "De quel jeu provient cette capture ?",
+    "answer": [
+      "Hades"
+    ],
+    "credit": "Capture officielle publiée par Supergiant Games · Steam",
+    "source": "https://store.steampowered.com/app/1145360/",
+    "assetSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_c0fed447426b69981cf1721756acf75369801b31.600x338.jpg?t=1758127023",
+    "display": "landscape",
+    "explanation": "Hades",
+    "group": "steam",
+    "id": "quiz-visual-89dfb2ab5fa53e2130ba0541",
+    "media": "89dfb2ab5fa53e2130ba0541"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "De quel jeu provient cette capture ?",
+    "answer": [
+      "Celeste"
+    ],
+    "credit": "Capture officielle publiée par Maddy Makes Games Inc. · Steam",
+    "source": "https://store.steampowered.com/app/504230/",
+    "assetSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/ss_1ad297c2044cdcf450ee83e56350cafb590da755.600x338.jpg?t=1714089525",
+    "display": "landscape",
+    "explanation": "Celeste",
+    "group": "steam",
+    "id": "quiz-visual-285c94031d26aea89ab9fc8f",
+    "media": "285c94031d26aea89ab9fc8f"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "De quel jeu provient cette capture ?",
+    "answer": [
+      "Terraria"
+    ],
+    "credit": "Capture officielle publiée par Re-Logic · Steam",
+    "source": "https://store.steampowered.com/app/105600/",
+    "assetSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_8c03886f214d2108cafca13845533eaa3d87d83f.600x338.jpg?t=1769844435",
+    "display": "landscape",
+    "explanation": "Terraria",
+    "group": "steam",
+    "id": "quiz-visual-b7044b9c947e89565d767e2f",
+    "media": "b7044b9c947e89565d767e2f"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "De quel jeu provient cette capture ?",
+    "answer": [
+      "Skyrim",
+      "The Elder Scrolls V Skyrim"
+    ],
+    "credit": "Capture officielle publiée par Bethesda Softworks · Steam",
+    "source": "https://store.steampowered.com/app/72850/",
+    "assetSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/72850/ss_4e95fbcf72ce2a9f86075738fa9930ef2bed1ac7.600x338.jpg?t=1788199504",
+    "display": "landscape",
+    "explanation": "The Elder Scrolls V: Skyrim",
+    "group": "steam",
+    "id": "quiz-visual-aaac7629d2efcc511eadfbe0",
+    "media": "aaac7629d2efcc511eadfbe0"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "De quel jeu provient cette capture ?",
+    "answer": [
+      "Undertale"
+    ],
+    "credit": "Capture officielle publiée par tobyfox · Steam",
+    "source": "https://store.steampowered.com/app/391540/",
+    "assetSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/ss_6ded97a2c98473ac1e8a2b3c1419d93fb31b1186.600x338.jpg?t=1757349115",
+    "display": "landscape",
+    "explanation": "Undertale",
+    "group": "steam",
+    "id": "quiz-visual-23f04a2f4edf6318bb85911b",
+    "media": "23f04a2f4edf6318bb85911b"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "De quel jeu provient cette capture ?",
+    "answer": [
+      "Slay the Spire"
+    ],
+    "credit": "Capture officielle publiée par Mega Crit · Steam",
+    "source": "https://store.steampowered.com/app/646570/",
+    "assetSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/ss_c171816f7ecd35b5b46d2fa27532f4c5b8ca3cc5.600x338.jpg?t=1774015376",
+    "display": "landscape",
+    "explanation": "Slay the Spire",
+    "group": "steam",
+    "id": "quiz-visual-e5785292e967eabbdb9a1b1b",
+    "media": "e5785292e967eabbdb9a1b1b"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "De quel jeu provient cette capture ?",
+    "answer": [
+      "The Binding of Isaac Rebirth",
+      "The Binding of Isaac",
+      "Isaac"
+    ],
+    "credit": "Capture officielle publiée par Nicalis, Inc. · Steam",
+    "source": "https://store.steampowered.com/app/250900/",
+    "assetSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_25a4a446a433218d41a7e87e35b60c297e68e7a4.600x338.jpg?t=1731977365",
+    "display": "landscape",
+    "explanation": "The Binding of Isaac: Rebirth",
+    "group": "steam",
+    "id": "quiz-visual-be1c6bb47557da0e6e101567",
+    "media": "be1c6bb47557da0e6e101567"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "De quel jeu provient cette capture ?",
+    "answer": [
+      "Outer Wilds"
+    ],
+    "credit": "Capture officielle publiée par Annapurna Interactive · Steam",
+    "source": "https://store.steampowered.com/app/753640/",
+    "assetSource": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_ec95a283483f0438be40d033f08b9d956e748d54.600x338.jpg?t=1785424341",
+    "display": "landscape",
+    "explanation": "Outer Wilds",
+    "group": "steam",
+    "id": "quiz-visual-eca92d3f3b7827a39eeca326",
+    "media": "eca92d3f3b7827a39eeca326"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "Quel est le nom de ce Pokémon ?",
+    "answer": [
+      "Dracaufeu",
+      "Charizard"
+    ],
+    "credit": "© Pokémon / Nintendo / Creatures / GAME FREAK · Visuel Tyradex",
+    "source": "https://tyradex.app/api/v1/pokemon/6",
+    "display": "character",
+    "id": "quiz-visual-ffe2db1065f91feda24f21c8",
+    "media": "ffe2db1065f91feda24f21c8",
+    "explanation": "Dracaufeu",
+    "assetSource": "https://raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/6/regular.png",
+    "group": "pokemon"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "Quel est le nom de ce Pokémon ?",
+    "answer": [
+      "Ectoplasma",
+      "Gengar"
+    ],
+    "credit": "© Pokémon / Nintendo / Creatures / GAME FREAK · Visuel Tyradex",
+    "source": "https://tyradex.app/api/v1/pokemon/94",
+    "display": "character",
+    "id": "quiz-visual-33c68a1f380d80d89c4ea150",
+    "media": "33c68a1f380d80d89c4ea150",
+    "explanation": "Ectoplasma",
+    "assetSource": "https://raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/94/regular.png",
+    "group": "pokemon"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "Quel est le nom de ce Pokémon ?",
+    "answer": [
+      "Noctali",
+      "Umbreon"
+    ],
+    "credit": "© Pokémon / Nintendo / Creatures / GAME FREAK · Visuel Tyradex",
+    "source": "https://tyradex.app/api/v1/pokemon/197",
+    "display": "character",
+    "id": "quiz-visual-263c504663419d5b87170e60",
+    "media": "263c504663419d5b87170e60",
+    "explanation": "Noctali",
+    "assetSource": "https://raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/197/regular.png",
+    "group": "pokemon"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "Quel est le nom de ce Pokémon ?",
+    "answer": [
+      "Cizayox",
+      "Scizor"
+    ],
+    "credit": "© Pokémon / Nintendo / Creatures / GAME FREAK · Visuel Tyradex",
+    "source": "https://tyradex.app/api/v1/pokemon/212",
+    "display": "character",
+    "id": "quiz-visual-048bf71c7de507484a9f1c49",
+    "media": "048bf71c7de507484a9f1c49",
+    "explanation": "Cizayox",
+    "assetSource": "https://raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/212/regular.png",
+    "group": "pokemon"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "Quel est le nom de ce Pokémon ?",
+    "answer": [
+      "Milobellus",
+      "Milotic"
+    ],
+    "credit": "© Pokémon / Nintendo / Creatures / GAME FREAK · Visuel Tyradex",
+    "source": "https://tyradex.app/api/v1/pokemon/350",
+    "display": "character",
+    "id": "quiz-visual-697706a842b5bc75e7187aeb",
+    "media": "697706a842b5bc75e7187aeb",
+    "explanation": "Milobellus",
+    "assetSource": "https://raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/350/regular.png",
+    "group": "pokemon"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "Quel est le nom de ce Pokémon ?",
+    "answer": [
+      "Absol",
+      "Absol"
+    ],
+    "credit": "© Pokémon / Nintendo / Creatures / GAME FREAK · Visuel Tyradex",
+    "source": "https://tyradex.app/api/v1/pokemon/359",
+    "display": "character",
+    "id": "quiz-visual-d43a05e541c66debadc079f0",
+    "media": "d43a05e541c66debadc079f0",
+    "explanation": "Absol",
+    "assetSource": "https://raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/359/regular.png",
+    "group": "pokemon"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "Quel est le nom de ce Pokémon ?",
+    "answer": [
+      "Lucario",
+      "Lucario"
+    ],
+    "credit": "© Pokémon / Nintendo / Creatures / GAME FREAK · Visuel Tyradex",
+    "source": "https://tyradex.app/api/v1/pokemon/448",
+    "display": "character",
+    "id": "quiz-visual-4c034a663b3110274605a3d3",
+    "media": "4c034a663b3110274605a3d3",
+    "explanation": "Lucario",
+    "assetSource": "https://raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/448/regular.png",
+    "group": "pokemon"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "Quel est le nom de ce Pokémon ?",
+    "answer": [
+      "Mimiqui",
+      "Mimikyu"
+    ],
+    "credit": "© Pokémon / Nintendo / Creatures / GAME FREAK · Visuel Tyradex",
+    "source": "https://tyradex.app/api/v1/pokemon/778",
+    "display": "character",
+    "id": "quiz-visual-af053bf501737fce44fac161",
+    "media": "af053bf501737fce44fac161",
+    "explanation": "Mimiqui",
+    "assetSource": "https://raw.githubusercontent.com/Yarkis01/TyraDex/images/sprites/778/regular.png",
+    "group": "pokemon"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "Quel champion de League of Legends est représenté ?",
+    "answer": [
+      "Ahri"
+    ],
+    "credit": "© Riot Games · Data Dragon",
+    "source": "https://www.leagueoflegends.com/fr-fr/champions/",
+    "display": "character",
+    "id": "quiz-visual-e5934d486f45e7a0cdefdd16",
+    "media": "e5934d486f45e7a0cdefdd16",
+    "explanation": "Ahri",
+    "assetSource": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_0.jpg",
+    "group": "lol"
+  },
+  {
+    "format": "image",
+    "theme": "games",
+    "text": "Quel champion de League of Legends est représenté ?",
+    "answer": [
+      "Jhin"
+    ],
+    "credit": "© Riot Games · Data Dragon",
+    "source": "https://www.leagueoflegends.com/fr-fr/champions/",
+    "display": "character",
+    "id": "quiz-visual-e08617483fc8fa29412733fa",
+    "media": "e08617483fc8fa29412733fa",
+    "explanation": "Jhin",
+    "assetSource": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jhin_0.jpg",
+    "group": "lol"
+  }
+]

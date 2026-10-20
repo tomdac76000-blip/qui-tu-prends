@@ -6,6 +6,7 @@ import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { installArcade } from './arcade-server.js';
 import { installSkyjo } from './skyjo-server.js';
+import {installQuizMedia} from './quiz-media.js';
 import { installQuiz } from './quiz-server.js';
 
 const questions = JSON.parse(readFileSync(new URL('./questions.json', import.meta.url)));
@@ -14,6 +15,7 @@ export function createGameServer({roundMs = 30000, tierMs = 60000, quizOptions =
   const app = express(), http = createServer(app), io = new Server(http, {maxHttpBufferSize: 64000});
   const rooms = new Map();
   const arcade=installArcade(io), skyjo=installSkyjo(io), quiz=installQuiz(io,quizOptions);
+  installQuizMedia(app);
   app.get('/quiz',(_,res)=>res.sendFile(fileURLToPath(new URL('./quiz.html',import.meta.url))));
   for(const file of ['quiz.js','quiz.css'])app.get('/'+file,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+file,import.meta.url))));
   app.get('/skyjo',(_,res)=>res.sendFile(fileURLToPath(new URL('./skyjo.html',import.meta.url))));

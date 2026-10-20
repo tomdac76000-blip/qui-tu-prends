@@ -1,6 +1,6 @@
 import {readFileSync} from 'node:fs';
-export const quizThemes={general:'Culture G',screen:'Films & séries',anime:'Anime & manga',games:'Jeux vidéo & esport',internet:'Internet & numérique'};
-export const quizFormats={classic:'Question classique',progressive:'Indices progressifs',link:'Le lien commun',order:'Dans le bon ordre',list:'La liste',estimate:'Au plus proche',double:'Double réponse',rare:'Réponse rare'};
+export const quizThemes={general:'Culture G',screen:'Films & séries',anime:'Anime & manga',games:'Jeux vidéo & esport',tcg:'TCG & cartes'};
+export const quizFormats={classic:'Question classique',progressive:'Indices progressifs',link:'Le lien commun',order:'Dans le bon ordre',list:'La liste',estimate:'Au plus proche',double:'Double réponse',rare:'Réponse rare',image:'Reconnaissance visuelle',location:'Où sommes-nous ?'};
 const questions=[],add=(format,theme,text,data)=>questions.push({id:`quiz-${format}-${questions.filter(q=>q.format===format).length+1}`,format,theme,text,...data});
 const answers=s=>s.split(';').map(a=>a.split('|'));
 const src={general:'https://fr.wikipedia.org/wiki/Culture_g%C3%A9n%C3%A9rale',screen:'https://www.imdb.com/',anime:'https://www.animenewsnetwork.com/encyclopedia/',games:'https://www.nintendo.com/fr-fr/Jeux/Jeux-347085.html',internet:'https://developer.mozilla.org/fr/docs/Glossary'};
@@ -80,4 +80,25 @@ for(const[theme,text,value,unit]of[
 for(const[theme,text,labels,solutions]of[
  ['games','Une aventure nous mène dans Hyrule.',['Quelle saga ?','Quel héros porte généralement une tunique verte ?'],['The Legend of Zelda|Zelda','Link']],['games','Un plombier moustachu veut sauver une princesse du roi des Koopas.',['Quel héros ?','Quel est ce roi ?'],['Mario|Super Mario','Bowser']],['games','Un jeu de tir et de portails se déroule chez Aperture Science.',['Quel jeu ?','Quelle IA dirige les tests ?'],['Portal|Portal 2','GLaDOS']],['anime','Un jeune ninja blond veut devenir Hokage.',['Son prénom ?','Son village ?'],['Naruto|Naruto Uzumaki','Konoha|Village de la feuille']],['anime','Un pirate au chapeau de paille recrute un sabreur aux cheveux verts.',['Quel manga ?','Quel sabreur ?'],['One Piece','Zoro|Roronoa Zoro']],['anime','Un lycéen utilise un carnet mortel et affronte L.',['Quel manga ?','Quel est le nom du lycéen ?'],['Death Note','Light Yagami|Light|Yagami Light']],['screen','Un professeur de chimie devient fabricant de drogue au Nouveau-Mexique.',['Quelle série ?','Quel professeur ?'],['Breaking Bad','Walter White|Walter']],['screen','Un anneau doit être détruit dans les flammes du Mordor.',['Quelle saga ?','Quel porteur hobbit l’amène jusqu’au Mordor ?'],['Le Seigneur des anneaux|Seigneur des anneaux|Lord of the Rings|LOTR','Frodon|Frodo|Frodon Sacquet|Frodo Baggins']],['screen','Un jeune sorcier reçoit une cicatrice en forme d’éclair.',['Son nom ?','Son école ?'],['Harry Potter','Poudlard|Hogwarts']],['general','Un scientifique propose la relativité restreinte en 1905.',['Quel scientifique ?','Quel symbole représente la vitesse de la lumière dans E = mc² ?'],['Albert Einstein|Einstein','c']],['general','Une ville italienne est traversée par l’Arno et abrite les Offices.',['Quelle ville ?','Quel pays ?'],['Florence|Firenze','Italie|Italy']],['general','Une planète rouge possède Phobos et Déimos.',['Quelle planète ?','Comment appelle-t-on ces deux objets ?'],['Mars','Satellites|Lunes|Satellites naturels|Lunes naturelles']],['internet','Un lien trompeur déclenche Never Gonna Give You Up.',['Quel mème ?','Quel chanteur ?'],['Rickroll|Rickrolling','Rick Astley|Astley']],['internet','Le projet Wikipédia est un site de référence collaboratif.',['Quel type d’ouvrage est-ce ?','En quelle année a-t-il été lancé ?'],['Encyclopédie|Encyclopedie en ligne|Encyclopédie libre','2001']],['internet','Un système libre utilise Tux comme mascotte.',['Quel système ?','Quel animal représente Tux ?'],['Linux|GNU Linux|GNU/Linux','Manchot|Manchot pygmée|Penguin']]
 ])add('double',theme,text,{labels,solutions:solutions.map(a=>a.split('|')),explanation:solutions.map(a=>a.split('|')[0]).join(' · '),source:src[theme]});
-export const quizBank=questions;
+questions.push(...JSON.parse(readFileSync(new URL('./quiz-visual.json',import.meta.url))));
+const extra=JSON.parse(readFileSync(new URL('./quiz-expansion.json',import.meta.url)));
+const listPrompts={
+'quiz-list-1':'Cite cinq Pokémon de départ parmi ceux de Rouge/Bleu et Or/Argent. Ne compte pas Pikachu.',
+'quiz-list-2':'Cite cinq régions principales de Pokémon parmi les six premières générations.',
+'quiz-list-3':'Cite cinq personnages jouables dans le premier Super Mario Kart sur Super Nintendo.',
+'quiz-list-4':'Cite cinq membres de l’équipage de Luffy. Jinbe compte ; les alliés extérieurs ne comptent pas.',
+'quiz-list-5':'Cite les cinq grands villages cachés dans Naruto.',
+'quiz-list-6':'Cite cinq des six amis principaux de la série Friends.',
+'quiz-list-7':'Cite cinq membres de la Communauté de l’anneau.',
+'quiz-list-8':'Cite cinq héros de l’équipe des Avengers réunie dans le film de 2012.',
+'quiz-list-9':'Cite cinq planètes du Système solaire. Ne compte pas les planètes naines.',
+'quiz-list-10':'Cite cinq pays qui ont une frontière terrestre avec la France métropolitaine.',
+'quiz-list-11':'Cite cinq des six pays fondateurs de la Communauté économique européenne en 1957.'};
+export const quizBank=[...questions.filter(q=>q.theme!=='internet'),...extra].map(q=>{
+ if(listPrompts[q.id])q.text=listPrompts[q.id];
+ if(q.format==='progressive')q.text={games:'De quel jeu vidéo parlent ces indices ?',anime:'Quel manga ou anime décrivent ces indices ?',screen:'Quel film ou quelle série décrivent ces indices ?',general:'Quel lieu, objet ou personnage décrivent ces indices ?'}[q.theme]||q.text;
+ if(q.format==='link'&&q.text.startsWith('Quel est le lien commun ? ')&&['games','anime','screen'].includes(q.theme))q.text={games:'À quel jeu ou à quelle saga appartiennent ces noms ? ',anime:'À quel manga ou anime appartiennent ces noms ? ',screen:'À quel film ou à quelle série appartiennent ces noms ? '}[q.theme]+q.text.slice('Quel est le lien commun ? '.length);
+ if(q.id==='quiz-v2-histoire-5')q.text='Quel dirigeant a gouverné l’URSS de la fin des années 1920 jusqu’à sa mort en 1953 ?';
+ if(q.id==='quiz-v2-geo-12')q.text='Dans quel pays se trouve la région de Svanétie ?';
+ return q;
+});

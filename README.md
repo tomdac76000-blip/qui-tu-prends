@@ -100,3 +100,9 @@ Quiz simultané de 2 à 12 joueurs, avec test solo et deux participants simulés
 Aucun bonus de rapidité ni départage au temps. Les bonnes réponses aux indices progressifs valent toujours deux points, quel que soit le nombre d’indices affichés. Le chrono limite uniquement la durée de la manche. Les ex aequo partagent la victoire. Les réponses et solutions restent côté serveur jusqu’à la correction. Aucun doublon dans une partie ; priorité aux questions absentes de l’historique local de l’hôte.
 
 Les épreuves de reconnaissance de lieux sur images ne sont pas incluses dans cette version. Les réponses textuelles utilisent une normalisation et des alias prévus, avec correction manuelle possible. Les salons restent en mémoire et disparaissent au redémarrage du serveur.
+
+## Quiz Mix : images et révision éditoriale
+
+681 questions : 71 visuels contrôlés (monuments, art, animaux, acteurs, musique, anime, captures de onze jeux différents, hors Valorant), 127 nouveaux textes/épreuves, dont un thème TCG de 39 questions. Les contenus informatiques du premier lot sont exclus du Quiz Mix. Les consignes des listes et des indices précisent la réponse attendue. Les jeux et règles TCG sont nommés pour éviter les ambiguïtés entre Pokémon classique/Pocket, Magic duel/Commander et les formats construits.
+
+Images servies depuis le site : noms opaques, chargement collectif avant le chrono, annulation sans points après 30 secondes si un joueur ne charge pas. Sources/crédits accessibles à la correction. Aucun bonus de vitesse. Les thèmes visuels disponibles alternent autant que le permet la sélection. Le lot inclut deux champions de LoL et aucune carte Valorant. Les décors de jeux permettent d’identifier le jeu ; les lieux réels demandent le site et le pays. Aucune localisation interne précise de jeu/anime n’est revendiquée.

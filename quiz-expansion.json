@@ -1,0 +1,1565 @@
+[
+  {
+    "id": "quiz-add-games-1",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Elden Ring, comment s’appelle le monde dans lequel on joue ?",
+    "answer": [
+      "L’Entre-terre",
+      "Entre terre",
+      "The Lands Between",
+      "Lands Between"
+    ],
+    "explanation": "L’Entre-terre",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-2",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans The Witcher 3, quel est le nom du cheval de Geralt en français ?",
+    "answer": [
+      "Ablette",
+      "Roach"
+    ],
+    "explanation": "Ablette",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-3",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Red Dead Redemption 2, quel personnage joue-t-on avant l’épilogue ?",
+    "answer": [
+      "Arthur Morgan",
+      "Arthur"
+    ],
+    "explanation": "Arthur Morgan",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-4",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans The Last of Us, quel est le prénom de l’adolescente que Joel accompagne ?",
+    "answer": [
+      "Ellie"
+    ],
+    "explanation": "Ellie",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-5",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans God of War (2018), quel est le prénom du fils de Kratos ?",
+    "answer": [
+      "Atreus",
+      "Atrée"
+    ],
+    "explanation": "Atreus",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-6",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Assassin’s Creed II, dans quel pays se déroule l’essentiel de l’aventure ?",
+    "answer": [
+      "Italie"
+    ],
+    "explanation": "Italie",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-7",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans BioShock, comment s’appelle la ville sous-marine ?",
+    "answer": [
+      "Rapture"
+    ],
+    "explanation": "Rapture",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-8",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans BioShock Infinite, comment s’appelle la ville flottante ?",
+    "answer": [
+      "Columbia"
+    ],
+    "explanation": "Columbia",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-9",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Portal, comment s’appelle l’intelligence artificielle qui dirige les tests ?",
+    "answer": [
+      "GLaDOS"
+    ],
+    "explanation": "GLaDOS",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-10",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Half-Life, quel est le nom de famille du héros Gordon ?",
+    "answer": [
+      "Freeman",
+      "Gordon Freeman"
+    ],
+    "explanation": "Freeman",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-11",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Mass Effect, quel est le nom de famille du commandant que l’on incarne ?",
+    "answer": [
+      "Shepard",
+      "Commandant Shepard"
+    ],
+    "explanation": "Shepard",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-12",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Cyberpunk 2077, comment s’appelle la ville principale ?",
+    "answer": [
+      "Night City"
+    ],
+    "explanation": "Night City",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-13",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Hades, quel fils d’Hadès essaie de quitter les Enfers ?",
+    "answer": [
+      "Zagreus",
+      "Zagréus"
+    ],
+    "explanation": "Zagreus",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-14",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Celeste, quel est le prénom de l’héroïne ?",
+    "answer": [
+      "Madeline"
+    ],
+    "explanation": "Madeline",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-15",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Hollow Knight, comment s’appelle le royaume souterrain ?",
+    "answer": [
+      "Hallownest"
+    ],
+    "explanation": "Hallownest",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-16",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Undertale, quel squelette porte généralement une veste bleue ?",
+    "answer": [
+      "Sans"
+    ],
+    "explanation": "Sans",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-17",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Stardew Valley, comment s’appelle le village principal en anglais ?",
+    "answer": [
+      "Pelican Town",
+      "Pélican Ville",
+      "Pelican Ville"
+    ],
+    "explanation": "Pelican Town",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-18",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Animal Crossing, quel personnage propose des prêts pour agrandir la maison ?",
+    "answer": [
+      "Tom Nook",
+      "Nook"
+    ],
+    "explanation": "Tom Nook",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-19",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Minecraft, quel monstre vert explose près du joueur ?",
+    "answer": [
+      "Creeper"
+    ],
+    "explanation": "Creeper",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-20",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Minecraft, dans quelle dimension affronte-t-on l’Ender Dragon ?",
+    "answer": [
+      "L’End",
+      "End"
+    ],
+    "explanation": "L’End",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-21",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Terraria, quel boss fait passer le monde en Hardmode lorsqu’on le bat ?",
+    "answer": [
+      "Mur de chair",
+      "Wall of Flesh"
+    ],
+    "explanation": "Mur de chair",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-22",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Subnautica, quel est le nom du vaisseau qui s’écrase au début ?",
+    "answer": [
+      "Aurora",
+      "L’Aurora"
+    ],
+    "explanation": "Aurora",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-23",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Outer Wilds, quelle civilisation disparue a laissé des textes en spirale ?",
+    "answer": [
+      "Nomai",
+      "Les Nomai"
+    ],
+    "explanation": "Nomai",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-24",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Resident Evil 2, quel est le prénom du policier Kennedy ?",
+    "answer": [
+      "Leon",
+      "Léon",
+      "Leon S Kennedy",
+      "Léon S Kennedy"
+    ],
+    "explanation": "Leon",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-25",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Silent Hill 2, quel monstre porte une grande tête triangulaire métallique ?",
+    "answer": [
+      "Pyramid Head",
+      "Tête de pyramide"
+    ],
+    "explanation": "Pyramid Head",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-26",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Final Fantasy VII, quel est le prénom du héros à la grande épée ?",
+    "answer": [
+      "Cloud",
+      "Cloud Strife"
+    ],
+    "explanation": "Cloud",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-27",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Final Fantasy X, comment s’appelle le sport joué sous l’eau ?",
+    "answer": [
+      "Blitzball"
+    ],
+    "explanation": "Blitzball",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-28",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Kingdom Hearts, comment s’appelle l’arme en forme de clé de Sora ?",
+    "answer": [
+      "Keyblade"
+    ],
+    "explanation": "Keyblade",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-29",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Metroid, quel est le nom de l’héroïne sous l’armure ?",
+    "answer": [
+      "Samus Aran",
+      "Samus"
+    ],
+    "explanation": "Samus Aran",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-30",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Halo, quel est le nom anglais du héros en armure verte ?",
+    "answer": [
+      "Master Chief",
+      "John 117",
+      "Major"
+    ],
+    "explanation": "Master Chief",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-31",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Gears of War, quel est le nom de famille de Marcus ?",
+    "answer": [
+      "Fenix",
+      "Marcus Fenix"
+    ],
+    "explanation": "Fenix",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-32",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Dead Space, quel ingénieur affronte les Nécromorphes ?",
+    "answer": [
+      "Isaac Clarke",
+      "Isaac"
+    ],
+    "explanation": "Isaac Clarke",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-33",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Metal Gear Solid, quel est le nom de code du héros infiltré à Shadow Moses ?",
+    "answer": [
+      "Solid Snake",
+      "Snake"
+    ],
+    "explanation": "Solid Snake",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-34",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Dishonored, quel garde du corps masqué joue-t-on ?",
+    "answer": [
+      "Corvo Attano",
+      "Corvo"
+    ],
+    "explanation": "Corvo Attano",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-35",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Ghost of Tsushima, quel est le prénom du samouraï Sakai ?",
+    "answer": [
+      "Jin",
+      "Jin Sakai"
+    ],
+    "explanation": "Jin",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-36",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Cuphead, quel est le nom du frère de Cuphead ?",
+    "answer": [
+      "Mugman"
+    ],
+    "explanation": "Mugman",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-37",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans It Takes Two, quels sont les prénoms du couple transformé en poupées ?",
+    "answer": [
+      "Cody et May",
+      "May et Cody",
+      "Cody May",
+      "May Cody"
+    ],
+    "explanation": "Cody et May",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-38",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Life is Strange (2015), quel est le prénom de l’héroïne qui remonte le temps ?",
+    "answer": [
+      "Max",
+      "Max Caulfield"
+    ],
+    "explanation": "Max",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-39",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Uncharted, quel est le prénom du chasseur de trésors Drake ?",
+    "answer": [
+      "Nathan",
+      "Nathan Drake"
+    ],
+    "explanation": "Nathan",
+    "source": null
+  },
+  {
+    "id": "quiz-add-games-40",
+    "format": "classic",
+    "theme": "games",
+    "text": "Dans Tomb Raider, quel est le nom complet de l’héroïne ?",
+    "answer": [
+      "Lara Croft"
+    ],
+    "explanation": "Lara Croft",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-1",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quelle est la capitale de l’Australie ?",
+    "answer": [
+      "Canberra"
+    ],
+    "explanation": "Canberra",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-2",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quelle est la capitale du Canada ?",
+    "answer": [
+      "Ottawa"
+    ],
+    "explanation": "Ottawa",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-3",
+    "format": "classic",
+    "theme": "general",
+    "text": "Dans quel pays se trouve la ville de Marrakech ?",
+    "answer": [
+      "Maroc"
+    ],
+    "explanation": "Maroc",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-4",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel pays a pour capitale Reykjavik ?",
+    "answer": [
+      "Islande"
+    ],
+    "explanation": "Islande",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-5",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel fleuve traverse Londres ?",
+    "answer": [
+      "Tamise",
+      "La Tamise",
+      "Thames"
+    ],
+    "explanation": "Tamise",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-6",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel océan sépare l’Afrique de l’Australie ?",
+    "answer": [
+      "Océan Indien",
+      "Indien"
+    ],
+    "explanation": "Océan Indien",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-7",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel pays a offert la statue de la Liberté aux États-Unis ?",
+    "answer": [
+      "France"
+    ],
+    "explanation": "France",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-8",
+    "format": "classic",
+    "theme": "general",
+    "text": "Dans quel pays se trouve la ville de Kyoto ?",
+    "answer": [
+      "Japon"
+    ],
+    "explanation": "Japon",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-9",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel pays possède les villes de Porto et Lisbonne ?",
+    "answer": [
+      "Portugal"
+    ],
+    "explanation": "Portugal",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-10",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quelle monnaie utilise le Japon ?",
+    "answer": [
+      "Yen"
+    ],
+    "explanation": "Yen",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-11",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel peintre a réalisé Guernica ?",
+    "answer": [
+      "Pablo Picasso",
+      "Picasso"
+    ],
+    "explanation": "Pablo Picasso",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-12",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel peintre s’est coupé une partie de l’oreille ?",
+    "answer": [
+      "Vincent van Gogh",
+      "Van Gogh"
+    ],
+    "explanation": "Vincent van Gogh",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-13",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel artiste a peint le plafond de la chapelle Sixtine ?",
+    "answer": [
+      "Michel Ange",
+      "Michelangelo"
+    ],
+    "explanation": "Michel Ange",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-14",
+    "format": "classic",
+    "theme": "general",
+    "text": "Qui a écrit Le Comte de Monte-Cristo ?",
+    "answer": [
+      "Alexandre Dumas",
+      "Dumas"
+    ],
+    "explanation": "Alexandre Dumas",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-15",
+    "format": "classic",
+    "theme": "general",
+    "text": "Qui a écrit L’Étranger ?",
+    "answer": [
+      "Albert Camus",
+      "Camus"
+    ],
+    "explanation": "Albert Camus",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-16",
+    "format": "classic",
+    "theme": "general",
+    "text": "Qui a créé le détective Hercule Poirot ?",
+    "answer": [
+      "Agatha Christie",
+      "Christie"
+    ],
+    "explanation": "Agatha Christie",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-17",
+    "format": "classic",
+    "theme": "general",
+    "text": "Qui a écrit la trilogie du Seigneur des anneaux ?",
+    "answer": [
+      "J R R Tolkien",
+      "Tolkien",
+      "John Ronald Reuel Tolkien"
+    ],
+    "explanation": "J R R Tolkien",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-18",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel compositeur a écrit Les Quatre Saisons ?",
+    "answer": [
+      "Antonio Vivaldi",
+      "Vivaldi"
+    ],
+    "explanation": "Antonio Vivaldi",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-19",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel groupe a sorti l’album The Dark Side of the Moon ?",
+    "answer": [
+      "Pink Floyd"
+    ],
+    "explanation": "Pink Floyd",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-20",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel groupe chantait Bohemian Rhapsody ?",
+    "answer": [
+      "Queen"
+    ],
+    "explanation": "Queen",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-21",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel duo français a sorti l’album Discovery ?",
+    "answer": [
+      "Daft Punk"
+    ],
+    "explanation": "Daft Punk",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-22",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel chanteur a sorti l’album Thriller ?",
+    "answer": [
+      "Michael Jackson",
+      "Jackson"
+    ],
+    "explanation": "Michael Jackson",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-23",
+    "format": "classic",
+    "theme": "general",
+    "text": "Dans quel pays le reggae est-il né ?",
+    "answer": [
+      "Jamaïque",
+      "Jamaica"
+    ],
+    "explanation": "Jamaïque",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-24",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel instrument possède habituellement 88 touches ?",
+    "answer": [
+      "Piano"
+    ],
+    "explanation": "Piano",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-25",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quelle planète possède la Grande Tache rouge ?",
+    "answer": [
+      "Jupiter"
+    ],
+    "explanation": "Jupiter",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-26",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel organe produit l’insuline ?",
+    "answer": [
+      "Pancréas"
+    ],
+    "explanation": "Pancréas",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-27",
+    "format": "classic",
+    "theme": "general",
+    "text": "Comment appelle-t-on le passage de l’eau liquide à l’état gazeux ?",
+    "answer": [
+      "Vaporisation",
+      "Évaporation",
+      "Evaporation"
+    ],
+    "explanation": "Vaporisation",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-28",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel métal est liquide à température ambiante ?",
+    "answer": [
+      "Mercure"
+    ],
+    "explanation": "Mercure",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-29",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel gaz les plantes absorbent-elles lors de la photosynthèse ?",
+    "answer": [
+      "Dioxyde de carbone",
+      "CO2",
+      "Gaz carbonique"
+    ],
+    "explanation": "Dioxyde de carbone",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-30",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel est le plus grand organe du corps humain ?",
+    "answer": [
+      "Peau",
+      "La peau"
+    ],
+    "explanation": "Peau",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-31",
+    "format": "classic",
+    "theme": "general",
+    "text": "Combien d’os compte habituellement le squelette d’un adulte ?",
+    "answer": [
+      "206",
+      "Deux cent six"
+    ],
+    "explanation": "206",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-32",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel animal est le symbole de la marque automobile Ferrari ?",
+    "answer": [
+      "Cheval",
+      "Cheval cabré"
+    ],
+    "explanation": "Cheval",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-33",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel pays a gagné la Coupe du monde masculine de football en 2014 ?",
+    "answer": [
+      "Allemagne"
+    ],
+    "explanation": "Allemagne",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-34",
+    "format": "classic",
+    "theme": "general",
+    "text": "Dans quel sport utilise-t-on les termes birdie et bogey ?",
+    "answer": [
+      "Golf"
+    ],
+    "explanation": "Golf",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-35",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel tournoi de tennis du Grand Chelem se joue sur gazon ?",
+    "answer": [
+      "Wimbledon"
+    ],
+    "explanation": "Wimbledon",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-36",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel pays est à l’origine du judo ?",
+    "answer": [
+      "Japon"
+    ],
+    "explanation": "Japon",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-37",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel ingrédient principal donne sa couleur verte au guacamole ?",
+    "answer": [
+      "Avocat"
+    ],
+    "explanation": "Avocat",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-38",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quelle céréale est traditionnellement utilisée pour fabriquer le saké ?",
+    "answer": [
+      "Riz"
+    ],
+    "explanation": "Riz",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-39",
+    "format": "classic",
+    "theme": "general",
+    "text": "Quel fromage italien est utilisé dans un tiramisu classique ?",
+    "answer": [
+      "Mascarpone"
+    ],
+    "explanation": "Mascarpone",
+    "source": null
+  },
+  {
+    "id": "quiz-add-general-40",
+    "format": "classic",
+    "theme": "general",
+    "text": "De quel pays vient le plat appelé bibimbap ?",
+    "answer": [
+      "Corée du Sud",
+      "Corée",
+      "South Korea"
+    ],
+    "explanation": "Corée du Sud",
+    "source": null
+  },
+  {
+    "id": "quiz-add-tcg-1",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans le JCC Pokémon classique, combien de cartes contient un deck ?",
+    "answer": [
+      "60",
+      "Soixante"
+    ],
+    "explanation": "60",
+    "source": "https://www.pokemon.com/us/pokemon-tcg/play-online/learn/"
+  },
+  {
+    "id": "quiz-add-tcg-2",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans le JCC Pokémon classique, combien de cartes Récompense place-t-on au début d’une partie ?",
+    "answer": [
+      "6",
+      "Six"
+    ],
+    "explanation": "6",
+    "source": "https://www.pokemon.com/us/pokemon-tcg/play-online/learn/"
+  },
+  {
+    "id": "quiz-add-tcg-3",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans le JCC Pokémon classique, combien de cartes pioche-t-on pour sa main de départ ?",
+    "answer": [
+      "7",
+      "Sept"
+    ],
+    "explanation": "7",
+    "source": "https://www.pokemon.com/us/pokemon-tcg/play-online/learn/"
+  },
+  {
+    "id": "quiz-add-tcg-4",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans le JCC Pokémon, combien de Pokémon peut-on normalement avoir sur son Banc ?",
+    "answer": [
+      "5",
+      "Cinq"
+    ],
+    "explanation": "5",
+    "source": "https://www.pokemon.com/us/pokemon-tcg/play-online/learn/"
+  },
+  {
+    "id": "quiz-add-tcg-5",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans le JCC Pokémon, quel type de carte sert généralement à payer le coût des attaques ?",
+    "answer": [
+      "Énergie",
+      "Énergies",
+      "Carte énergie",
+      "Cartes énergie"
+    ],
+    "explanation": "Énergie",
+    "source": "https://www.pokemon.com/us/pokemon-tcg/play-online/learn/"
+  },
+  {
+    "id": "quiz-add-tcg-6",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans le JCC Pokémon, comment appelle-t-on le Pokémon placé devant le Banc, qui combat ?",
+    "answer": [
+      "Pokémon Actif",
+      "Actif"
+    ],
+    "explanation": "Pokémon Actif",
+    "source": "https://www.pokemon.com/us/pokemon-tcg/play-online/learn/"
+  },
+  {
+    "id": "quiz-add-tcg-7",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans le JCC Pokémon, quelle catégorie de cartes Dresseur est limitée à une jouée par tour ?",
+    "answer": [
+      "Supporter",
+      "Carte Supporter"
+    ],
+    "explanation": "Supporter",
+    "source": "https://www.pokemon.com/us/pokemon-tcg/play-online/learn/"
+  },
+  {
+    "id": "quiz-add-tcg-8",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Pokémon TCG Pocket, combien de cartes contient un deck ?",
+    "answer": [
+      "20",
+      "Vingt"
+    ],
+    "explanation": "20",
+    "source": "https://www.pokemon.com/us/pokemon-tcg/play-online/learn/"
+  },
+  {
+    "id": "quiz-add-tcg-9",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Yu-Gi-Oh!, combien de Life Points possède chaque joueur au début d’un duel classique ?",
+    "answer": [
+      "8000",
+      "8 000",
+      "Huit mille"
+    ],
+    "explanation": "8000",
+    "source": "https://www.yugioh-card.com/en/rulebook/"
+  },
+  {
+    "id": "quiz-add-tcg-10",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Yu-Gi-Oh!, combien de cartes contient au minimum le Main Deck ?",
+    "answer": [
+      "40",
+      "Quarante"
+    ],
+    "explanation": "40",
+    "source": "https://www.yugioh-card.com/en/rulebook/"
+  },
+  {
+    "id": "quiz-add-tcg-11",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Yu-Gi-Oh!, combien de cartes contient au maximum le Main Deck ?",
+    "answer": [
+      "60",
+      "Soixante"
+    ],
+    "explanation": "60",
+    "source": "https://www.yugioh-card.com/en/rulebook/"
+  },
+  {
+    "id": "quiz-add-tcg-12",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Yu-Gi-Oh!, combien de cartes contient au maximum l’Extra Deck ?",
+    "answer": [
+      "15",
+      "Quinze"
+    ],
+    "explanation": "15",
+    "source": "https://www.yugioh-card.com/en/rulebook/"
+  },
+  {
+    "id": "quiz-add-tcg-13",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Yu-Gi-Oh!, quelle est la couleur habituelle du cadre d’une Carte Piège ?",
+    "answer": [
+      "Violet",
+      "Violette",
+      "Rose",
+      "Pourpre"
+    ],
+    "explanation": "Violet",
+    "source": "https://www.yugioh-card.com/en/rulebook/"
+  },
+  {
+    "id": "quiz-add-tcg-14",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Yu-Gi-Oh!, combien de pièces d’Exodia faut-il réunir dans sa main pour gagner par son effet ?",
+    "answer": [
+      "5",
+      "Cinq"
+    ],
+    "explanation": "5",
+    "source": "https://www.yugioh-card.com/en/rulebook/"
+  },
+  {
+    "id": "quiz-add-tcg-15",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Yu-Gi-Oh!, quel monstre emblématique de Kaiba possède 3000 points d’ATK et 2500 points de DEF ?",
+    "answer": [
+      "Dragon Blanc aux Yeux Bleus",
+      "Blue Eyes White Dragon"
+    ],
+    "explanation": "Dragon Blanc aux Yeux Bleus",
+    "source": "https://www.yugioh-card.com/en/rulebook/"
+  },
+  {
+    "id": "quiz-add-tcg-16",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Yu-Gi-Oh!, quelle est la couleur du cadre des Monstres Synchro ?",
+    "answer": [
+      "Blanc",
+      "Blanche"
+    ],
+    "explanation": "Blanc",
+    "source": "https://www.yugioh-card.com/en/rulebook/"
+  },
+  {
+    "id": "quiz-add-tcg-17",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Magic, comment appelle-t-on la ressource utilisée pour lancer la plupart des sorts ?",
+    "answer": [
+      "Mana"
+    ],
+    "explanation": "Mana",
+    "source": "https://magic.wizards.com/en/how-to-play"
+  },
+  {
+    "id": "quiz-add-tcg-18",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Magic, quel type de carte produit généralement du mana ?",
+    "answer": [
+      "Terrain",
+      "Terrains"
+    ],
+    "explanation": "Terrain",
+    "source": "https://magic.wizards.com/en/how-to-play"
+  },
+  {
+    "id": "quiz-add-tcg-19",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Magic, combien existe-t-il de couleurs de mana ?",
+    "answer": [
+      "5",
+      "Cinq"
+    ],
+    "explanation": "5",
+    "source": "https://magic.wizards.com/en/how-to-play"
+  },
+  {
+    "id": "quiz-add-tcg-20",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Magic, combien de points de vie a-t-on au départ dans une partie classique à deux, hors Commander ?",
+    "answer": [
+      "20",
+      "Vingt"
+    ],
+    "explanation": "20",
+    "source": "https://magic.wizards.com/en/how-to-play"
+  },
+  {
+    "id": "quiz-add-tcg-21",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Magic, combien de points de vie a-t-on au départ en Commander multijoueur ?",
+    "answer": [
+      "40",
+      "Quarante"
+    ],
+    "explanation": "40",
+    "source": "https://magic.wizards.com/en/how-to-play"
+  },
+  {
+    "id": "quiz-add-tcg-22",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Magic, combien de cartes contient un deck Commander, commandant compris ?",
+    "answer": [
+      "100",
+      "Cent"
+    ],
+    "explanation": "100",
+    "source": "https://magic.wizards.com/en/how-to-play"
+  },
+  {
+    "id": "quiz-add-tcg-23",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Magic, quelle couleur de mana une Forêt produit-elle normalement ?",
+    "answer": [
+      "Vert",
+      "Verte"
+    ],
+    "explanation": "Vert",
+    "source": "https://magic.wizards.com/en/how-to-play"
+  },
+  {
+    "id": "quiz-add-tcg-24",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Magic, quelle couleur de mana une Île produit-elle normalement ?",
+    "answer": [
+      "Bleu",
+      "Bleue"
+    ],
+    "explanation": "Bleu",
+    "source": "https://magic.wizards.com/en/how-to-play"
+  },
+  {
+    "id": "quiz-add-tcg-25",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans One Piece Card Game, combien de cartes contient le deck principal, hors Leader et DON!! ?",
+    "answer": [
+      "50",
+      "Cinquante"
+    ],
+    "explanation": "50",
+    "source": "https://en.onepiece-cardgame.com/pdf/rule_manual.pdf?20220927="
+  },
+  {
+    "id": "quiz-add-tcg-26",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans One Piece Card Game, combien de cartes contient le deck DON!! ?",
+    "answer": [
+      "10",
+      "Dix"
+    ],
+    "explanation": "10",
+    "source": "https://en.onepiece-cardgame.com/pdf/rule_manual.pdf?20220927="
+  },
+  {
+    "id": "quiz-add-tcg-27",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans One Piece Card Game, quelle carte détermine les couleurs autorisées dans ton deck ?",
+    "answer": [
+      "Leader",
+      "Carte Leader"
+    ],
+    "explanation": "Leader",
+    "source": "https://en.onepiece-cardgame.com/pdf/rule_manual.pdf?20220927="
+  },
+  {
+    "id": "quiz-add-tcg-28",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans One Piece Card Game, quel nom portent les cartes utilisées pour payer les coûts ?",
+    "answer": [
+      "DON",
+      "DON!!",
+      "Cartes DON"
+    ],
+    "explanation": "DON",
+    "source": "https://en.onepiece-cardgame.com/pdf/rule_manual.pdf?20220927="
+  },
+  {
+    "id": "quiz-add-tcg-29",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans One Piece Card Game, combien d’exemplaires d’un même numéro de carte sont normalement autorisés dans le deck ?",
+    "answer": [
+      "4",
+      "Quatre"
+    ],
+    "explanation": "4",
+    "source": "https://en.onepiece-cardgame.com/pdf/rule_manual.pdf?20220927="
+  },
+  {
+    "id": "quiz-add-tcg-30",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Disney Lorcana classique, combien de points de Lore faut-il atteindre pour gagner ?",
+    "answer": [
+      "20",
+      "Vingt"
+    ],
+    "explanation": "20",
+    "source": "https://www.disneylorcana.com/en-US/how-to-play"
+  },
+  {
+    "id": "quiz-add-tcg-31",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Disney Lorcana en construit classique, combien de cartes faut-il au minimum dans son deck ?",
+    "answer": [
+      "60",
+      "Soixante"
+    ],
+    "explanation": "60",
+    "source": "https://www.disneylorcana.com/en-US/how-to-play"
+  },
+  {
+    "id": "quiz-add-tcg-32",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Disney Lorcana en construit classique, combien de couleurs d’encre peut-on utiliser au maximum dans un deck ?",
+    "answer": [
+      "2",
+      "Deux"
+    ],
+    "explanation": "2",
+    "source": "https://www.disneylorcana.com/en-US/how-to-play"
+  },
+  {
+    "id": "quiz-add-tcg-33",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Disney Lorcana, quel nom porte la ressource utilisée pour jouer les cartes ?",
+    "answer": [
+      "Encre",
+      "Ink"
+    ],
+    "explanation": "Encre",
+    "source": "https://www.disneylorcana.com/en-US/how-to-play"
+  },
+  {
+    "id": "quiz-add-tcg-34",
+    "format": "classic",
+    "theme": "tcg",
+    "text": "Dans Disney Lorcana, quelle entreprise édite le jeu de cartes ?",
+    "answer": [
+      "Ravensburger"
+    ],
+    "explanation": "Ravensburger",
+    "source": "https://www.disneylorcana.com/en-US/how-to-play"
+  },
+  {
+    "id": "quiz-add-link-114",
+    "theme": "games",
+    "format": "link",
+    "text": "Dans quelle saga retrouve-t-on Geralt, Ciri et Yennefer ?",
+    "answer": [
+      "The Witcher",
+      "Witcher"
+    ],
+    "explanation": "The Witcher"
+  },
+  {
+    "id": "quiz-add-link-115",
+    "theme": "games",
+    "format": "link",
+    "text": "Dans quelle saga retrouve-t-on les villes de Rapture et Columbia ?",
+    "answer": [
+      "BioShock"
+    ],
+    "explanation": "BioShock"
+  },
+  {
+    "id": "quiz-add-link-116",
+    "theme": "games",
+    "format": "link",
+    "text": "Dans quel jeu retrouve-t-on les boss Margit, Radahn et Malenia ?",
+    "answer": [
+      "Elden Ring"
+    ],
+    "explanation": "Elden Ring"
+  },
+  {
+    "id": "quiz-add-link-117",
+    "theme": "games",
+    "format": "link",
+    "text": "Dans quel jeu retrouve-t-on les biomes Prairies, Forêt noire et Marais, avec des Vikings ?",
+    "answer": [
+      "Valheim"
+    ],
+    "explanation": "Valheim"
+  },
+  {
+    "id": "quiz-add-link-118",
+    "theme": "general",
+    "format": "link",
+    "text": "Quel pays relie les villes de Séville, Valence et Bilbao ?",
+    "answer": [
+      "Espagne"
+    ],
+    "explanation": "Espagne"
+  },
+  {
+    "id": "quiz-add-link-119",
+    "theme": "general",
+    "format": "link",
+    "text": "Quel sport relie les noms Federer, Nadal et Djokovic ?",
+    "answer": [
+      "Tennis"
+    ],
+    "explanation": "Tennis"
+  },
+  {
+    "id": "quiz-add-link-120",
+    "theme": "general",
+    "format": "link",
+    "text": "Quel artiste relie les albums Purple Rain et Sign o’ the Times ?",
+    "answer": [
+      "Prince"
+    ],
+    "explanation": "Prince"
+  },
+  {
+    "id": "quiz-add-link-121",
+    "theme": "tcg",
+    "format": "link",
+    "text": "Quel jeu de cartes relie le mana, les terrains et les Planeswalkers ?",
+    "answer": [
+      "Magic",
+      "Magic the Gathering",
+      "MTG"
+    ],
+    "explanation": "Magic"
+  },
+  {
+    "id": "quiz-add-link-122",
+    "theme": "tcg",
+    "format": "link",
+    "text": "Quel jeu de cartes relie les encres Ambre, Améthyste et Émeraude ?",
+    "answer": [
+      "Disney Lorcana",
+      "Lorcana"
+    ],
+    "explanation": "Disney Lorcana"
+  },
+  {
+    "id": "quiz-add-link-123",
+    "theme": "tcg",
+    "format": "link",
+    "text": "Quel jeu de cartes relie l’Extra Deck, les Synchros et les Xyz ?",
+    "answer": [
+      "Yu Gi Oh",
+      "Yu-Gi-Oh!"
+    ],
+    "explanation": "Yu Gi Oh"
+  },
+  {
+    "id": "quiz-add-list-124",
+    "theme": "tcg",
+    "format": "list",
+    "text": "Cite cinq couleurs d’encre de Disney Lorcana.",
+    "answers": [
+      [
+        "Ambre",
+        "Amber"
+      ],
+      [
+        "Améthyste",
+        "Amethyst"
+      ],
+      [
+        "Émeraude",
+        "Emerald"
+      ],
+      [
+        "Rubis",
+        "Ruby"
+      ],
+      [
+        "Saphir",
+        "Sapphire"
+      ],
+      [
+        "Acier",
+        "Steel"
+      ]
+    ],
+    "limit": 5,
+    "explanation": "Un point par réponse correcte différente."
+  },
+  {
+    "id": "quiz-add-list-125",
+    "theme": "tcg",
+    "format": "list",
+    "text": "Cite les cinq couleurs de mana de Magic.",
+    "answers": [
+      [
+        "Blanc",
+        "Blanche"
+      ],
+      [
+        "Bleu",
+        "Bleue"
+      ],
+      [
+        "Noir",
+        "Noire"
+      ],
+      [
+        "Rouge"
+      ],
+      [
+        "Vert",
+        "Verte"
+      ]
+    ],
+    "limit": 5,
+    "explanation": "Un point par réponse correcte différente."
+  },
+  {
+    "id": "quiz-add-list-126",
+    "theme": "general",
+    "format": "list",
+    "text": "Cite cinq pays d’Amérique du Sud parmi les douze États souverains du continent.",
+    "answers": [
+      [
+        "Argentine"
+      ],
+      [
+        "Bolivie"
+      ],
+      [
+        "Brésil"
+      ],
+      [
+        "Chili"
+      ],
+      [
+        "Colombie"
+      ],
+      [
+        "Équateur"
+      ],
+      [
+        "Guyana"
+      ],
+      [
+        "Paraguay"
+      ],
+      [
+        "Pérou"
+      ],
+      [
+        "Suriname"
+      ],
+      [
+        "Uruguay"
+      ],
+      [
+        "Venezuela"
+      ]
+    ],
+    "limit": 5,
+    "explanation": "Un point par réponse correcte différente."
+  }
+]
