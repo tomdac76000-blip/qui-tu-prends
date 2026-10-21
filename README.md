@@ -128,3 +128,8 @@ Les sauvegardes v2 sont indépendantes pour les deux listes ; la sauvegarde v1 r
 ### Pires fins : sélection unifiée
 
 48 œuvres distinctes (24 de plus que les 24 œuvres des anciennes 32 cartes), sans variantes manga/anime. JJK, MHA et Fire Force sont mis en tête, suivis de Oshi no Ko, Mashle, Undead Unluck, Hell’s Paradise, Summer Time Rendering, Takopi et Kaguya-sama. Tournois de 16 ou 32 tirés parmi les œuvres cochées ; tier list possible avec les 48. La sauvegarde des fins utilise v3 pour ne pas reprendre les anciens doublons ; celle des premiers arcs reste en v2. Les anciennes sauvegardes restent dans le navigateur.
+
+
+### Undercover à portraits
+
+/undercover : 3 à 12 joueurs, un personnage majoritaire et un Undercover avec un personnage lié. 27 portraits intégrés, 24 paires préparées avec au moins trois points communs, filtres par univers, aucune paire répétée dans le salon avant renouvellement explicite. Distribution privée et confirmation avant les indices à tour de rôle. Discussion libre, votes secrets, égalité sans élimination, victoire civile si l’Undercover est éliminé, victoire Undercover à deux survivants. Reconnexion par jeton privé en sessionStorage, transfert automatique de l’hôte absent, boutons pour passer les absents. Le mode test solo ajoute trois bots aux indices génériques et votes aléatoires. Les portraits et les liens entre eux ne sont révélés à tous qu’en fin de partie ; la banque JSON n’est pas servie publiquement. Sources des portraits liées dans le résultat. Salons en mémoire comme les autres jeux.

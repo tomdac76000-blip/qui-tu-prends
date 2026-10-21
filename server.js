@@ -8,14 +8,17 @@ import { installArcade } from './arcade-server.js';
 import { installSkyjo } from './skyjo-server.js';
 import {installQuizMedia} from './quiz-media.js';
 import { installQuiz } from './quiz-server.js';
+import { installUndercover } from './undercover-server.js';
 
 const questions = JSON.parse(readFileSync(new URL('./questions.json', import.meta.url)));
 const categories = [];
 export function createGameServer({roundMs = 30000, tierMs = 60000, quizOptions = {}} = {}) {
   const app = express(), http = createServer(app), io = new Server(http, {maxHttpBufferSize: 64000});
   const rooms = new Map();
-  const arcade=installArcade(io), skyjo=installSkyjo(io), quiz=installQuiz(io,quizOptions);
+  const arcade=installArcade(io), skyjo=installSkyjo(io), quiz=installQuiz(io,quizOptions), undercover=installUndercover(io);
   installQuizMedia(app);
+  app.get('/undercover',(_,res)=>res.sendFile(fileURLToPath(new URL('./undercover.html',import.meta.url))));
+  for(const file of ['undercover.js','undercover.css'])app.get('/'+file,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+file,import.meta.url))));
   app.get('/tier',(_,res)=>res.sendFile(fileURLToPath(new URL('./tier.html',import.meta.url))));
   app.get('/tier-catalog',(_,res)=>res.sendFile(fileURLToPath(new URL('./tier-catalog.json',import.meta.url))));
   app.get('/tier-endings',(_,res)=>res.sendFile(fileURLToPath(new URL('./tier-endings.json',import.meta.url))));
@@ -139,7 +142,7 @@ export function createGameServer({roundMs = 30000, tierMs = 60000, quizOptions =
     socket.on('disconnect',()=>{clearInterval(rate);detach(socket);});
   });
   const cleanup=setInterval(()=>{for(const [code,r] of rooms)if(!connected(r).length&&Date.now()-r.touched>3600000){clearTimeout(r.timer);rooms.delete(code);}},60000);cleanup.unref();
-  return {app,http,io,rooms,arcade,skyjo,quiz,close:()=>{quiz.close();skyjo.close();arcade.close();clearInterval(cleanup);for(const r of rooms.values())clearTimeout(r.timer);io.close();http.close();}};
+  return {app,http,io,rooms,arcade,skyjo,quiz,undercover,close:()=>{undercover.close();quiz.close();skyjo.close();arcade.close();clearInterval(cleanup);for(const r of rooms.values())clearTimeout(r.timer);io.close();http.close();}};
 }
 if(process.argv[1]===fileURLToPath(import.meta.url)) {const {http}=createGameServer();http.listen(Number(process.env.PORT)||3000,'0.0.0.0',()=>console.log('Qui tu prends ? prêt sur le port '+(process.env.PORT||3000)));}
 
