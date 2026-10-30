@@ -1,3 +1,4 @@
+import { installPerso } from './perso-server.js';
 import express from 'express';
 import { createServer } from 'node:http';
 import { Server } from 'socket.io';
@@ -15,8 +16,10 @@ const categories = [];
 export function createGameServer({roundMs = 30000, tierMs = 60000, quizOptions = {}} = {}) {
   const app = express(), http = createServer(app), io = new Server(http, {maxHttpBufferSize: 64000});
   const rooms = new Map();
-  const arcade=installArcade(io), skyjo=installSkyjo(io), quiz=installQuiz(io,quizOptions), undercover=installUndercover(io);
+  const arcade=installArcade(io), skyjo=installSkyjo(io), quiz=installQuiz(io,quizOptions), undercover=installUndercover(io), perso=installPerso(io);
   installQuizMedia(app);
+  app.get('/perso',(_,res)=>res.sendFile(fileURLToPath(new URL('./perso.html',import.meta.url))));
+  app.get('/perso.js',(_,res)=>res.sendFile(fileURLToPath(new URL('./perso.js',import.meta.url))));
   app.get('/undercover',(_,res)=>res.sendFile(fileURLToPath(new URL('./undercover.html',import.meta.url))));
   for(const file of ['undercover.js','undercover.css'])app.get('/'+file,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+file,import.meta.url))));
   app.get('/tier',(_,res)=>res.sendFile(fileURLToPath(new URL('./tier.html',import.meta.url))));
@@ -142,7 +145,7 @@ export function createGameServer({roundMs = 30000, tierMs = 60000, quizOptions =
     socket.on('disconnect',()=>{clearInterval(rate);detach(socket);});
   });
   const cleanup=setInterval(()=>{for(const [code,r] of rooms)if(!connected(r).length&&Date.now()-r.touched>3600000){clearTimeout(r.timer);rooms.delete(code);}},60000);cleanup.unref();
-  return {app,http,io,rooms,arcade,skyjo,quiz,undercover,close:()=>{undercover.close();quiz.close();skyjo.close();arcade.close();clearInterval(cleanup);for(const r of rooms.values())clearTimeout(r.timer);io.close();http.close();}};
+  return {app,http,io,rooms,arcade,skyjo,quiz,undercover,perso,close:()=>{perso.close();undercover.close();quiz.close();skyjo.close();arcade.close();clearInterval(cleanup);for(const r of rooms.values())clearTimeout(r.timer);io.close();http.close();}};
 }
 if(process.argv[1]===fileURLToPath(import.meta.url)) {const {http}=createGameServer();http.listen(Number(process.env.PORT)||3000,'0.0.0.0',()=>console.log('Qui tu prends ? prêt sur le port '+(process.env.PORT||3000)));}
 
