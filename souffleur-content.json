@@ -1,626 +1,938 @@
 [
   {
-    "id": "v2-anime-11",
+    "id": "souffleur-original-1",
     "theme": "anime",
-    "text": "Dans Hunter × Hunter, quelle famille de Nen correspond naturellement à Kurapika hors yeux écarlates ?",
-    "answer": "La matérialisation",
+    "text": "Dans JoJo, partie 4, quelle action condamne la personne qui porte le Stand Cheap Trick ?",
+    "answer": "Quelqu’un voit son dos",
     "wrong": [
-      "La transformation",
-      "L'émission",
-      "La manipulation"
+      "Elle prononce son propre nom",
+      "Elle croise son reflet",
+      "Elle s’endort"
     ],
-    "explanation": "La matérialisation est la bonne réponse.",
-    "source": null
+    "explanation": "Cheap Trick tue son hôte quand un témoin voit son dos, puis passe sur ce témoin.",
+    "source": "https://jojowiki.com/Cheap_Trick"
   },
   {
-    "id": "v2-anime-14",
+    "id": "souffleur-original-2",
     "theme": "anime",
-    "text": "Dans Bleach, quel est le nom du zanpakutō de Rukia ?",
-    "answer": "Sode no Shirayuki",
+    "text": "Dans Hunter × Hunter, le pouvoir de Knuckle fait grossir une dette d’aura. À quel rythme les intérêts augmentent-ils à proximité de lui ?",
+    "answer": "10 % toutes les 10 secondes",
     "wrong": [
-      "Senbonzakura",
-      "Haineko",
-      "Suzumushi"
+      "1 % à chaque battement de cœur",
+      "50 % toutes les minutes",
+      "100 % après chaque coup reçu"
     ],
-    "explanation": "Sode no Shirayuki est la bonne réponse.",
-    "source": null
+    "explanation": "Hakoware ajoute 10 % à la dette toutes les dix secondes lorsque la cible est assez proche de Knuckle.",
+    "source": "https://hunterxhunter.fandom.com/wiki/Knuckle_Bine"
   },
   {
-    "id": "v2-anime-18",
+    "id": "souffleur-original-3",
     "theme": "anime",
-    "text": "Dans JoJo: Diamond Is Unbreakable, quel Stand possède Rohan Kishibe ?",
-    "answer": "Heaven's Door",
+    "text": "Dans Naruto Shippuden, où se cache le point de collecte où Kakuzu apporte le corps de Chiriku pour toucher sa prime ?",
+    "answer": "Dans des toilettes",
     "wrong": [
-      "Crazy Diamond",
-      "Killer Queen",
-      "Echoes"
+      "Sous une auberge",
+      "Derrière un temple abandonné",
+      "Dans un magasin d’armes"
     ],
-    "explanation": "Heaven's Door est la bonne réponse.",
-    "source": null
+    "explanation": "Kakuzu entre dans des toilettes qui dissimulent une station de collecte des primes. Hidan l’attend dehors.",
+    "source": "https://naruto.fandom.com/wiki/Kakuzu"
   },
   {
-    "id": "v2-anime-26",
+    "id": "souffleur-original-4",
     "theme": "anime",
-    "text": "Dans Hunter × Hunter, quel numéro de Crazy Slots correspond à la faux de Kite ?",
-    "answer": "2",
+    "text": "Dans le manga Jujutsu Kaisen, pourquoi la confiscation d’Higuruma ne prive-t-elle pas Sukuna de sa technique lors de leur procès ?",
+    "answer": "Son arme maudite est confisquée en priorité",
     "wrong": [
-      "3",
-      "4",
-      "9"
+      "Sukuna échange sa peine avec Yuji",
+      "Le jugement ne fonctionne pas sur les fléaux",
+      "Sukuna détruit la preuve avant le verdict"
     ],
-    "explanation": "2 est la bonne réponse.",
-    "source": null
+    "explanation": "Judgeman confisque Kamutoke, l’arme maudite de Sukuna, à la place de sa technique.",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Hiromi_Higuruma/Synopsis"
   },
   {
-    "id": "v2-anime-27",
+    "id": "souffleur-original-5",
     "theme": "anime",
-    "text": "Dans Fullmetal Alchemist: Brotherhood, quel alchimiste d'État est surnommé l'Alchimiste écarlate ?",
-    "answer": "Solf J. Kimblee",
+    "text": "Dans One Piece, quelle est réellement l’origine de Lassoo, le chien de Mr. 4 ?",
+    "answer": "Un fusil qui a mangé un fruit du démon",
     "wrong": [
-      "Basque Grand",
-      "Shou Tucker",
-      "Isaac McDougal"
+      "Un chien transformé par un scientifique",
+      "Un pirate enfermé dans une arme",
+      "Un chien équipé d’un canon dans la bouche"
     ],
-    "explanation": "Solf J. Kimblee est la bonne réponse.",
-    "source": null
+    "explanation": "Lassoo est l’arme de Mr. 4 : elle a mangé le fruit du chien, modèle teckel.",
+    "source": "https://one-piece.com/character/LASSOO/index.html"
   },
   {
-    "id": "v2-anime-29",
+    "id": "souffleur-original-6",
     "theme": "anime",
-    "text": "Dans JoJo: Golden Wind, quel est le Stand de Leone Abbacchio ?",
-    "answer": "Moody Blues",
+    "text": "Dans le manga Chainsaw Man, à qui appartient la voiture avec laquelle Power renverse Denji et un assassin ?",
+    "answer": "Kobeni",
     "wrong": [
-      "Purple Haze",
-      "Aerosmith",
-      "Soft Machine"
+      "Aki",
+      "Makima",
+      "Kishibe"
     ],
-    "explanation": "Moody Blues est la bonne réponse.",
-    "source": null
+    "explanation": "Power prend le volant de la voiture de Kobeni et percute Denji ainsi que l’assassin déguisé en Kurose.",
+    "source": "https://chainsaw-man.fandom.com/wiki/Power/History"
   },
   {
-    "id": "v2-anime-31",
+    "id": "souffleur-original-7",
     "theme": "anime",
-    "text": "Dans Hunter × Hunter, quel nom porte la capacité de Chrollo qui vole les pouvoirs ?",
-    "answer": "Skill Hunter",
+    "text": "Dans JoJo, partie 4, comment Josuke truque-t-il sa partie de dés contre Rohan ?",
+    "answer": "Mikitaka se transforme en dés",
     "wrong": [
-      "Emperor Time",
-      "Godspeed",
-      "Bungee Gum"
+      "Il répare les dés après chaque lancer",
+      "Il arrête le temps pendant les lancers",
+      "Il utilise des dés aimantés"
     ],
-    "explanation": "Skill Hunter est la bonne réponse.",
-    "source": null
+    "explanation": "Josuke fait passer Mikitaka, capable de changer de forme, pour des dés afin de gagner de l’argent contre Rohan.",
+    "source": "https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure%3A_Diamond_Is_Unbreakable"
   },
   {
-    "id": "v2-anime-32",
+    "id": "souffleur-original-8",
     "theme": "anime",
-    "text": "Dans Fullmetal Alchemist: Brotherhood, quel est le prénom de la sœur du commandant Armstrong ?",
-    "answer": "Olivier",
+    "text": "Dans Dragon Ball Z, en quoi Buu transforme-t-il Vegetto, qui continue pourtant à le frapper sous cette forme ?",
+    "answer": "Un bonbon au café",
     "wrong": [
-      "Rebecca",
-      "Maria",
-      "Gracia"
+      "Un biscuit au chocolat",
+      "Un morceau de chewing-gum",
+      "Une boule de glace à la vanille"
     ],
-    "explanation": "Olivier est la bonne réponse.",
-    "source": null
+    "explanation": "Vegetto conserve sa puissance et sa mobilité après avoir été changé en petit bonbon au café.",
+    "source": "https://dragonball.fandom.com/wiki/Vegito..._Downsized"
   },
   {
-    "id": "v2-anime-35",
-    "theme": "anime",
-    "text": "Dans Yu Yu Hakusho, quel ancien bandit démoniaque est réincarné en Shūichi Minamino ?",
-    "answer": "Kurama",
-    "wrong": [
-      "Hiei",
-      "Yomi",
-      "Raizen"
-    ],
-    "explanation": "Kurama est la bonne réponse.",
-    "source": null
-  },
-  {
-    "id": "v2-anime-37",
-    "theme": "anime",
-    "text": "Dans Akira, quel est le numéro attribué à Akira ?",
-    "answer": "28",
-    "wrong": [
-      "19",
-      "25",
-      "26"
-    ],
-    "explanation": "28 est la bonne réponse.",
-    "source": null
-  },
-  {
-    "id": "v2-anime-39",
-    "theme": "anime",
-    "text": "Dans Gurren Lagann, quel nom porte le roi des spirales ?",
-    "answer": "Lordgenome",
-    "wrong": [
-      "Viral",
-      "Thymilph",
-      "Rossiu"
-    ],
-    "explanation": "Lordgenome est la bonne réponse.",
-    "source": null
-  },
-  {
-    "id": "v2-anime-40",
-    "theme": "anime",
-    "text": "Dans Fate/Zero, quel héros historique est invoqué comme Rider ?",
-    "answer": "Alexandre le Grand",
-    "wrong": [
-      "Gilgamesh",
-      "Lancelot",
-      "Diarmuid Ua Duibhne"
-    ],
-    "explanation": "Alexandre le Grand est la bonne réponse.",
-    "source": null
-  },
-  {
-    "id": "v2-onepiece-11",
-    "theme": "anime",
-    "text": "Dans One Piece, quel est le véritable nom de Franky ?",
-    "answer": "Cutty Flam",
-    "wrong": [
-      "Iceburg",
-      "Tom",
-      "Den"
-    ],
-    "explanation": "Cutty Flam est la bonne réponse.",
-    "source": null
-  },
-  {
-    "id": "v2-onepiece-14",
-    "theme": "anime",
-    "text": "Dans One Piece, quel membre du CP9 se transforme en girafe ?",
-    "answer": "Kaku",
-    "wrong": [
-      "Jabra",
-      "Blueno",
-      "Kumadori"
-    ],
-    "explanation": "Kaku est la bonne réponse.",
-    "source": null
-  },
-  {
-    "id": "v2-onepiece-26",
-    "theme": "anime",
-    "text": "Dans One Piece, quel nom porte l'épée de Trafalgar Law ?",
-    "answer": "Kikoku",
-    "wrong": [
-      "Gryphon",
-      "Napoléon",
-      "Durandal"
-    ],
-    "explanation": "Kikoku est la bonne réponse.",
-    "source": null
-  },
-  {
-    "id": "v2-onepiece-28",
-    "theme": "anime",
-    "text": "Dans One Piece, quel navire de Roger a été construit par Tom ?",
-    "answer": "Oro Jackson",
-    "wrong": [
-      "Moby Dick",
-      "Great Eirik",
-      "Red Force"
-    ],
-    "explanation": "Oro Jackson est la bonne réponse.",
-    "source": null
-  },
-  {
-    "id": "v2-naruto-14",
-    "theme": "anime",
-    "text": "Dans Naruto, qui a créé l'Edo Tensei ?",
-    "answer": "Tobirama Senju",
-    "wrong": [
-      "Orochimaru",
-      "Kabuto Yakushi",
-      "Hiruzen Sarutobi"
-    ],
-    "explanation": "Tobirama Senju est la bonne réponse.",
-    "source": null
-  },
-  {
-    "id": "v2-naruto-26",
-    "theme": "anime",
-    "text": "Dans Naruto, quel est le nom du père de Kakashi ?",
-    "answer": "Sakumo Hatake",
-    "wrong": [
-      "Dai Hatake",
-      "Dan Hatake",
-      "Shin Hatake"
-    ],
-    "explanation": "Sakumo Hatake est la bonne réponse.",
-    "source": null
-  },
-  {
-    "id": "v2-naruto-30",
-    "theme": "anime",
-    "text": "Dans Naruto, quel nom porte le crapaud âgé qui forme Naruto au senjutsu avec Shima ?",
-    "answer": "Fukasaku",
-    "wrong": [
-      "Gamamaru",
-      "Gamabunta",
-      "Gamahiro"
-    ],
-    "explanation": "Fukasaku est la bonne réponse.",
-    "source": null
-  },
-  {
-    "id": "v2-naruto-34",
-    "theme": "anime",
-    "text": "Dans Naruto, comment se nomme le frère cadet de Madara Uchiha ?",
-    "answer": "Izuna",
-    "wrong": [
-      "Itama",
-      "Kawarama",
-      "Tajima"
-    ],
-    "explanation": "Izuna est la bonne réponse.",
-    "source": null
-  },
-  {
-    "id": "v2-pokemon-11",
+    "id": "souffleur-original-9",
     "theme": "games",
-    "text": "Quel talent permet à Munja d'être touché directement seulement par des attaques super efficaces ?",
-    "answer": "Garde Mystik",
+    "text": "Dans Pokémon X et Y, que faut-il faire avec la console quand Sepiatop monte d’un niveau à partir du niveau 30 pour le faire évoluer ?",
+    "answer": "La tenir à l’envers",
     "wrong": [
-      "Fermeté",
-      "Garde Magik",
-      "Multiécaille"
+      "Fermer son capot",
+      "Souffler dans son micro",
+      "Baisser la luminosité au minimum"
     ],
-    "explanation": "Garde Mystik est la bonne réponse.",
-    "source": null
+    "explanation": "Sepiatop évolue en Sepiatroce si la Nintendo 3DS est tenue à l’envers au moment de sa montée de niveau.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Inkay_(Pokemon)"
   },
   {
-    "id": "v2-pokemon-18",
+    "id": "souffleur-original-10",
     "theme": "games",
-    "text": "Quel Pokémon change de forme avec le talent Déclic Tactique ?",
-    "answer": "Exagide",
+    "text": "Dans Pokémon Épée et Bouclier, quelle condition étrange permet à un Tutafeh de Galar d’évoluer sous l’arche de pierre de la Fosse des Sables ?",
+    "answer": "Avoir perdu au moins 49 PV sans tomber K.O.",
     "wrong": [
-      "Darumacho",
-      "Meloetta",
-      "Deoxys"
+      "Avoir remporté 49 combats",
+      "Porter 49 objets successifs",
+      "Rester 49 minutes sous l’arche"
     ],
-    "explanation": "Exagide est la bonne réponse.",
-    "source": null
+    "explanation": "Tutafeh de Galar doit avoir subi au moins 49 points de dégâts sans être mis K.O., puis passer sous cette arche pour devenir Tutétékri.",
+    "source": "https://en.wikipedia.org/wiki/List_of_generation_VIII_Pok%C3%A9mon"
   },
   {
-    "id": "v2-pokemon-26",
+    "id": "souffleur-original-11",
     "theme": "games",
-    "text": "Quel objet doit tenir Hypocéan lors d'un échange pour évoluer en Hyporoi ?",
-    "answer": "Écaille Draco",
+    "text": "Dans Zelda: Breath of the Wild, comment peut-on pousser une nuée de cocottes à attaquer un monstre ?",
+    "answer": "Faire en sorte que le monstre frappe une cocotte",
     "wrong": [
-      "Croc Dragon",
-      "Écaille Cœur",
-      "Dent Océan"
+      "Jeter un œuf sur le monstre",
+      "Apprivoiser une cocotte avec des pommes",
+      "Porter un masque de poule"
     ],
-    "explanation": "Écaille Draco est la bonne réponse.",
-    "source": null
+    "explanation": "Une cocotte frappée par un ennemi peut appeler ses congénères contre cet ennemi, comme elle le fait contre Link.",
+    "source": "https://www.zeldadungeon.net/wiki/Cucco"
   },
   {
-    "id": "v2-pokemon-29",
+    "id": "souffleur-original-12",
     "theme": "games",
-    "text": "Quel talent empêche l'utilisation de Baies par les Pokémon adverses ?",
-    "answer": "Tension",
+    "text": "Dans Metal Gear Solid 3 sur PS2, que peut-il arriver si l’on sauvegarde pendant le duel contre The End puis revient plus d’une semaine après ?",
+    "answer": "Il est mort de vieillesse",
     "wrong": [
-      "Pression",
-      "Nervosité",
-      "Infiltration"
+      "Il a pris Snake en otage",
+      "Il a quitté la jungle",
+      "Il a récupéré tous ses points de vie et des renforts"
     ],
-    "explanation": "Tension est la bonne réponse.",
-    "source": null
+    "explanation": "Le jeu tient compte de l’horloge : après une assez longue absence, The End peut mourir de vieillesse sans que Snake le batte.",
+    "source": "https://metalgear.fandom.com/wiki/The_End"
   },
   {
-    "id": "v2-pokemon-32",
+    "id": "souffleur-original-13",
     "theme": "games",
-    "text": "Dans Pokémon Diamant et Perle, quel objet permet de faire évoluer Rhinoféros par échange ?",
-    "answer": "Protecteur",
+    "text": "Dans The Witcher 3, qu’ont ajouté les développeurs pour punir le massacre répété des vaches de Blanchefleur destiné à gagner de l’argent ?",
+    "answer": "Un puissant monstre qui vient attaquer Geralt",
     "wrong": [
-      "Roche Royale",
-      "Peau Métal",
-      "Pierre Dure"
+      "Une amende prélevée automatiquement",
+      "Des vaches immortelles",
+      "Un vendeur qui confisque toutes les peaux"
     ],
-    "explanation": "Protecteur est la bonne réponse.",
-    "source": null
+    "explanation": "Le dispositif de défense des bovins fait apparaître un chort près de l’enclos après des massacres répétés.",
+    "source": "https://witcher.fandom.com/wiki/Bovine_Defense_Force_Initiative"
   },
   {
-    "id": "v2-pokemon-34",
+    "id": "souffleur-original-14",
     "theme": "games",
-    "text": "Quel Pokémon possède naturellement le talent Lévitation dans les jeux de la troisième génération et le perd au profit de Corps Maudit à partir de la septième ?",
-    "answer": "Ectoplasma",
+    "text": "Dans Minecraft, laquelle de ces actions peut tuer avec le message anglais « Intentional Game Design » ?",
+    "answer": "Essayer de dormir dans un lit du Nether",
     "wrong": [
-      "Smogogo",
-      "Kaorine",
-      "Archéodong"
+      "Sauter dans le vide de l’End",
+      "Se faire écraser par une enclume",
+      "Manger une pomme de terre empoisonnée"
     ],
-    "explanation": "Ectoplasma est la bonne réponse.",
-    "source": null
+    "explanation": "Un lit explose si on tente de l’utiliser dans le Nether ou l’End ; une mort causée par cette explosion utilise ce message.",
+    "source": "https://minecraft.wiki/w/Death_messages"
   },
   {
-    "id": "v2-pokemon-35",
+    "id": "souffleur-original-15",
     "theme": "games",
-    "text": "Quel Pokémon faut-il avoir dans l'équipe pour faire évoluer Babimanta en montant de niveau ?",
-    "answer": "Rémoraid",
+    "text": "Sur la carte Pokémon humoristique « Doduo d’Imakuni ? » de XY Évolutions, quelle consigne accompagne sa retraite ?",
+    "answer": "Lancer physiquement la carte aussi fort que possible",
     "wrong": [
-      "Octillery",
-      "Démanta",
-      "Poissirène"
+      "Imiter son cri jusqu’au prochain tour",
+      "Plier la carte en deux",
+      "Courir une fois autour de la table"
     ],
-    "explanation": "Rémoraid est la bonne réponse.",
-    "source": null
+    "explanation": "Le texte demande de jeter la carte parce que Doduo s’enfuit. Cette carte fantaisie n’est pas destinée aux tournois officiels.",
+    "source": "https://www.pokemon.com/uk/pokemon-tcg/pokemon-cards/series/xy12/112"
   },
   {
-    "id": "v2-pokemon-36",
+    "id": "souffleur-original-16",
     "theme": "games",
-    "text": "Quel objet doit tenir Porygon2 lors d'un échange pour évoluer en Porygon-Z ?",
-    "answer": "CD Douteux",
+    "text": "Que demande réellement la carte Magic humoristique Chaos Confetti pour activer son effet ?",
+    "answer": "Déchirer la carte et lancer ses morceaux sur la table",
     "wrong": [
-      "Améliorator",
-      "Disque Techno",
-      "Module Choc"
+      "La cacher sous une autre carte",
+      "La faire tenir sur sa tête",
+      "Écrire le nom d’un adversaire au dos"
     ],
-    "explanation": "CD Douteux est la bonne réponse.",
-    "source": null
+    "explanation": "Dans l’extension parodique Unglued, on déchire cette carte puis on lance ses morceaux ; les permanents touchés sont détruits en jeu.",
+    "source": "https://magic.wizards.com/en/news/feature/unglued-qas-questions-asked-sometimes"
   },
   {
-    "id": "v2-series-26",
+    "id": "souffleur-original-17",
     "theme": "screen",
-    "text": "Dans Breaking Bad, quel livre de Walt Whitman dédicacé par Gale est retrouvé par Hank ?",
-    "answer": "Leaves of Grass",
+    "text": "Dans Zootopie, quel objet vendu par Nick a provoqué la colère de Mr. Big ?",
+    "answer": "Un tapis fabriqué avec la fourrure du derrière d’une mouffette",
     "wrong": [
-      "Drum-Taps",
-      "Calamus",
-      "Specimen Days"
+      "Un costume cousu dans une peau de rat",
+      "Un cercueil en carton peint",
+      "Un diamant en sucre"
     ],
-    "explanation": "Leaves of Grass est la bonne réponse.",
-    "source": null
+    "explanation": "Mr. Big reproche à Nick ce tapis de mauvaise qualité, dans lequel sa grand-mère a ensuite été enterrée.",
+    "source": "https://zootopia.fandom.com/wiki/Mr._Big/Quotes"
   },
   {
-    "id": "v2-series-31",
+    "id": "souffleur-original-18",
     "theme": "screen",
-    "text": "Dans Dark, quel horloger écrit Un voyage à travers le temps ?",
-    "answer": "H. G. Tannhaus",
+    "text": "Dans Kuzco, quel plat Kronk craint-il de faire brûler pendant le dîner où l’empereur doit être empoisonné ?",
+    "answer": "Des feuilletés aux épinards",
     "wrong": [
-      "Noah",
-      "Claudia Tiedemann",
-      "Bernd Doppler"
+      "Un gratin de pommes de terre",
+      "Des beignets au fromage",
+      "Une tarte aux champignons"
     ],
-    "explanation": "H. G. Tannhaus est la bonne réponse.",
-    "source": null
+    "explanation": "Kronk interrompt la conversation pour sauver ses feuilletés aux épinards.",
+    "source": "https://emperorsnewgroove.fandom.com/wiki/Spinach_Puffs"
   },
   {
-    "id": "v2-series-33",
+    "id": "souffleur-original-19",
     "theme": "screen",
-    "text": "Dans The Office US, quel est le nom du film d'action amateur de Michael Scott ?",
-    "answer": "Threat Level Midnight",
+    "text": "Dans Kuzco, en quel animal Yzma est-elle transformée par une potion pendant la poursuite finale ?",
+    "answer": "Un chat",
     "wrong": [
-      "Agent Michael Scarn",
-      "Goldenface",
-      "Midnight Protocol"
+      "Un lapin",
+      "Un renard",
+      "Une chauve-souris"
     ],
-    "explanation": "Threat Level Midnight est la bonne réponse.",
-    "source": null
+    "explanation": "La mauvaise potion transforme Yzma en petit chat ; elle essaie encore de récupérer la potion humaine sous cette forme.",
+    "source": "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Groove"
   },
   {
-    "id": "v2-series-37",
+    "id": "souffleur-original-20",
     "theme": "screen",
-    "text": "Dans Sherlock, quel pseudonyme Moriarty emploie-t-il pour prétendre être un acteur payé par Sherlock ?",
-    "answer": "Richard Brook",
+    "text": "Dans Le Monde de Nemo, pourquoi les poissons veulent-ils que Nemo bloque le filtre de l’aquarium du dentiste ?",
+    "answer": "Pour être mis dans des sacs pendant le nettoyage",
     "wrong": [
-      "Jim Brooks",
-      "James Sholto",
-      "Charles Magnussen"
+      "Pour provoquer une panne électrique dans le cabinet",
+      "Pour faire déborder directement l’eau dans la rue",
+      "Pour que le dentiste libère tous les poissons dans les toilettes"
     ],
-    "explanation": "Richard Brook est la bonne réponse.",
-    "source": null
+    "explanation": "Gill espère que la saleté obligera le dentiste à nettoyer le bac et à mettre les poissons dans des sacs, ce qui leur offrirait une occasion de s’échapper.",
+    "source": "https://en.wikipedia.org/wiki/Finding_Nemo"
   },
   {
-    "id": "v2-films-15",
+    "id": "souffleur-original-21",
     "theme": "screen",
-    "text": "Dans Alien, comment s'appelle le vaisseau commercial du premier film ?",
-    "answer": "Nostromo",
+    "text": "Dans Friends, que produit le mélange que Ross applique pour essayer de remettre son pantalon en cuir ?",
+    "answer": "Une pâte de talc et de lotion",
     "wrong": [
-      "Sulaco",
-      "Prometheus",
-      "Covenant"
+      "Une mousse de dentifrice et de savon",
+      "Une colle de sucre et d’eau",
+      "Une couche d’huile et de parfum"
     ],
-    "explanation": "Nostromo est la bonne réponse.",
-    "source": null
+    "explanation": "Sur les conseils de Joey, Ross utilise du talc puis de la lotion. Le mélange forme une pâte et aggrave la situation.",
+    "source": "https://www.allure.com/story/friends-beauty-moments"
   },
   {
-    "id": "v2-films-25",
+    "id": "souffleur-original-22",
     "theme": "screen",
-    "text": "Quel est le nom de famille du personnage principal joué par Jim Carrey dans The Truman Show ?",
-    "answer": "Burbank",
+    "text": "Dans The Office, que fait Dwight au mannequin pendant le cours de réanimation ?",
+    "answer": "Il découpe son visage et le porte comme un masque",
     "wrong": [
-      "Carrey",
-      "Braddock",
-      "Barish"
+      "Il lui agrafe la bouche",
+      "Il le jette par la fenêtre",
+      "Il le remplit de café pour le réchauffer"
     ],
-    "explanation": "Burbank est la bonne réponse.",
-    "source": null
+    "explanation": "Après avoir voulu prélever ses organes, Dwight découpe le visage du mannequin et imite Hannibal Lecter.",
+    "source": "https://en.wikipedia.org/wiki/Stress_Relief_(The_Office)"
   },
   {
-    "id": "v2-films-30",
+    "id": "souffleur-original-23",
     "theme": "screen",
-    "text": "Dans 2001, l'Odyssée de l'espace, quel astronaute affronte HAL 9000 ?",
-    "answer": "Dave Bowman",
+    "text": "Dans Retour vers le futur, pourquoi le centre commercial Twin Pines devient-il Lone Pine ?",
+    "answer": "Marty écrase l’un des deux pins en 1955",
     "wrong": [
-      "Frank Poole",
-      "Heywood Floyd",
-      "Charles Hunter"
+      "Doc achète le terrain et le rebaptise",
+      "Un éclair détruit un pin en 1985",
+      "Le père de Marty abat un arbre pour sa maison"
     ],
-    "explanation": "Dave Bowman est la bonne réponse.",
-    "source": null
+    "explanation": "Marty écrase un jeune pin chez Peabody. À son retour, le nom du centre commercial évoque donc un seul pin.",
+    "source": "https://www.looper.com/116555/back-future-details-adults-notice/"
   },
   {
-    "id": "v2-films-32",
+    "id": "souffleur-original-24",
     "theme": "screen",
-    "text": "Dans Memento, quel est le nom de famille de Leonard ?",
-    "answer": "Shelby",
+    "text": "Dans le premier Shrek, après avoir fait exploser un oiseau en chantant, que fait Fiona ?",
+    "answer": "Elle cuisine ses œufs pour le petit déjeuner",
     "wrong": [
-      "Dodd",
-      "Gammell",
-      "Jenkins"
+      "Elle enterre les œufs avec l’oiseau",
+      "Elle offre les œufs à l’Âne pour les couver",
+      "Elle apporte le nid à Shrek pour le réparer"
     ],
-    "explanation": "Shelby est la bonne réponse.",
-    "source": null
+    "explanation": "La scène passe du nid abandonné à Fiona en train de préparer les œufs pour le groupe.",
+    "source": "https://shrek.fandom.com/wiki/Shrek_(film)/Transcript"
   },
   {
-    "id": "insolite-1",
-    "theme": "screen",
-    "text": "Dans WALL·E, comment les bruitages des pas du cafard ont-ils été produits ?",
-    "answer": "Avec des menottes",
-    "wrong": [
-      "Avec du papier aluminium",
-      "Avec des touches de clavier",
-      "Avec des grains de riz"
-    ],
-    "explanation": "Le bruit des pas du cafard vient d’un enregistrement de menottes.",
-    "source": "https://news.disney.com/fun-facts-wall-e-sound"
-  },
-  {
-    "id": "insolite-2",
-    "theme": "screen",
-    "text": "Dans WALL·E, quel est le nom du cafard qui accompagne le robot ?",
-    "answer": "Hal",
-    "wrong": [
-      "Moe",
-      "Otto",
-      "Benny"
-    ],
-    "explanation": "Le compagnon de WALL·E s’appelle Hal.",
-    "source": "https://movies.disney.com/wall-e"
-  },
-  {
-    "id": "insolite-3",
-    "theme": "screen",
-    "text": "Dans Lilo & Stitch, le dessin animé de 2002, pourquoi Lilo nourrit-elle un poisson ?",
-    "answer": "Elle pense qu’il contrôle la météo",
-    "wrong": [
-      "Elle pense que c’est son grand-père réincarné",
-      "Elle prépare un concours de pêche",
-      "Elle veut qu’il lui rapporte des coquillages"
-    ],
-    "explanation": "Lilo croit que le poisson contrôle la météo et lui apporte un sandwich chaque jeudi.",
-    "source": "https://disney.fandom.com/wiki/Pudge"
-  },
-  {
-    "id": "insolite-4",
-    "theme": "screen",
-    "text": "Dans Lilo & Stitch (2002), que contient le sandwich que Lilo donne au poisson ?",
-    "answer": "Du beurre de cacahuète",
-    "wrong": [
-      "Du thon",
-      "Du fromage",
-      "De la confiture de fraises"
-    ],
-    "explanation": "C’est un sandwich au beurre de cacahuète. Lilo refuse de donner du thon à un poisson.",
-    "source": "https://disney.fandom.com/wiki/Pudge"
-  },
-  {
-    "id": "insolite-5",
-    "theme": "screen",
-    "text": "Dans Encanto, avec quels animaux Bruno monte-t-il ses petits feuilletons ?",
-    "answer": "Des rats",
-    "wrong": [
-      "Des souris blanches",
-      "Des lézards",
-      "Des cafards"
-    ],
-    "explanation": "Bruno met en scène des feuilletons avec les rats qui lui tiennent compagnie.",
-    "source": "https://assets.scriptslug.com/live/pdf/scripts/encanto-2021.pdf"
-  },
-  {
-    "id": "insolite-6",
+    "id": "souffleur-original-25",
     "theme": "comics",
-    "text": "Dans Amazing Spider-Man nº 258, Peter cache son identité avec quel accessoire improvisé ?",
-    "answer": "Un sac en papier",
+    "text": "Quelle est l’origine de Spider-Ham dans les comics ?",
+    "answer": "Une araignée mordue par une truie radioactive",
     "wrong": [
-      "Une boîte de céréales",
-      "Un casque de moto",
-      "Une cagoule de ski"
+      "Un cochon mordu par une araignée radioactive",
+      "Un humain transformé par un sérum de porc",
+      "Un cochon qui a avalé une toile radioactive"
     ],
-    "explanation": "Il porte une tenue des Quatre Fantastiques et un sac en papier sur la tête : le Bombastic Bag-Man.",
-    "source": "https://blog.playstation.com/archive/2019/09/02/the-secret-history-of-marvels-spider-man-suits-as-told-by-insomniac-artists"
+    "explanation": "Peter était une araignée avant la morsure de May Porker, une scientifique devenue radioactive.",
+    "source": "https://www.marvel.com/articles/comics/weirdest-spider-heroes-variants-spider-verse-so-far-list?linkId=175870217"
   },
   {
-    "id": "insolite-7",
+    "id": "souffleur-original-26",
     "theme": "comics",
-    "text": "À la fin d’Amazing Spider-Man nº 100 (1971), combien de bras Peter Parker a-t-il au total ?",
-    "answer": "Six",
+    "text": "Dans Spidey Super Stories nº 39, quel véhicule Thanos utilise-t-il avec son propre nom inscrit dessus ?",
+    "answer": "Un hélicoptère",
     "wrong": [
-      "Quatre",
-      "Huit",
-      "Dix"
+      "Une limousine",
+      "Un sous-marin",
+      "Un dirigeable"
     ],
-    "explanation": "Une tentative pour supprimer ses pouvoirs lui fait pousser quatre bras supplémentaires : six au total.",
-    "source": "https://en.wikipedia.org/wiki/The_Six_Arms_Saga"
+    "explanation": "Cette histoire pour enfants de 1979 met en scène le fameux hélicoptère de Thanos, bien loin de ses vaisseaux habituels.",
+    "source": "https://www.keycollectorcomics.com/issue/spidey-super-stories-39%2C31185/"
   },
   {
-    "id": "insolite-8",
+    "id": "souffleur-original-27",
     "theme": "comics",
-    "text": "Quelle version animale de Loki a réellement eu son propre comic Marvel en 2023 ?",
-    "answer": "Un alligator",
+    "text": "Dans les comics Marvel, d’où vient le petit marteau que manie Throg, la grenouille du tonnerre ?",
+    "answer": "D’un éclat détaché de Mjolnir",
     "wrong": [
-      "Un ornithorynque",
-      "Une hyène",
-      "Un paon"
+      "D’un jouet enchanté par Loki",
+      "D’une dent de dragon",
+      "D’une pièce de monnaie écrasée par Thor"
     ],
-    "explanation": "Alligator Loki a eu un comic papier à son nom en 2023, après ses aventures numériques.",
-    "source": "https://www.marvel.com/comics/issue/112411/alligator_loki_2023_1"
+    "explanation": "Simon Walterson, devenu la grenouille Puddlegulp, obtient son pouvoir en brandissant un fragment de Mjolnir.",
+    "source": "https://d3go.helpshift.com/hc/en/3-marvel-puzzle-quest/faq/907-new-character---throg-puddlegulp/?l=en&s=billing"
   },
   {
-    "id": "insolite-9",
-    "theme": "games",
-    "text": "Sur la jaquette occidentale du premier Kirby’s Dream Land sur Game Boy, de quelle couleur Kirby est-il représenté ?",
-    "answer": "Blanc",
+    "id": "souffleur-original-28",
+    "theme": "comics",
+    "text": "Dans la série japonaise Spider-Man de 1978, qu’est-ce que Leopardon ?",
+    "answer": "Un robot géant piloté par Spider-Man",
     "wrong": [
-      "Rose",
-      "Jaune",
-      "Bleu"
+      "Une moto qui se transforme en araignée",
+      "Un léopard extraterrestre apprivoisé",
+      "Un costume vivant qui remplace les toiles"
     ],
-    "explanation": "La jaquette occidentale le représentait en blanc, contrairement à la jaquette japonaise rose.",
-    "source": "https://en.wikipedia.org/wiki/Kirby_(series)"
+    "explanation": "Takuya Yamashiro combat notamment avec un immense robot, Leopardon, dans cette adaptation japonaise officielle.",
+    "source": "https://en.wikipedia.org/wiki/Spider-Man_(Japanese_TV_series)"
   },
   {
-    "id": "insolite-10",
-    "theme": "games",
-    "text": "Quel nom complet est attribué à Yoshi dans un guide Nintendo américain de 1993 ?",
-    "answer": "T. Yoshisaur Munchakoopas",
-    "wrong": [
-      "Yoshimoto Greenbelly",
-      "Yoshisaurus Rex",
-      "Yoshi Koopa Junior"
-    ],
-    "explanation": "Ce guide de personnages de 1993 donne le nom T. Yoshisaur Munchakoopas.",
-    "source": "https://www.gamespot.com/articles/yoshis-full-name-is-not-yoshi-according-to-1993-ni/1100-6421541/"
-  },
-  {
-    "id": "insolite-11",
-    "theme": "games",
-    "text": "Dans Minecraft, quel objet porté sur la tête permet de regarder un Enderman sans le provoquer par le regard ?",
-    "answer": "Une citrouille sculptée",
-    "wrong": [
-      "Un casque en or",
-      "Une tête de squelette",
-      "Une carapace de tortue"
-    ],
-    "explanation": "La citrouille sculptée empêche la provocation par le regard ; elle ne calme pas un Enderman déjà hostile.",
-    "source": "https://minecraft.wiki/w/Enderman"
-  },
-  {
-    "id": "insolite-12",
+    "id": "souffleur-original-29",
     "theme": "odd",
-    "text": "Quel animal produit naturellement des crottes en forme de petits cubes ?",
-    "answer": "Le wombat",
+    "text": "Laquelle de ces activités a réellement permis de gagner une médaille aux Jeux olympiques entre 1912 et 1948 ?",
+    "answer": "Concevoir un projet architectural",
     "wrong": [
-      "Le koala",
-      "Le castor",
-      "Le capybara"
+      "Résoudre des mots croisés",
+      "Créer une recette de cuisine",
+      "Faire un tour de magie"
     ],
-    "explanation": "Les excréments du wombat prennent une forme cubique dans son intestin.",
-    "source": "https://www.smithsonianmag.com/smart-news/why-wombats-make-cube-shaped-poos-180970847/"
+    "explanation": "Les concours artistiques olympiques comprenaient notamment l’architecture, aux côtés de la peinture, de la sculpture, de la musique et de la littérature.",
+    "source": "https://www.olympics.com/ioc/news/a-meeting-of-muscles-and-minds"
+  },
+  {
+    "id": "souffleur-original-30",
+    "theme": "odd",
+    "text": "Quel objet de sport Alan Shepard a-t-il réellement utilisé sur la Lune en 1971 ?",
+    "answer": "Un club de golf",
+    "wrong": [
+      "Une raquette de tennis",
+      "Une batte de baseball",
+      "Une crosse de hockey"
+    ],
+    "explanation": "Lors d’Apollo 14, Shepard frappe deux balles de golf avec un fer adapté à un outil de collecte d’échantillons.",
+    "source": "https://www.guinnessworldrecords.com/world-records/76085-most-remote-golf-shot"
+  },
+  {
+    "id": "souffleur-original-31",
+    "theme": "odd",
+    "text": "Quel animal possède des empreintes digitales à crêtes qui ressemblent à celles des humains, sans être un primate ?",
+    "answer": "Le koala",
+    "wrong": [
+      "Le renard",
+      "Le lapin",
+      "La loutre"
+    ],
+    "explanation": "Les doigts des koalas portent des empreintes individuelles à crêtes, comparables par leur aspect à celles des humains.",
+    "source": "https://www.pbs.org/wnet/nature/cracking-the-koala-code-koala-fact-sheet/7681/"
+  },
+  {
+    "id": "souffleur-original-32",
+    "theme": "odd",
+    "text": "Comment la grenouille des bois peut-elle traverser l’hiver sans mourir ?",
+    "answer": "Elle tolère le gel d’une partie de l’eau de son corps",
+    "wrong": [
+      "Elle abandonne sa peau et ses organes",
+      "Elle se transforme en têtard",
+      "Elle produit un cocon qui reste toujours à 20 °C"
+    ],
+    "explanation": "Cette grenouille supporte la congélation d’une grande partie de son eau corporelle, puis reprend son activité au dégel.",
+    "source": "https://www.amnh.org/exhibitions/frogs-a-chorus-of-colors/frogs-and-the-ecosystem/frog-antifreeze"
+  },
+  {
+    "id": "souffleur-original-33",
+    "theme": "odd",
+    "text": "Que fait la méduse dite « immortelle », Turritopsis dohrnii, pour recommencer son cycle de vie ?",
+    "answer": "Elle revient à un stade juvénile de polype",
+    "wrong": [
+      "Elle échange son cerveau avec une jeune méduse",
+      "Elle transfère sa mémoire à ses œufs",
+      "Elle remplace son corps par celui d’une proie"
+    ],
+    "explanation": "Elle peut redevenir un polype. Le surnom ne signifie pas qu’elle est invulnérable : elle peut notamment être mangée.",
+    "source": "https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html"
+  },
+  {
+    "id": "souffleur-original-34",
+    "theme": "odd",
+    "text": "Le « syndrome de la tête qui explose » est un vrai trouble. Que décrit ce nom ?",
+    "answer": "L’impression soudaine d’un bruit violent à l’endormissement ou au réveil",
+    "wrong": [
+      "Une migraine provoquée uniquement par le piment",
+      "L’impossibilité de reconnaître sa propre voix",
+      "Une sensation de cheveux qui poussent instantanément"
+    ],
+    "explanation": "Il s’agit d’un trouble du sommeil avec perception de bruits soudains, pas d’une explosion physique du crâne.",
+    "source": "https://my.clevelandclinic.org/health/diseases/21907-exploding-head-syndrome-ehs"
+  },
+  {
+    "id": "souffleur-original-35",
+    "theme": "odd",
+    "text": "Quel phénomène peut provoquer le vrai syndrome d’Alice au pays des merveilles ?",
+    "answer": "Percevoir les objets ou son corps beaucoup plus grands ou plus petits",
+    "wrong": [
+      "Ne comprendre que les phrases prononcées à l’envers",
+      "Entendre les animaux comme s’ils parlaient",
+      "Oublier uniquement les événements survenus un vendredi"
+    ],
+    "explanation": "Ce syndrome peut déformer la perception de la taille du corps et des objets, entre autres perturbations perceptives.",
+    "source": "https://my.clevelandclinic.org/health/diseases/24491-alice-in-wonderland-syndrome-aiws"
+  },
+  {
+    "id": "souffleur-original-36",
+    "theme": "odd",
+    "text": "Quel animal imaginaire est le symbole animal national de l’Écosse ?",
+    "answer": "La licorne",
+    "wrong": [
+      "Le griffon",
+      "Le phénix",
+      "Le dragon"
+    ],
+    "explanation": "La licorne est un symbole royal écossais ancien et l’animal national du pays.",
+    "source": "https://www.rct.uk/resources/unicorns"
+  },
+  {
+    "id": "souffleur-original-37",
+    "theme": "anime",
+    "text": "Dans l’anime One Piece, que devient Franky lorsqu’on remplace son cola par du thé Darjeeling ?",
+    "answer": "Un gentleman calme et raffiné",
+    "wrong": [
+      "Un enfant incontrôlable",
+      "Un robot qui ne parle qu’en rimes",
+      "Un somnambule agressif"
+    ],
+    "explanation": "Le carburant influence son comportement : le Darjeeling le rend particulièrement poli et distingué.",
+    "source": "https://onepiece.fandom.com/wiki/Battle_Frankies/BF-36"
+  },
+  {
+    "id": "souffleur-original-38",
+    "theme": "anime",
+    "text": "Dans One Piece, pourquoi Duval en veut-il personnellement à Sanji avant leur rencontre ?",
+    "answer": "Son visage ressemble au dessin raté de l’avis de recherche de Sanji",
+    "wrong": [
+      "Sanji a empoisonné son équipage",
+      "Sanji a volé le nom de son restaurant",
+      "Sanji a épousé sa fiancée sous un faux nom"
+    ],
+    "explanation": "La ressemblance avec l’affiche dessinée entraîne Duval dans une chasse à l’homme qui ne le concernait pas.",
+    "source": "https://onepiece.fandom.com/wiki/Duval"
+  },
+  {
+    "id": "souffleur-original-39",
+    "theme": "anime",
+    "text": "Dans One Piece, pourquoi les fantômes négatifs de Perona ne fonctionnent-ils pas sur Usopp ?",
+    "answer": "Il est déjà extrêmement négatif",
+    "wrong": [
+      "Il retient sa respiration quand ils passent",
+      "Son masque bloque les fantômes",
+      "Il porte du sel dans ses poches"
+    ],
+    "explanation": "Usopp explique qu’il est déjà négatif de nature : les fantômes ne réussissent pas à le déprimer davantage.",
+    "source": "https://en.wikipedia.org/wiki/Usopp"
+  },
+  {
+    "id": "souffleur-original-40",
+    "theme": "anime",
+    "text": "Dans la mini-aventure d’Ener sur les pages de couverture de One Piece, que rencontre-t-il sur la Lune ?",
+    "answer": "Des petits robots et des pirates de l’espace",
+    "wrong": [
+      "Des dragons célestes retraités",
+      "Une deuxième armée de géants",
+      "Des versions miniatures des Grands Corsaires"
+    ],
+    "explanation": "Cette histoire parallèle suit Ener sur la Lune, où il découvre des automates et affronte des pirates spatiaux.",
+    "source": "https://onepiece.fandom.com/wiki/Enel%27s_Great_Space_Operations"
+  },
+  {
+    "id": "souffleur-original-41",
+    "theme": "anime",
+    "text": "Dans Gintama, comment Gintoki et Kagura présentent-ils leur sculpture de neige franchement phallique ?",
+    "answer": "Comme un canon au nom interminable",
+    "wrong": [
+      "Comme un ancien monument religieux",
+      "Comme une fusée de livraison",
+      "Comme une espèce rare de champignon"
+    ],
+    "explanation": "Ils l’appellent le Neo Armstrong Cyclone Jet Armstrong Cannon, au grand désespoir de Shinpachi.",
+    "source": "https://gintama.fandom.com/wiki/Neo_Armstrong_Cyclone_Jet_Armstrong_Cannon"
+  },
+  {
+    "id": "souffleur-original-42",
+    "theme": "anime",
+    "text": "Dans Death Note, que cache Light dans un paquet de chips pour continuer à agir sous les caméras de surveillance ?",
+    "answer": "Une mini-télévision",
+    "wrong": [
+      "Un téléphone relié à Misa",
+      "Une caméra tournée vers la rue",
+      "Une oreillette reliée à Ryuk"
+    ],
+    "explanation": "Le petit écran lui permet de voir les criminels aux informations pendant qu’il semble réviser et grignoter.",
+    "source": "https://deathnote.fandom.com/wiki/Trash"
+  },
+  {
+    "id": "souffleur-original-43",
+    "theme": "anime",
+    "text": "Dans l’épisode d’auto-école de Dragon Ball Z, qui pousse Goku et Piccolo à apprendre à conduire ?",
+    "answer": "Chichi, qui veut une voiture pour faciliter les corvées",
+    "wrong": [
+      "Bulma, qui leur interdit désormais de voler",
+      "Tortue Géniale, qui parie sur leur échec",
+      "Krilin, qui a perdu son permis"
+    ],
+    "explanation": "Chichi en a assez de gérer les déplacements et les corvées ; les deux combattants prennent donc des leçons de conduite.",
+    "source": "https://www.rottentomatoes.com/tv/dragon_ball_z_1989/s04/e125"
+  },
+  {
+    "id": "souffleur-original-44",
+    "theme": "anime",
+    "text": "Dans JoJo, partie 4, pourquoi un repas chez Tonio peut-il faire tomber les mauvaises dents d’Okuyasu ?",
+    "answer": "Son Stand soigne le corps en remplaçant les dents malades",
+    "wrong": [
+      "Il teste un poison destiné à Josuke",
+      "Le plat contient des aimants",
+      "Okuyasu mange une préparation réservée aux chiens"
+    ],
+    "explanation": "Pearl Jam agit à travers les plats de Tonio. Les transformations paraissent horribles, mais elles guérissent notamment ses problèmes dentaires.",
+    "source": "https://jojowiki.com/Pearl_Jam"
+  },
+  {
+    "id": "souffleur-original-45",
+    "theme": "games",
+    "text": "Dans Metal Gear Solid sur PlayStation, quelle manipulation permet de déjouer la lecture des mouvements par Psycho Mantis ?",
+    "answer": "Brancher la manette sur le deuxième port",
+    "wrong": [
+      "Retourner physiquement la manette",
+      "Mettre le téléviseur en noir et blanc",
+      "Retirer puis remettre le disque pendant ses phrases"
+    ],
+    "explanation": "Sur la version PlayStation, changer de port empêche Psycho Mantis de prédire les commandes comme auparavant.",
+    "source": "https://en.wikipedia.org/wiki/Characters_of_the_Metal_Gear_series"
+  },
+  {
+    "id": "souffleur-original-46",
+    "theme": "games",
+    "text": "Dans Far Cry 4, comment peut-on obtenir une fin secrète presque immédiatement après le début ?",
+    "answer": "Attendre le retour de Pagan Min à la table du dîner",
+    "wrong": [
+      "Sauter par la fenêtre du palais",
+      "Jeter les cendres dans une poubelle",
+      "Tirer sur tous les portraits du palais"
+    ],
+    "explanation": "Au lieu de fuir, Ajay peut rester sagement à table ; Pagan revient et l’accompagne terminer son voyage.",
+    "source": "https://farcry.fandom.com/wiki/Far_Cry_4_endings"
+  },
+  {
+    "id": "souffleur-original-47",
+    "theme": "games",
+    "text": "Dans NieR: Automata, quelle action déclenche la fin humoristique K ?",
+    "answer": "Manger un maquereau",
+    "wrong": [
+      "Nourrir un robot avec du chocolat",
+      "Mettre une fleur dans son réacteur",
+      "Boire l’eau d’une fontaine"
+    ],
+    "explanation": "Le maquereau proposé par Jackass est dangereux pour les androïdes : le manger provoque cette fin.",
+    "source": "https://www.playstationtrophies.org/game/nier-automata/print-guide/"
+  },
+  {
+    "id": "souffleur-original-48",
+    "theme": "games",
+    "text": "Dans Skyrim, quelle astuce célèbre permet de voler sans être vu par un commerçant ?",
+    "answer": "Lui poser un seau sur la tête",
+    "wrong": [
+      "Lui offrir un bouquet de fleurs",
+      "Lui voler d’abord ses chaussures",
+      "L’obliger à regarder une carte"
+    ],
+    "explanation": "Le seau masque la ligne de vue du commerçant. D’autres témoins peuvent cependant encore repérer le vol.",
+    "source": "https://www.gamesradar.com/games/the-elder-scrolls/ex-skyrim-lead-says-bethesda-never-even-tried-to-put-a-bucket-on-anyones-head-during-development-setting-players-up-for-one-of-the-most-iconic-exploits-in-rpg-history/"
+  },
+  {
+    "id": "souffleur-original-49",
+    "theme": "games",
+    "text": "Dans Stardew Valley, quel objet peut-on ajouter à la soupe du Luau pour provoquer une réaction embarrassante du maire ?",
+    "answer": "Son caleçon violet",
+    "wrong": [
+      "Sa perruque",
+      "Sa brosse à dents",
+      "Sa photo de mariage"
+    ],
+    "explanation": "Le caleçon porte-bonheur de Lewis peut finir dans la soupe dégustée par le gouverneur.",
+    "source": "https://stardewvalleywiki.com/Luau"
+  },
+  {
+    "id": "souffleur-original-50",
+    "theme": "games",
+    "text": "Dans Les Sims 1, avec Ça vous change la vie, quel animal de compagnie peut transmettre une maladie si sa cage est sale ?",
+    "answer": "Un cochon d’Inde",
+    "wrong": [
+      "Une tortue",
+      "Un canari",
+      "Un poisson rouge"
+    ],
+    "explanation": "La morsure d’un cochon d’Inde dont la cage est sale peut rendre le Sim malade.",
+    "source": "https://gamefaqs.gamespot.com/pc/340137-the-sims-livin-large/faqs/23651"
+  },
+  {
+    "id": "souffleur-original-51",
+    "theme": "games",
+    "text": "Quel détail a réellement été animé en fonction du froid chez les chevaux mâles de Red Dead Redemption 2 ?",
+    "answer": "Leurs testicules rétrécissent",
+    "wrong": [
+      "Leurs sabots changent de couleur",
+      "Leurs crinières frisent",
+      "Leurs dents claquent en rythme"
+    ],
+    "explanation": "Rockstar a confirmé ce détail anatomique lié à la température lors des présentations du jeu.",
+    "source": "https://www.pcgamesn.com/red-dead-redemption-2/red-dead-redemption-2-horse-testicles"
+  },
+  {
+    "id": "souffleur-original-52",
+    "theme": "games",
+    "text": "Dans Resident Evil 4, que peut-il arriver si Leon tire plusieurs fois dans le lac depuis le ponton avant d’affronter Del Lago ?",
+    "answer": "Le monstre surgit et l’avale",
+    "wrong": [
+      "Les villageois lui lancent du poisson",
+      "Le marchand double ses prix",
+      "Le bateau se met à brûler"
+    ],
+    "explanation": "Cette mauvaise surprise est présente dans le jeu original et dans le remake : tirer dans l’eau peut provoquer une mort instantanée.",
+    "source": "https://primagames.com/tips/does-del-lago-still-eat-leon-if-you-shoot-the-water-in-resident-evil-4-remake-answered"
+  },
+  {
+    "id": "souffleur-original-53",
+    "theme": "screen",
+    "text": "Dans Monstres et Cie, quelle explication le yéti donne-t-il à la couleur jaune de ses cornets de neige ?",
+    "answer": "Ils sont au citron",
+    "wrong": [
+      "Il a ajouté du miel",
+      "La neige vient d’un volcan",
+      "Ils sont parfumés à l’ananas"
+    ],
+    "explanation": "Le monstre exilé précise qu’il s’agit de neige aromatisée au citron.",
+    "source": "https://www.pixar.com/monsters-inc"
+  },
+  {
+    "id": "souffleur-original-54",
+    "theme": "screen",
+    "text": "Dans Toy Story 2, que Madame Patate prépare-t-elle à son mari « au cas où » avant la mission de sauvetage ?",
+    "answer": "Ses yeux en colère",
+    "wrong": [
+      "Ses oreilles de rechange géantes",
+      "Son nez de clown",
+      "Une bouche qui mord"
+    ],
+    "explanation": "Madame Patate remplit son compartiment de pièces utiles, dont ses fameux yeux en colère.",
+    "source": "https://www.pixar.com/toy-story-2"
+  },
+  {
+    "id": "souffleur-original-55",
+    "theme": "screen",
+    "text": "Dans Aladdin de 1992, quel personnage d’un autre Disney pince le doigt du Génie pendant qu’il cherche une recette pour faire un prince ?",
+    "answer": "Sébastien de La Petite Sirène",
+    "wrong": [
+      "Jiminy Cricket de Pinocchio",
+      "Abu déguisé en crabe",
+      "Gus de Cendrillon"
+    ],
+    "explanation": "Le crabe Sébastien apparaît brièvement, accroché au doigt du Génie, dans ce clin d’œil à La Petite Sirène.",
+    "source": "https://jyx.jyu.fi/bitstreams/5bd539dc-6d2a-4ffd-b7e2-f8b601cc1355/download"
+  },
+  {
+    "id": "souffleur-original-56",
+    "theme": "screen",
+    "text": "Dans Mulan de 1998, que Cri-Kee avoue-t-il à Mushu après que Mulan a été renvoyée de l’armée ?",
+    "answer": "Qu’il n’est pas vraiment un grillon porte-bonheur",
+    "wrong": [
+      "Qu’il travaille pour les Huns",
+      "Qu’il a mangé le message de l’empereur",
+      "Qu’il est en réalité une sauterelle"
+    ],
+    "explanation": "Mushu découvre que son petit compagnon n’est pas le porte-bonheur annoncé.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Disney%27s_Mulan_characters"
+  },
+  {
+    "id": "souffleur-original-57",
+    "theme": "screen",
+    "text": "Dans Ratatouille, quelle méthode Skinner utilise-t-il pour essayer de faire révéler son secret à Linguini ?",
+    "answer": "Le faire boire avec de bonnes bouteilles de vin",
+    "wrong": [
+      "Le priver de sommeil toute une nuit",
+      "L’enfermer dans la chambre froide",
+      "Lui faire avaler une sauce beaucoup trop piquante"
+    ],
+    "explanation": "Skinner invite Linguini à boire et tente de le faire parler en l’enivrant.",
+    "source": "https://www.sellingyourscreenplay.com/wp-content/uploads/screenplay/scripts/Ratatouille.pdf"
+  },
+  {
+    "id": "souffleur-original-58",
+    "theme": "screen",
+    "text": "Dans Les Indestructibles, quelle farce vaut à Flèche d’être convoqué avec sa mère chez le directeur ?",
+    "answer": "Poser une punaise sur la chaise du professeur",
+    "wrong": [
+      "Remplacer tous les stylos par des carottes",
+      "Coller les chaussures du directeur au sol",
+      "Remplir le bureau de billes"
+    ],
+    "explanation": "Son professeur a filmé la salle, mais la vitesse de Flèche rend le geste presque impossible à voir.",
+    "source": "https://the-incredibles.fandom.com/wiki/Bernie_Kropp"
+  },
+  {
+    "id": "souffleur-original-59",
+    "theme": "screen",
+    "text": "Dans Shrek 2, qu’est-ce qui interrompt brutalement l’attaque du Chat Potté contre Shrek ?",
+    "answer": "Une boule de poils qu’il doit recracher",
+    "wrong": [
+      "Une puce qui entre dans son oreille",
+      "Le bruit d’un ouvre-boîte",
+      "Son épée qui se plante dans sa botte"
+    ],
+    "explanation": "Au milieu de sa démonstration, le Chat Potté se met à tousser puis recrache une boule de poils.",
+    "source": "https://dreamworks.fandom.com/wiki/Shrek_2/Transcripts"
+  },
+  {
+    "id": "souffleur-original-60",
+    "theme": "screen",
+    "text": "Dans Pirates des Caraïbes : La Malédiction du Black Pearl, quel projectile se plante dans l’œil en bois de Ragetti ?",
+    "answer": "Une fourchette",
+    "wrong": [
+      "Un tire-bouchon",
+      "Une aiguille à tricoter",
+      "Un peigne"
+    ],
+    "explanation": "L’équipage de l’Interceptor charge les canons avec des objets divers ; une fourchette frappe l’œil de Ragetti.",
+    "source": "https://pirates.fandom.com/wiki/Ragetti%27s_wooden_eye"
+  },
+  {
+    "id": "souffleur-original-61",
+    "theme": "comics",
+    "text": "Dans l’arc Dead Presidents de Deadpool, quels adversaires le héros doit-il remettre dans leur tombe ?",
+    "answer": "D’anciens présidents américains ressuscités",
+    "wrong": [
+      "Les anciens patrons de Marvel",
+      "Des acteurs morts en tournage",
+      "Les premiers milliardaires de New York"
+    ],
+    "explanation": "La série lancée en 2012 confronte Deadpool à des présidents revenus d’entre les morts.",
+    "source": "https://marvel.fandom.com/wiki/Deadpool_Vol_4_1"
+  },
+  {
+    "id": "souffleur-original-62",
+    "theme": "comics",
+    "text": "Dans The Unbeatable Squirrel Girl nº 4, comment Squirrel Girl convainc-elle Galactus d’épargner la Terre ?",
+    "answer": "Elle lui trouve une planète inhabitée pleine de noix",
+    "wrong": [
+      "Elle le bat à un concours de bras de fer",
+      "Elle lui fait croire que la Terre est périmée",
+      "Elle l’enferme dans un gland géant"
+    ],
+    "explanation": "Elle privilégie la discussion et lui propose une autre source de nourriture, riche en noix.",
+    "source": "https://www.disney.com.br/novidades/tbt-da-marvel-a-evolucao-da-garota-esquilo-ate-unbeatable-squirrel-girl-4"
+  },
+  {
+    "id": "souffleur-original-63",
+    "theme": "comics",
+    "text": "Dans un comics officiel de 1978, quel sportif bat Superman à la boxe alors que celui-ci est privé de ses pouvoirs ?",
+    "answer": "Muhammad Ali",
+    "wrong": [
+      "Joe Frazier",
+      "George Foreman",
+      "Rocky Marciano"
+    ],
+    "explanation": "Dans Superman vs. Muhammad Ali, ils doivent départager le champion de la Terre avant de faire face à des extraterrestres.",
+    "source": "https://www.dc.com/blog/2025/07/17/only-human-eight-times-superman-lost-his-powers"
+  },
+  {
+    "id": "souffleur-original-64",
+    "theme": "comics",
+    "text": "Pourquoi Batman porte-t-il des costumes de couleurs vives, puis un costume arc-en-ciel, dans Detective Comics nº 241 ?",
+    "answer": "Pour détourner l’attention du bras blessé de Robin",
+    "wrong": [
+      "Pour signaler les différents crimes à la police",
+      "Pour tester une lessive inventée par Alfred",
+      "Pour empêcher le Joker de reconnaître son visage"
+    ],
+    "explanation": "Dick Grayson s’est blessé au bras en public. Batman attire les regards pour éviter qu’on remarque la même blessure chez Robin.",
+    "source": "https://dc.fandom.com/wiki/Detective_Comics_Vol_1_241"
+  },
+  {
+    "id": "souffleur-original-65",
+    "theme": "comics",
+    "text": "Dans Lobo’s Back, quelle sanction l’au-delà inflige-t-il à Lobo après ses ravages ?",
+    "answer": "Il est banni à la fois du Paradis et de l’Enfer",
+    "wrong": [
+      "Il doit devenir ange gardien d’un bébé",
+      "Il est condamné à vendre des fleurs",
+      "Il doit abandonner sa moto pour une trottinette"
+    ],
+    "explanation": "Les deux camps ne veulent plus de lui : son exclusion de l’au-delà devient une explication comique de son immortalité.",
+    "source": "https://www.dc.com/blog/2026-03-18/upping-the-anti-skottie-young-discusses-the-return-of-the-main-man"
+  },
+  {
+    "id": "souffleur-original-66",
+    "theme": "comics",
+    "text": "Dans Spidey Super Stories, à quoi ressemble l’ennemi de Spider-Man nommé The Wall ?",
+    "answer": "Un mur de briques avec des jambes",
+    "wrong": [
+      "Un homme fait de portes blindées",
+      "Un ballon géant couvert de ciment",
+      "Une cabine téléphonique vivante"
+    ],
+    "explanation": "Joshua Waldemeyer devient littéralement un mur ambulant : un adversaire particulièrement absurde de Spider-Man.",
+    "source": "https://vsbattles.fandom.com/wiki/The_Wall_(Electric_Company)"
+  },
+  {
+    "id": "souffleur-original-67",
+    "theme": "odd",
+    "text": "Au zoo d’Édimbourg, quel animal nommé Nils Olav a réellement été fait chevalier ?",
+    "answer": "Un manchot royal",
+    "wrong": [
+      "Un orang-outan",
+      "Un lama",
+      "Une tortue géante"
+    ],
+    "explanation": "Nils Olav est la mascotte de la garde royale norvégienne. Un de ses prédécesseurs a été anobli en 2008.",
+    "source": "https://www.edinburghzoo.org.uk/news/hrh-princess-royal-meets-worlds-only-knighted-penguin"
+  },
+  {
+    "id": "souffleur-original-68",
+    "theme": "odd",
+    "text": "Combien de temps Mike, le célèbre poulet décapité en 1945, a-t-il survécu après avoir perdu l’essentiel de sa tête ?",
+    "answer": "Environ 18 mois",
+    "wrong": [
+      "Environ 18 secondes",
+      "Environ 18 minutes",
+      "Environ 18 heures"
+    ],
+    "explanation": "Une partie essentielle de son tronc cérébral avait été épargnée. Nourri par son propriétaire, Mike a survécu un an et demi.",
+    "source": "https://www.guinnessworldrecords.com/world-records/74471-longest-surviving-headless-chicken"
+  },
+  {
+    "id": "souffleur-original-69",
+    "theme": "odd",
+    "text": "Quel comportement a été filmé chez des poulpes qui chassent avec des poissons ?",
+    "answer": "Ils donnent parfois des coups de bras aux poissons",
+    "wrong": [
+      "Ils coiffent les poissons avec des algues",
+      "Ils empilent les poissons comme des briques",
+      "Ils se font tirer par les poissons avec une corde d’algues"
+    ],
+    "explanation": "Des chercheurs ont documenté ces coups pendant des chasses en groupe. Leur fonction exacte dépend du contexte.",
+    "source": "https://openoceanproject.org/assets/ecy.32663.pdf"
+  },
+  {
+    "id": "souffleur-original-70",
+    "theme": "odd",
+    "text": "Que peut-on enregistrer lorsqu’on chatouille un rat dans des conditions de jeu adaptées ?",
+    "answer": "Des ultrasons souvent décrits comme un rire",
+    "wrong": [
+      "Le bruit de ses dents qui chantent une mélodie",
+      "Des mots humains imités très lentement",
+      "Un sifflement audible à plusieurs kilomètres"
+    ],
+    "explanation": "Les rats peuvent émettre des vocalisations proches de 50 kHz, inaudibles pour nous, associées au jeu et comparées à du rire.",
+    "source": "https://www.amnh.org/explore/news-blogs/rodent-vocalization-behavior"
+  },
+  {
+    "id": "souffleur-original-71",
+    "theme": "odd",
+    "text": "Quels petits animaux participent traditionnellement à l’affinage du fromage allemand Milbenkäse ?",
+    "answer": "Des acariens",
+    "wrong": [
+      "Des fourmis",
+      "Des escargots",
+      "Des vers de terre"
+    ],
+    "explanation": "Ce fromage est affiné avec des acariens du fromage, dont l’activité contribue à sa transformation.",
+    "source": "https://www.sciencedirect.com/science/article/pii/S0022030210003644"
+  },
+  {
+    "id": "souffleur-original-72",
+    "theme": "odd",
+    "text": "Comment des harengs produisent-ils les sons baptisés FRT par des chercheurs ?",
+    "answer": "En expulsant des bulles par la région anale",
+    "wrong": [
+      "En claquant leurs dents",
+      "En faisant vibrer leurs écailles comme des castagnettes",
+      "En frappant des coquillages avec leur queue"
+    ],
+    "explanation": "Les vidéos associent ces séries de sons à des bulles expulsées par le conduit anal. Leur rôle possible dans la communication est étudié.",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/15101430/"
   }
 ]
