@@ -1,0 +1,626 @@
+[
+  {
+    "id": "v2-anime-11",
+    "theme": "anime",
+    "text": "Dans Hunter × Hunter, quelle famille de Nen correspond naturellement à Kurapika hors yeux écarlates ?",
+    "answer": "La matérialisation",
+    "wrong": [
+      "La transformation",
+      "L'émission",
+      "La manipulation"
+    ],
+    "explanation": "La matérialisation est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-anime-14",
+    "theme": "anime",
+    "text": "Dans Bleach, quel est le nom du zanpakutō de Rukia ?",
+    "answer": "Sode no Shirayuki",
+    "wrong": [
+      "Senbonzakura",
+      "Haineko",
+      "Suzumushi"
+    ],
+    "explanation": "Sode no Shirayuki est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-anime-18",
+    "theme": "anime",
+    "text": "Dans JoJo: Diamond Is Unbreakable, quel Stand possède Rohan Kishibe ?",
+    "answer": "Heaven's Door",
+    "wrong": [
+      "Crazy Diamond",
+      "Killer Queen",
+      "Echoes"
+    ],
+    "explanation": "Heaven's Door est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-anime-26",
+    "theme": "anime",
+    "text": "Dans Hunter × Hunter, quel numéro de Crazy Slots correspond à la faux de Kite ?",
+    "answer": "2",
+    "wrong": [
+      "3",
+      "4",
+      "9"
+    ],
+    "explanation": "2 est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-anime-27",
+    "theme": "anime",
+    "text": "Dans Fullmetal Alchemist: Brotherhood, quel alchimiste d'État est surnommé l'Alchimiste écarlate ?",
+    "answer": "Solf J. Kimblee",
+    "wrong": [
+      "Basque Grand",
+      "Shou Tucker",
+      "Isaac McDougal"
+    ],
+    "explanation": "Solf J. Kimblee est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-anime-29",
+    "theme": "anime",
+    "text": "Dans JoJo: Golden Wind, quel est le Stand de Leone Abbacchio ?",
+    "answer": "Moody Blues",
+    "wrong": [
+      "Purple Haze",
+      "Aerosmith",
+      "Soft Machine"
+    ],
+    "explanation": "Moody Blues est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-anime-31",
+    "theme": "anime",
+    "text": "Dans Hunter × Hunter, quel nom porte la capacité de Chrollo qui vole les pouvoirs ?",
+    "answer": "Skill Hunter",
+    "wrong": [
+      "Emperor Time",
+      "Godspeed",
+      "Bungee Gum"
+    ],
+    "explanation": "Skill Hunter est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-anime-32",
+    "theme": "anime",
+    "text": "Dans Fullmetal Alchemist: Brotherhood, quel est le prénom de la sœur du commandant Armstrong ?",
+    "answer": "Olivier",
+    "wrong": [
+      "Rebecca",
+      "Maria",
+      "Gracia"
+    ],
+    "explanation": "Olivier est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-anime-35",
+    "theme": "anime",
+    "text": "Dans Yu Yu Hakusho, quel ancien bandit démoniaque est réincarné en Shūichi Minamino ?",
+    "answer": "Kurama",
+    "wrong": [
+      "Hiei",
+      "Yomi",
+      "Raizen"
+    ],
+    "explanation": "Kurama est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-anime-37",
+    "theme": "anime",
+    "text": "Dans Akira, quel est le numéro attribué à Akira ?",
+    "answer": "28",
+    "wrong": [
+      "19",
+      "25",
+      "26"
+    ],
+    "explanation": "28 est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-anime-39",
+    "theme": "anime",
+    "text": "Dans Gurren Lagann, quel nom porte le roi des spirales ?",
+    "answer": "Lordgenome",
+    "wrong": [
+      "Viral",
+      "Thymilph",
+      "Rossiu"
+    ],
+    "explanation": "Lordgenome est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-anime-40",
+    "theme": "anime",
+    "text": "Dans Fate/Zero, quel héros historique est invoqué comme Rider ?",
+    "answer": "Alexandre le Grand",
+    "wrong": [
+      "Gilgamesh",
+      "Lancelot",
+      "Diarmuid Ua Duibhne"
+    ],
+    "explanation": "Alexandre le Grand est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-onepiece-11",
+    "theme": "anime",
+    "text": "Dans One Piece, quel est le véritable nom de Franky ?",
+    "answer": "Cutty Flam",
+    "wrong": [
+      "Iceburg",
+      "Tom",
+      "Den"
+    ],
+    "explanation": "Cutty Flam est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-onepiece-14",
+    "theme": "anime",
+    "text": "Dans One Piece, quel membre du CP9 se transforme en girafe ?",
+    "answer": "Kaku",
+    "wrong": [
+      "Jabra",
+      "Blueno",
+      "Kumadori"
+    ],
+    "explanation": "Kaku est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-onepiece-26",
+    "theme": "anime",
+    "text": "Dans One Piece, quel nom porte l'épée de Trafalgar Law ?",
+    "answer": "Kikoku",
+    "wrong": [
+      "Gryphon",
+      "Napoléon",
+      "Durandal"
+    ],
+    "explanation": "Kikoku est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-onepiece-28",
+    "theme": "anime",
+    "text": "Dans One Piece, quel navire de Roger a été construit par Tom ?",
+    "answer": "Oro Jackson",
+    "wrong": [
+      "Moby Dick",
+      "Great Eirik",
+      "Red Force"
+    ],
+    "explanation": "Oro Jackson est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-naruto-14",
+    "theme": "anime",
+    "text": "Dans Naruto, qui a créé l'Edo Tensei ?",
+    "answer": "Tobirama Senju",
+    "wrong": [
+      "Orochimaru",
+      "Kabuto Yakushi",
+      "Hiruzen Sarutobi"
+    ],
+    "explanation": "Tobirama Senju est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-naruto-26",
+    "theme": "anime",
+    "text": "Dans Naruto, quel est le nom du père de Kakashi ?",
+    "answer": "Sakumo Hatake",
+    "wrong": [
+      "Dai Hatake",
+      "Dan Hatake",
+      "Shin Hatake"
+    ],
+    "explanation": "Sakumo Hatake est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-naruto-30",
+    "theme": "anime",
+    "text": "Dans Naruto, quel nom porte le crapaud âgé qui forme Naruto au senjutsu avec Shima ?",
+    "answer": "Fukasaku",
+    "wrong": [
+      "Gamamaru",
+      "Gamabunta",
+      "Gamahiro"
+    ],
+    "explanation": "Fukasaku est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-naruto-34",
+    "theme": "anime",
+    "text": "Dans Naruto, comment se nomme le frère cadet de Madara Uchiha ?",
+    "answer": "Izuna",
+    "wrong": [
+      "Itama",
+      "Kawarama",
+      "Tajima"
+    ],
+    "explanation": "Izuna est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-pokemon-11",
+    "theme": "games",
+    "text": "Quel talent permet à Munja d'être touché directement seulement par des attaques super efficaces ?",
+    "answer": "Garde Mystik",
+    "wrong": [
+      "Fermeté",
+      "Garde Magik",
+      "Multiécaille"
+    ],
+    "explanation": "Garde Mystik est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-pokemon-18",
+    "theme": "games",
+    "text": "Quel Pokémon change de forme avec le talent Déclic Tactique ?",
+    "answer": "Exagide",
+    "wrong": [
+      "Darumacho",
+      "Meloetta",
+      "Deoxys"
+    ],
+    "explanation": "Exagide est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-pokemon-26",
+    "theme": "games",
+    "text": "Quel objet doit tenir Hypocéan lors d'un échange pour évoluer en Hyporoi ?",
+    "answer": "Écaille Draco",
+    "wrong": [
+      "Croc Dragon",
+      "Écaille Cœur",
+      "Dent Océan"
+    ],
+    "explanation": "Écaille Draco est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-pokemon-29",
+    "theme": "games",
+    "text": "Quel talent empêche l'utilisation de Baies par les Pokémon adverses ?",
+    "answer": "Tension",
+    "wrong": [
+      "Pression",
+      "Nervosité",
+      "Infiltration"
+    ],
+    "explanation": "Tension est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-pokemon-32",
+    "theme": "games",
+    "text": "Dans Pokémon Diamant et Perle, quel objet permet de faire évoluer Rhinoféros par échange ?",
+    "answer": "Protecteur",
+    "wrong": [
+      "Roche Royale",
+      "Peau Métal",
+      "Pierre Dure"
+    ],
+    "explanation": "Protecteur est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-pokemon-34",
+    "theme": "games",
+    "text": "Quel Pokémon possède naturellement le talent Lévitation dans les jeux de la troisième génération et le perd au profit de Corps Maudit à partir de la septième ?",
+    "answer": "Ectoplasma",
+    "wrong": [
+      "Smogogo",
+      "Kaorine",
+      "Archéodong"
+    ],
+    "explanation": "Ectoplasma est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-pokemon-35",
+    "theme": "games",
+    "text": "Quel Pokémon faut-il avoir dans l'équipe pour faire évoluer Babimanta en montant de niveau ?",
+    "answer": "Rémoraid",
+    "wrong": [
+      "Octillery",
+      "Démanta",
+      "Poissirène"
+    ],
+    "explanation": "Rémoraid est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-pokemon-36",
+    "theme": "games",
+    "text": "Quel objet doit tenir Porygon2 lors d'un échange pour évoluer en Porygon-Z ?",
+    "answer": "CD Douteux",
+    "wrong": [
+      "Améliorator",
+      "Disque Techno",
+      "Module Choc"
+    ],
+    "explanation": "CD Douteux est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-series-26",
+    "theme": "screen",
+    "text": "Dans Breaking Bad, quel livre de Walt Whitman dédicacé par Gale est retrouvé par Hank ?",
+    "answer": "Leaves of Grass",
+    "wrong": [
+      "Drum-Taps",
+      "Calamus",
+      "Specimen Days"
+    ],
+    "explanation": "Leaves of Grass est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-series-31",
+    "theme": "screen",
+    "text": "Dans Dark, quel horloger écrit Un voyage à travers le temps ?",
+    "answer": "H. G. Tannhaus",
+    "wrong": [
+      "Noah",
+      "Claudia Tiedemann",
+      "Bernd Doppler"
+    ],
+    "explanation": "H. G. Tannhaus est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-series-33",
+    "theme": "screen",
+    "text": "Dans The Office US, quel est le nom du film d'action amateur de Michael Scott ?",
+    "answer": "Threat Level Midnight",
+    "wrong": [
+      "Agent Michael Scarn",
+      "Goldenface",
+      "Midnight Protocol"
+    ],
+    "explanation": "Threat Level Midnight est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-series-37",
+    "theme": "screen",
+    "text": "Dans Sherlock, quel pseudonyme Moriarty emploie-t-il pour prétendre être un acteur payé par Sherlock ?",
+    "answer": "Richard Brook",
+    "wrong": [
+      "Jim Brooks",
+      "James Sholto",
+      "Charles Magnussen"
+    ],
+    "explanation": "Richard Brook est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-films-15",
+    "theme": "screen",
+    "text": "Dans Alien, comment s'appelle le vaisseau commercial du premier film ?",
+    "answer": "Nostromo",
+    "wrong": [
+      "Sulaco",
+      "Prometheus",
+      "Covenant"
+    ],
+    "explanation": "Nostromo est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-films-25",
+    "theme": "screen",
+    "text": "Quel est le nom de famille du personnage principal joué par Jim Carrey dans The Truman Show ?",
+    "answer": "Burbank",
+    "wrong": [
+      "Carrey",
+      "Braddock",
+      "Barish"
+    ],
+    "explanation": "Burbank est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-films-30",
+    "theme": "screen",
+    "text": "Dans 2001, l'Odyssée de l'espace, quel astronaute affronte HAL 9000 ?",
+    "answer": "Dave Bowman",
+    "wrong": [
+      "Frank Poole",
+      "Heywood Floyd",
+      "Charles Hunter"
+    ],
+    "explanation": "Dave Bowman est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "v2-films-32",
+    "theme": "screen",
+    "text": "Dans Memento, quel est le nom de famille de Leonard ?",
+    "answer": "Shelby",
+    "wrong": [
+      "Dodd",
+      "Gammell",
+      "Jenkins"
+    ],
+    "explanation": "Shelby est la bonne réponse.",
+    "source": null
+  },
+  {
+    "id": "insolite-1",
+    "theme": "screen",
+    "text": "Dans WALL·E, comment les bruitages des pas du cafard ont-ils été produits ?",
+    "answer": "Avec des menottes",
+    "wrong": [
+      "Avec du papier aluminium",
+      "Avec des touches de clavier",
+      "Avec des grains de riz"
+    ],
+    "explanation": "Le bruit des pas du cafard vient d’un enregistrement de menottes.",
+    "source": "https://news.disney.com/fun-facts-wall-e-sound"
+  },
+  {
+    "id": "insolite-2",
+    "theme": "screen",
+    "text": "Dans WALL·E, quel est le nom du cafard qui accompagne le robot ?",
+    "answer": "Hal",
+    "wrong": [
+      "Moe",
+      "Otto",
+      "Benny"
+    ],
+    "explanation": "Le compagnon de WALL·E s’appelle Hal.",
+    "source": "https://movies.disney.com/wall-e"
+  },
+  {
+    "id": "insolite-3",
+    "theme": "screen",
+    "text": "Dans Lilo & Stitch, le dessin animé de 2002, pourquoi Lilo nourrit-elle un poisson ?",
+    "answer": "Elle pense qu’il contrôle la météo",
+    "wrong": [
+      "Elle pense que c’est son grand-père réincarné",
+      "Elle prépare un concours de pêche",
+      "Elle veut qu’il lui rapporte des coquillages"
+    ],
+    "explanation": "Lilo croit que le poisson contrôle la météo et lui apporte un sandwich chaque jeudi.",
+    "source": "https://disney.fandom.com/wiki/Pudge"
+  },
+  {
+    "id": "insolite-4",
+    "theme": "screen",
+    "text": "Dans Lilo & Stitch (2002), que contient le sandwich que Lilo donne au poisson ?",
+    "answer": "Du beurre de cacahuète",
+    "wrong": [
+      "Du thon",
+      "Du fromage",
+      "De la confiture de fraises"
+    ],
+    "explanation": "C’est un sandwich au beurre de cacahuète. Lilo refuse de donner du thon à un poisson.",
+    "source": "https://disney.fandom.com/wiki/Pudge"
+  },
+  {
+    "id": "insolite-5",
+    "theme": "screen",
+    "text": "Dans Encanto, avec quels animaux Bruno monte-t-il ses petits feuilletons ?",
+    "answer": "Des rats",
+    "wrong": [
+      "Des souris blanches",
+      "Des lézards",
+      "Des cafards"
+    ],
+    "explanation": "Bruno met en scène des feuilletons avec les rats qui lui tiennent compagnie.",
+    "source": "https://assets.scriptslug.com/live/pdf/scripts/encanto-2021.pdf"
+  },
+  {
+    "id": "insolite-6",
+    "theme": "comics",
+    "text": "Dans Amazing Spider-Man nº 258, Peter cache son identité avec quel accessoire improvisé ?",
+    "answer": "Un sac en papier",
+    "wrong": [
+      "Une boîte de céréales",
+      "Un casque de moto",
+      "Une cagoule de ski"
+    ],
+    "explanation": "Il porte une tenue des Quatre Fantastiques et un sac en papier sur la tête : le Bombastic Bag-Man.",
+    "source": "https://blog.playstation.com/archive/2019/09/02/the-secret-history-of-marvels-spider-man-suits-as-told-by-insomniac-artists"
+  },
+  {
+    "id": "insolite-7",
+    "theme": "comics",
+    "text": "À la fin d’Amazing Spider-Man nº 100 (1971), combien de bras Peter Parker a-t-il au total ?",
+    "answer": "Six",
+    "wrong": [
+      "Quatre",
+      "Huit",
+      "Dix"
+    ],
+    "explanation": "Une tentative pour supprimer ses pouvoirs lui fait pousser quatre bras supplémentaires : six au total.",
+    "source": "https://en.wikipedia.org/wiki/The_Six_Arms_Saga"
+  },
+  {
+    "id": "insolite-8",
+    "theme": "comics",
+    "text": "Quelle version animale de Loki a réellement eu son propre comic Marvel en 2023 ?",
+    "answer": "Un alligator",
+    "wrong": [
+      "Un ornithorynque",
+      "Une hyène",
+      "Un paon"
+    ],
+    "explanation": "Alligator Loki a eu un comic papier à son nom en 2023, après ses aventures numériques.",
+    "source": "https://www.marvel.com/comics/issue/112411/alligator_loki_2023_1"
+  },
+  {
+    "id": "insolite-9",
+    "theme": "games",
+    "text": "Sur la jaquette occidentale du premier Kirby’s Dream Land sur Game Boy, de quelle couleur Kirby est-il représenté ?",
+    "answer": "Blanc",
+    "wrong": [
+      "Rose",
+      "Jaune",
+      "Bleu"
+    ],
+    "explanation": "La jaquette occidentale le représentait en blanc, contrairement à la jaquette japonaise rose.",
+    "source": "https://en.wikipedia.org/wiki/Kirby_(series)"
+  },
+  {
+    "id": "insolite-10",
+    "theme": "games",
+    "text": "Quel nom complet est attribué à Yoshi dans un guide Nintendo américain de 1993 ?",
+    "answer": "T. Yoshisaur Munchakoopas",
+    "wrong": [
+      "Yoshimoto Greenbelly",
+      "Yoshisaurus Rex",
+      "Yoshi Koopa Junior"
+    ],
+    "explanation": "Ce guide de personnages de 1993 donne le nom T. Yoshisaur Munchakoopas.",
+    "source": "https://www.gamespot.com/articles/yoshis-full-name-is-not-yoshi-according-to-1993-ni/1100-6421541/"
+  },
+  {
+    "id": "insolite-11",
+    "theme": "games",
+    "text": "Dans Minecraft, quel objet porté sur la tête permet de regarder un Enderman sans le provoquer par le regard ?",
+    "answer": "Une citrouille sculptée",
+    "wrong": [
+      "Un casque en or",
+      "Une tête de squelette",
+      "Une carapace de tortue"
+    ],
+    "explanation": "La citrouille sculptée empêche la provocation par le regard ; elle ne calme pas un Enderman déjà hostile.",
+    "source": "https://minecraft.wiki/w/Enderman"
+  },
+  {
+    "id": "insolite-12",
+    "theme": "odd",
+    "text": "Quel animal produit naturellement des crottes en forme de petits cubes ?",
+    "answer": "Le wombat",
+    "wrong": [
+      "Le koala",
+      "Le castor",
+      "Le capybara"
+    ],
+    "explanation": "Les excréments du wombat prennent une forme cubique dans son intestin.",
+    "source": "https://www.smithsonianmag.com/smart-news/why-wombats-make-cube-shaped-poos-180970847/"
+  }
+]
