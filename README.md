@@ -140,7 +140,7 @@ Les sauvegardes v2 sont indépendantes pour les deux listes ; la sauvegarde v1 r
 
 ### Mercato manga
 
-`/mercato` : 2 à 12 joueurs répartis en deux équipes, un joueur sur le terrain par équipe, avec rotation croisée des duels. Budget identique de 100, 200 ou 500 crédits ; cinq recrues uniques par équipe. 1 009 portraits intégrés, dont 615 Pokémon, univers cumulables (minimum 10 personnages pour lancer). Tirage aléatoire privé, enchères alternées sans chrono, passe définitive pour le personnage, paiement à l’adjudication. Un crédit réservé par place vide. Équipes complètes exclues des enchères ; quand les cartes restantes égalent les places vides, première offre obligatoire pour garantir la fin. L’hôte enregistre le gagnant du débat ou une égalité, sans calcul automatique de puissance. Reconnexion, transfert de l’hôte aux membres connectés, pause si un joueur du duel est absent. Les coéquipiers ne peuvent pas miser et doivent garder le silence. Les futurs portraits ne sont jamais envoyés aux clients.
+`/mercato` : 2 à 12 joueurs répartis en deux équipes, un joueur sur le terrain par équipe, avec rotation croisée des duels. Budget identique de 100, 200 ou 500 crédits ; cinq recrues uniques par équipe. 2 866 portraits intégrés dans 37 univers, dont 615 Pokémon, univers cumulables (minimum 10 personnages pour lancer). Tirage aléatoire privé, enchères alternées sans chrono, passe définitive pour le personnage, paiement à l’adjudication. Un crédit réservé par place vide. Équipes complètes exclues des enchères ; quand les cartes restantes égalent les places vides, première offre obligatoire pour garantir la fin. L’hôte enregistre le gagnant du débat ou une égalité, sans calcul automatique de puissance. Reconnexion, transfert de l’hôte aux membres connectés, pause si un joueur du duel est absent. Les coéquipiers ne peuvent pas miser et doivent garder le silence. Les futurs portraits ne sont jamais envoyés aux clients.
 
 ### Le Souffleur
 
@@ -155,3 +155,4 @@ Mon perso fait mieux : le MJ est sélectionnable avant lancement. Tout changemen
 
 ### Top 100
 `/top100` : 2–12 joueurs, 200 questions sourcées, 7 catégories et 5/10/15/20 manches. Estimations privées de 1 à 100, verrouillées à validation ; révélation lorsque tous répondent. Plus proche : 1 point ; rang exact : 3 points au total. Ex æquo récompensés. Sources et périodes à la correction, aucun bonus de rapidité. Aucun doublon dans le salon, y compris après rejeu ; catégories alternées. Reconnexion privée, transfert de l’hôte, passage explicite des absents sans points. Banque et réponses futures non exposées par HTTP.
+
