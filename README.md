@@ -152,3 +152,6 @@ Mon perso fait mieux : le MJ est sélectionnable avant lancement. Tout changemen
 
 ### Classe secrète
 `/classe` : jeu coopératif à 3–12 joueurs. Un nombre unique entre 1 et 100 est attribué secrètement à chacun. Un personnage libre sert d’indice sur le thème choisi (26 thèmes, mélange sans répétition ou thème personnalisé). Les noms et portraits sont révélés après tous les choix. Chacun déplace sa propre carte, du plus faible au plus fort ; chaque mouvement annule les confirmations. Révélation par l’hôte après accord de tous : résultat, comparaisons réussies, bon ordre et total collectif sur 3, 5 ou 10 manches. Nombres des autres privés jusqu’au résultat, reconnexion par jeton, transfert de l’hôte et attente des absents. Sans chrono ni bonus de rapidité.
+
+### Top 100
+`/top100` : 2–12 joueurs, 200 questions sourcées, 7 catégories et 5/10/15/20 manches. Estimations privées de 1 à 100, verrouillées à validation ; révélation lorsque tous répondent. Plus proche : 1 point ; rang exact : 3 points au total. Ex æquo récompensés. Sources et périodes à la correction, aucun bonus de rapidité. Aucun doublon dans le salon, y compris après rejeu ; catégories alternées. Reconnexion privée, transfert de l’hôte, passage explicite des absents sans points. Banque et réponses futures non exposées par HTTP.
