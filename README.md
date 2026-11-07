@@ -156,3 +156,6 @@ Mon perso fait mieux : le MJ est sélectionnable avant lancement. Tout changemen
 ### Top 100
 `/top100` : 2–12 joueurs, 200 questions sourcées, 7 catégories et 5/10/15/20 manches. Estimations privées de 1 à 100, verrouillées à validation ; révélation lorsque tous répondent. Plus proche : 1 point ; rang exact : 3 points au total. Ex æquo récompensés. Sources et périodes à la correction, aucun bonus de rapidité. Aucun doublon dans le salon, y compris après rejeu ; catégories alternées. Reconnexion privée, transfert de l’hôte, passage explicite des absents sans points. Banque et réponses futures non exposées par HTTP.
 
+
+### T’as ça, MAIS…
+`/mais` : 3 à 12 joueurs, 1/3/5 manches. Trois rôles distincts par création : destinataire connu des deux auteurs, proposition puis contrepartie rédigées simultanément par tout le monde. Textes privés avant révélation, auteurs jamais affichés, votes secrets Je prends/Je refuse, récapitulatif sans points. Reconnexion et passage explicite des absents.
