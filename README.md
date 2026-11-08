@@ -159,3 +159,6 @@ Mon perso fait mieux : le MJ est sélectionnable avant lancement. Tout changemen
 
 ### T’as ça, MAIS…
 `/mais` : 3 à 12 joueurs, 1/3/5 manches. Trois rôles distincts par création : destinataire connu des deux auteurs, proposition puis contrepartie rédigées simultanément par tout le monde. Textes privés avant révélation, auteurs jamais affichés, votes secrets Je prends/Je refuse, récapitulatif sans points. Reconnexion et passage explicite des absents.
+
+### Le Relais pop
+`/relais` : adaptation libre de la chaîne de références, 2–12 joueurs, départ libre ou 24 suggestions. À son tour, nommer une référence pop et expliquer un lien concret avec la précédente. Arbitrage humain explicite par votes secrets des autres joueurs (éliminés inclus), majorité, égalité favorable à la proposition. Noms déjà joués normalisés et interdits ; alias arbitrés par le groupe. Deux vies, refus ou passage coûte une vie, dernier survivant gagnant. Historique de chaîne, reconnexion, transfert hôte et passage des absents. Aucun chrono, aucune prétendue validation factuelle automatique.
