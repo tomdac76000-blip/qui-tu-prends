@@ -162,3 +162,6 @@ Mon perso fait mieux : le MJ est sélectionnable avant lancement. Tout changemen
 
 ### Le Relais pop
 `/relais` : adaptation libre de la chaîne de références, 2–12 joueurs, départ libre ou 24 suggestions. À son tour, nommer une référence pop et expliquer un lien concret avec la précédente. Arbitrage humain explicite par votes secrets des autres joueurs (éliminés inclus), majorité, égalité favorable à la proposition. Noms déjà joués normalisés et interdits ; alias arbitrés par le groupe. Deux vies, refus ou passage coûte une vie, dernier survivant gagnant. Historique de chaîne, reconnexion, transfert hôte et passage des absents. Aucun chrono, aucune prétendue validation factuelle automatique.
+
+## Pense pas comme moi — /pense
+3–12 joueurs, meneur sélectionnable, réponses secrètes puis arbitrage des équivalences par le meneur. Même réponse : élimination des survivants, retour des éliminés jusqu’à Q15 incluse. Fin dès Q15 à 0/1 survivant, plafond Q30 avec victoire partagée. Thèmes originaux sans répétition dans un salon.
