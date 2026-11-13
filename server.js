@@ -1,3 +1,4 @@
+import { installRanking, rankingCharacters } from './ranking-server.js';
 import { installPense } from './pense-server.js';
 import { installRelais } from './relais-server.js';
 import { installMais } from './mais-server.js';
@@ -23,8 +24,11 @@ const categories = [];
 export function createGameServer({roundMs = 30000, tierMs = 60000, quizOptions = {}} = {}) {
   const app = express(), http = createServer(app), io = new Server(http, {maxHttpBufferSize: 64000});
   const rooms = new Map();
-  const arcade=installArcade(io), skyjo=installSkyjo(io), quiz=installQuiz(io,quizOptions), undercover=installUndercover(io), perso=installPerso(io), mercato=installMercato(io), souffleur=installSouffleur(io), classe=installClasse(io), top100=installTop100(io), mais=installMais(io), relais=installRelais(io), pense=installPense(io);
+  const arcade=installArcade(io), skyjo=installSkyjo(io), quiz=installQuiz(io,quizOptions), undercover=installUndercover(io), perso=installPerso(io), mercato=installMercato(io), souffleur=installSouffleur(io), classe=installClasse(io), top100=installTop100(io), mais=installMais(io), relais=installRelais(io), pense=installPense(io), ranking=installRanking(io);
   installQuizMedia(app);
+  app.get('/ranking',(_,res)=>res.sendFile(fileURLToPath(new URL('./ranking.html',import.meta.url))));
+  for(const f of ['ranking.js','ranking.css'])app.get('/'+f,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+f,import.meta.url))));
+  app.get('/ranking/image/:id',(req,res)=>{const c=rankingCharacters.find(c=>c.id===req.params.id);if(!c)return res.sendStatus(404);const match=/^data:([^;]+);base64,(.+)$/.exec(c.image);if(!match)return res.sendStatus(404);res.set('Cache-Control','public, max-age=86400').type(match[1]).send(Buffer.from(match[2],'base64'));});
   app.get('/pense',(_,res)=>res.sendFile(fileURLToPath(new URL('./pense.html',import.meta.url))));
   for(const f of ['pense.js','pense.css'])app.get('/'+f,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+f,import.meta.url))));
   app.get('/relais',(_,res)=>res.sendFile(fileURLToPath(new URL('./relais.html',import.meta.url))));
@@ -166,7 +170,7 @@ export function createGameServer({roundMs = 30000, tierMs = 60000, quizOptions =
     socket.on('disconnect',()=>{clearInterval(rate);detach(socket);});
   });
   const cleanup=setInterval(()=>{for(const [code,r] of rooms)if(!connected(r).length&&Date.now()-r.touched>3600000){clearTimeout(r.timer);rooms.delete(code);}},60000);cleanup.unref();
-  return {app,http,io,rooms,arcade,skyjo,quiz,undercover,perso,mercato,souffleur,classe,top100,mais,relais,pense,close:()=>{pense.close();relais.close();mais.close();top100.close();souffleur.close();classe.close();mercato.close();perso.close();undercover.close();quiz.close();skyjo.close();arcade.close();clearInterval(cleanup);for(const r of rooms.values())clearTimeout(r.timer);io.close();http.close();}};
+  return {app,http,io,rooms,arcade,skyjo,quiz,undercover,perso,mercato,souffleur,classe,top100,mais,relais,pense,ranking,close:()=>{ranking.close();pense.close();relais.close();mais.close();top100.close();souffleur.close();classe.close();mercato.close();perso.close();undercover.close();quiz.close();skyjo.close();arcade.close();clearInterval(cleanup);for(const r of rooms.values())clearTimeout(r.timer);io.close();http.close();}};
 }
 if(process.argv[1]===fileURLToPath(import.meta.url)) {const {http}=createGameServer();http.listen(Number(process.env.PORT)||3000,'0.0.0.0',()=>console.log('Qui tu prends ? prêt sur le port '+(process.env.PORT||3000)));}
 

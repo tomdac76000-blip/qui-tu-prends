@@ -165,3 +165,6 @@ Mon perso fait mieux : le MJ est sélectionnable avant lancement. Tout changemen
 
 ## Pense pas comme moi — /pense
 3–12 joueurs, meneur sélectionnable, réponses secrètes puis arbitrage des équivalences par le meneur. Même réponse : élimination des survivants, retour des éliminés jusqu’à Q15 incluse. Fin dès Q15 à 0/1 survivant, plafond Q30 avec victoire partagée. Thèmes originaux sans répétition dans un salon.
+
+## Power Ranking — /ranking
+Classement collectif à l’aveugle, 1–12 joueurs, 10/25/50 cartes (50 par défaut), 59 portraits intégrés. Rotation à chaque placement. Places verrouillées puis cinq échanges maximum, fin anticipée possible. Prochaines cartes jamais transmises. Aucun score de puissance officiel. Export PNG du classement final.
