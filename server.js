@@ -27,7 +27,7 @@ export function createGameServer({roundMs = 30000, tierMs = 60000, quizOptions =
   const arcade=installArcade(io), skyjo=installSkyjo(io), quiz=installQuiz(io,quizOptions), undercover=installUndercover(io), perso=installPerso(io), mercato=installMercato(io), souffleur=installSouffleur(io), classe=installClasse(io), top100=installTop100(io), mais=installMais(io), relais=installRelais(io), pense=installPense(io), ranking=installRanking(io);
   installQuizMedia(app);
   app.get('/ranking',(_,res)=>res.sendFile(fileURLToPath(new URL('./ranking.html',import.meta.url))));
-  for(const f of ['ranking.js','ranking.css'])app.get('/'+f,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+f,import.meta.url))));
+  for(const f of ['ranking.js','ranking.css','arena.js','arena.css'])app.get('/'+f,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+f,import.meta.url))));
   app.get('/ranking/image/:id',(req,res)=>{const c=rankingCharacters.find(c=>c.id===req.params.id);if(!c)return res.sendStatus(404);const match=/^data:([^;]+);base64,(.+)$/.exec(c.image);if(!match)return res.sendStatus(404);res.set('Cache-Control','public, max-age=86400').type(match[1]).send(Buffer.from(match[2],'base64'));});
   app.get('/pense',(_,res)=>res.sendFile(fileURLToPath(new URL('./pense.html',import.meta.url))));
   for(const f of ['pense.js','pense.css'])app.get('/'+f,(_,res)=>res.sendFile(fileURLToPath(new URL('./'+f,import.meta.url))));
